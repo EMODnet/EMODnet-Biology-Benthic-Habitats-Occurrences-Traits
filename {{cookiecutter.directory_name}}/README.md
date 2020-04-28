@@ -4,6 +4,18 @@
 
 ## Directory structure
 
+```
+{{cookiecutter.directory_name}}/
+├── analysis
+├── data/
+│   ├── derived_data/
+│   └── raw_data/
+│   	└── data.csv
+├── docs/
+├── product/
+└── scripts/
+```
+
 * **analysis** - Markdown or Jupyter notebooks
 * **data** - Raw and derived data
 * **docs** - Rendered reports
@@ -24,5 +36,5 @@ Raw data can be downloaded from EMODnet Biology using the following WFS request:
 
 ## Citation
 
-This product should be cited as:
+Please cite this product as:
 *{{cookiecutter.citation}}*

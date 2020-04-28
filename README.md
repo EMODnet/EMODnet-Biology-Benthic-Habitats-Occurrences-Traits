@@ -4,15 +4,27 @@ This repository contains a simple template for developing data products in the f
 
 ## Directory structure
 
+```
+{{cookiecutter.directory_name}}/
+├── analysis
+├── data/
+│   ├── derived_data/
+│   └── raw_data/
+│   	└── data.csv
+├── docs/
+├── product/
+└── scripts/
+```
+
 * **analysis** - R Markdown or Jupyter Notebooks
-* **data** - Raw and derived data
+* **data** - Raw and derived data. The original raw data must not be modified.
 * **docs** - Rendered reports
 * **product** - Output product files
 * **scripts** - Reusable code
 
 ## Getting started
 
-To start a project using this template, you need to install [cookiecutter](https://github.com/cookiecutter/cookiecutter) first. Run the following line in the command line to create a new project.
+To start a project using this template, you need to install [cookiecutter](https://github.com/cookiecutter/cookiecutter) first. Run the following statement in the command line to create a new project.
 
 ```bash
 $ cookiecutter https://github.com/salvafern/cookiecutter-emodnetbio-dataproduct

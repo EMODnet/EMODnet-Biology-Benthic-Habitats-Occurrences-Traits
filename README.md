@@ -39,7 +39,7 @@ This template will ask for the following input:
 * **directory_name:** The name of the new directory containing the project. It must not have spaces nor special characters. For example "zooplankton_abundance"
 * **project_name:** The name of the project in plain text. This will be added to the README.md file. For example "Ecological niche model of zooplankton abundance"
 * **project_description:** A short description about the project. It will be added to the README.md file.
-* **data_wfs_request:** This is the query of the data that will be extracted from EMODnet-Biology. You can use the [download toolbox]() to select the desired data. Once your query is ready, click on "Get webservice url" and copy the this link here. The data will be downloaded as .csv on ~/data/raw_data/. ![toolbox](https://github.com/salvafern/cookiecutter-emodnetbio-dataproduct/blob/master/toolbox_screenshot.png)
+* **data_wfs_request:** This is the query of the data that will be extracted from EMODnet-Biology. You can use the [download toolbox](https://www.emodnet-biology.eu/toolbox/en/download/occurrence/explore) to select the desired data. Once your query is ready, click on "Get webservice url" and copy the this link here. The data will be downloaded as .csv on ~/data/raw_data/. ![toolbox](https://github.com/salvafern/cookiecutter-emodnetbio-dataproduct/blob/master/toolbox_screenshot.png)
 * **citation:** Include here the preferred citation for the product. This can be edited afterwards.
 
 ## Contact

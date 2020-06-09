@@ -1,6 +1,6 @@
-# EMODnet Biology Data Products Cookiecutter
+# EMODnet Biology Project Template
 
-This repository contains a simple template for developing data products in the framework of [EMODnet Biology](https://www.emodnet-biology.eu/).
+This repository contains a template for developing data products in the framework of [EMODnet Biology](https://www.emodnet-biology.eu/).
 
 ## Directory structure
 
@@ -27,7 +27,7 @@ This repository contains a simple template for developing data products in the f
 To start a project using this template, you need to install [cookiecutter](https://github.com/cookiecutter/cookiecutter) first. Run the following statement in the command line to create a new project.
 
 ```bash
-$ cookiecutter https://github.com/salvafern/cookiecutter-emodnetbio-dataproduct
+$ cookiecutter https://github.com/EMODnet/EMODnet-Biology-Project-Template
 ```
 
 Alternatively, you can download this repository and modify the files yourself.

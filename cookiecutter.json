@@ -1,7 +1,0 @@
-{
-	"directory_name":"EMODnet-Biology-product_name",
-	"project_name":"EMODnet Biology Data Product",
-	"project_description":"",
-	"data_wfs_request":"http://geo.vliz.be/geoserver/Dataportal/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=Dataportal:eurobis-obisenv_basic&&viewParams=where:datasetid=4659&maxFeatures=50&outputformat=csv",
-	"citation":""
-}

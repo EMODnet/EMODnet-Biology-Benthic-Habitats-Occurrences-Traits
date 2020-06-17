@@ -1,0 +1,1001 @@
+SpeciesName,substratum
+"Mysella bidentata","See additional information"
+"Ensis ensis","Fine clean sand"
+"Ensis ensis","Coarse clean sand"
+"Electra pilosa",Bedrock
+"Electra pilosa","Large to very large boulders"
+"Electra pilosa","Small boulders"
+"Electra pilosa",Cobbles
+"Electra pilosa",Algae
+"Electra pilosa","Other species (see additional information)"
+"Electra pilosa","Artificial (e.g. metal/wood/concrete)"
+"Electra pilosa",Seagrass
+"Electra pilosa","Under boulders"
+"Electra pilosa",Caves
+"Electra pilosa",Overhangs
+"Asterina gibbosa",Rockpools
+"Eunicella verrucosa","Artificial (e.g. metal/wood/concrete)"
+"Eunicella verrucosa",Bedrock
+"Tellina fabula","Fine clean sand"
+"Tellina fabula","Muddy sand"
+"Abra alba","Muddy gravel"
+"Abra alba","Sandy mud"
+"Abra alba",Mud
+"Abra alba","Muddy sand"
+"Arctica islandica","Fine clean sand"
+"Arenicola marina","Salt marsh"
+"Arenicola marina",Seagrass
+"Alcyonium digitatum","Large to very large boulders"
+"Alcyonium digitatum","Small boulders"
+"Alcyonium digitatum",Bedrock
+"Alcyonium digitatum","Artificial (e.g. metal/wood/concrete)"
+"Alcyonium digitatum",Caves
+"Alcyonium digitatum",Overhangs
+"Alcyonium digitatum",Cobbles
+"Amphianthus dohrnii","Other species (see additional information)"
+"Amphiura chiajei",Mud
+"Amphiura chiajei","Muddy sand"
+"Amphiura filiformis","Muddy sand"
+"Amphiura filiformis","Sandy mud"
+"Antedon bifida",Algae
+"Antedon bifida",Bedrock
+"Antedon bifida","Large to very large boulders"
+"Aphelochaeta marioni","Fine clean sand"
+"Aphelochaeta marioni",Mud
+"Aphelochaeta marioni","Muddy sand"
+"Aphelochaeta marioni","Sandy mud"
+"Aphrodita aculeata","Fine clean sand"
+"Aphrodita aculeata","Coarse clean sand"
+"Aphrodita aculeata",Mixed
+"Aphrodita aculeata",Mud
+"Aphrodita aculeata","Muddy sand"
+"Aphrodita aculeata","Muddy gravel"
+"Arenicola marina",Mixed
+"Arenicola marina","Muddy gravel"
+"Arenicola marina","Muddy sand"
+"Arenicola marina","Sandy mud"
+"Arenicola marina","Fine clean sand"
+"Armandia cirrhosa","Muddy gravel"
+"Ascidiella scabra","Artificial (e.g. metal/wood/concrete)"
+"Ascidiella scabra",Bedrock
+"Ascidiella scabra","Large to very large boulders"
+"Ascidiella scabra","Small boulders"
+"Ascidiella scabra",Cobbles
+"Ascidiella scabra",Algae
+"Ascidiella scabra","Under boulders"
+"Flustra foliacea",Bedrock
+"Flustra foliacea","Large to very large boulders"
+"Flustra foliacea",Mixed
+"Flustra foliacea","Small boulders"
+"Flustra foliacea",Cobbles
+"Bathyporeia pelagica","Water column (pelagic)"
+"Asterias rubens","Gravel / shingle"
+"Asterias rubens","Coarse clean sand"
+"Atrina fragilis","Gravel / shingle"
+"Atrina fragilis",Mixed
+"Atrina fragilis","Muddy gravel"
+"Atrina fragilis","Muddy sand"
+"Atrina fragilis",Mud
+"Atrina fragilis","Fine clean sand"
+"Atrina fragilis","Sandy mud"
+"Balanus crenatus",Bedrock
+"Balanus crenatus","Artificial (e.g. metal/wood/concrete)"
+"Balanus crenatus",Cobbles
+"Balanus crenatus","Gravel / shingle"
+"Balanus crenatus","Large to very large boulders"
+"Balanus crenatus",Pebbles
+"Balanus crenatus","Small boulders"
+"Bathyporeia pelagica","Fine clean sand"
+"Botryllus schlosseri",Bedrock
+"Botryllus schlosseri",Cobbles
+"Botryllus schlosseri","Large to very large boulders"
+"Brissopsis lyrifera",Mud
+"Brissopsis lyrifera","Muddy sand"
+"Bugula turbinata","Artificial (e.g. metal/wood/concrete)"
+"Bugula turbinata",Bedrock
+"Bugula turbinata","Large to very large boulders"
+"Bugula turbinata","Small boulders"
+"Bugula turbinata",Overhangs
+"Bugula turbinata",Cobbles
+"Bugula turbinata","Crevices / fissures"
+"Callianassa subterranea","Muddy sand"
+"Cancer pagurus",Cobbles
+"Cancer pagurus","Gravel / shingle"
+"Cancer pagurus",Pebbles
+"Cancer pagurus","Sandy mud"
+"Cancer pagurus","Muddy sand"
+"Cancer pagurus","Fine clean sand"
+"Cancer pagurus","Coarse clean sand"
+"Cancer pagurus",Bedrock
+"Capitella capitata","Fine clean sand"
+"Capitella capitata","Muddy sand"
+"Capitella capitata",Mud
+"Capitella capitata","Sandy mud"
+"Cerastoderma edule","Sandy mud"
+"Cerastoderma edule","Muddy sand"
+"Cerastoderma edule","Coarse clean sand"
+"Cerastoderma edule","Fine clean sand"
+"Cerastoderma edule",Seagrass
+"Ciona intestinalis","Other species (see additional information)"
+"Cerastoderma edule","Muddy gravel"
+"Chthamalus montagui","Artificial (e.g. metal/wood/concrete)"
+"Chthamalus montagui","Large to very large boulders"
+"Chthamalus montagui",Bedrock
+"Ciona intestinalis",Algae
+"Ciona intestinalis","Artificial (e.g. metal/wood/concrete)"
+"Ciona intestinalis",Bedrock
+"Ciona intestinalis","Large to very large boulders"
+"Ciona intestinalis","Small boulders"
+"Cirratulus cirratus","Under boulders"
+"Cirratulus cirratus","Muddy gravel"
+"Cirratulus cirratus",Mud
+"Clavelina lepadiformis","Artificial (e.g. metal/wood/concrete)"
+"Clavelina lepadiformis",Bedrock
+"Clavelina lepadiformis",Cobbles
+"Clavelina lepadiformis","Large to very large boulders"
+"Clavelina lepadiformis",Overhangs
+"Clavelina lepadiformis","Small boulders"
+"Hyale prevostii","Other species (see additional information)"
+"Crepidula fornicata","Small boulders"
+"Crepidula fornicata",Cobbles
+"Crepidula fornicata",Pebbles
+"Crepidula fornicata","Muddy gravel"
+"Crepidula fornicata","Gravel / shingle"
+"Crepidula fornicata","Fine clean sand"
+"Crepidula fornicata","Coarse clean sand"
+"Crepidula fornicata","Muddy sand"
+"Crepidula fornicata","Sandy mud"
+"Crepidula fornicata","Other species (see additional information)"
+"Echinocardium cordatum","Coarse clean sand"
+"Echinocardium cordatum","Fine clean sand"
+"Echinocardium cordatum","Muddy sand"
+"Echinocardium cordatum","Sandy mud"
+"Echinus esculentus",Bedrock
+"Echinus esculentus","Large to very large boulders"
+"Echinus esculentus","Small boulders"
+"Echinus esculentus","Artificial (e.g. metal/wood/concrete)"
+"Echinus esculentus",Rockpools
+"Echinus esculentus","Under boulders"
+"Echinus esculentus",Caves
+"Echinus esculentus","Crevices / fissures"
+"Echinus esculentus",Overhangs
+"Funiculina quadrangularis",Mud
+"Gammarus insensibilis",Mud
+"Gammarus insensibilis","Muddy sand"
+"Gammarus insensibilis","Sandy mud"
+"Gammarus salinus",Algae
+"Gammarus salinus","Gravel / shingle"
+"Gammarus salinus","Coarse clean sand"
+"Halichondria bowerbanki",Overhangs
+"Halichondria panicea",Bedrock
+"Halichondria panicea",Cobbles
+"Halichondria panicea","Large to very large boulders"
+"Hediste diversicolor","Sandy mud"
+"Hediste diversicolor","Muddy sand"
+"Hediste diversicolor",Mud
+"Helcion pellucidum",Algae
+"Henricia oculata",Bedrock
+"Henricia oculata","Large to very large boulders"
+"Henricia oculata","Small boulders"
+"Henricia oculata",Cobbles
+"Henricia oculata","Gravel / shingle"
+"Henricia oculata",Pebbles
+"Hyale prevostii",Algae
+"Hydrobia ulvae","Sandy mud"
+"Jassa falcata","Other species (see additional information)"
+"Lanice conchilega","Coarse clean sand"
+"Chaetopterus variopedatus","Crevices / fissures"
+"Lanice conchilega","Sandy mud"
+"Leptopsammia pruvoti","Small boulders"
+"Hydrobia ulvae","Muddy sand"
+"Hydrobia ulvae",Mud
+"Jassa falcata",Algae
+"Jassa falcata","Artificial (e.g. metal/wood/concrete)"
+"Jassa falcata",Bedrock
+"Lacuna vincta",Algae
+"Liocarcinus depurator","Muddy gravel"
+"Liocarcinus depurator","Muddy sand"
+"Liocarcinus depurator","Fine clean sand"
+"Liocarcinus depurator","Coarse clean sand"
+"Lithothamnion corallioides",Pebbles
+"Lithothamnion corallioides","Gravel / shingle"
+"Lithothamnion corallioides",Maerl
+"Lithothamnion corallioides","Muddy gravel"
+"Lithothamnion corallioides","Coarse clean sand"
+"Lithothamnion corallioides","Fine clean sand"
+"Lithothamnion corallioides","Sandy mud"
+"Lithothamnion glaciale",Bedrock
+"Lithothamnion glaciale","Large to very large boulders"
+"Lithothamnion glaciale","Small boulders"
+"Lithothamnion glaciale",Cobbles
+"Lithothamnion glaciale",Pebbles
+"Lithothamnion glaciale","Gravel / shingle"
+"Lithothamnion glaciale",Maerl
+"Littorina littorea",Bedrock
+"Littorina littorea","Large to very large boulders"
+"Littorina littorea","Small boulders"
+"Littorina littorea",Cobbles
+"Littorina littorea",Pebbles
+"Littorina littorea","Gravel / shingle"
+"Littorina littorea","Muddy gravel"
+"Littorina littorea","Sandy mud"
+"Littorina littorea","Muddy sand"
+"Littorina littorea",Mud
+"Macoma balthica",Mud
+"Macoma balthica","Muddy sand"
+"Macoma balthica","Sandy mud"
+"Magelona mirabilis","Fine clean sand"
+"Magelona mirabilis","Coarse clean sand"
+"Metridium senile",Bedrock
+"Metridium senile","Large to very large boulders"
+"Metridium senile","Biogenic reef"
+"Metridium senile","Artificial (e.g. metal/wood/concrete)"
+"Metridium senile",Caves
+"Molgula manhattensis",Seagrass
+"Neocrania anomala","Other species (see additional information)"
+"Modiolus modiolus",Bedrock
+"Modiolus modiolus","Large to very large boulders"
+"Modiolus modiolus","Small boulders"
+"Modiolus modiolus","Gravel / shingle"
+"Modiolus modiolus","Muddy gravel"
+"Modiolus modiolus","Coarse clean sand"
+"Modiolus modiolus","Fine clean sand"
+"Modiolus modiolus","Sandy mud"
+"Modiolus modiolus","Muddy sand"
+"Modiolus modiolus",Mud
+"Modiolus modiolus",Mixed
+"Modiolus modiolus","Biogenic reef"
+"Modiolus modiolus","Artificial (e.g. metal/wood/concrete)"
+"Modiolus modiolus",Rockpools
+"Molgula manhattensis",Bedrock
+"Molgula manhattensis","Large to very large boulders"
+"Molgula manhattensis","Small boulders"
+"Morchellium argus",Bedrock
+"Morchellium argus","Large to very large boulders"
+"Morchellium argus","Small boulders"
+"Mya arenaria","Muddy gravel"
+"Mya arenaria","Coarse clean sand"
+"Mya arenaria","Fine clean sand"
+"Mya arenaria","Muddy sand"
+"Mya arenaria",Mud
+"Mya arenaria",Mixed
+"Mya arenaria","Sandy mud"
+"Mytilus edulis",Bedrock
+"Mytilus edulis","Large to very large boulders"
+"Nematostella vectensis",Mud
+"Nematostella vectensis",Algae
+"Nemertesia ramosa",Bedrock
+"Nemertesia ramosa","Large to very large boulders"
+"Nemertesia ramosa","Small boulders"
+"Nemertesia ramosa",Cobbles
+"Nemertesia ramosa",Pebbles
+"Nemertesia ramosa","Gravel / shingle"
+"Nemertesia ramosa",Maerl
+"Neocrania anomala",Bedrock
+"Neocrania anomala","Large to very large boulders"
+"Neocrania anomala","Small boulders"
+"Neomysis integer","Coarse clean sand"
+"Neomysis integer","Gravel / shingle"
+"Neomysis integer","Water column (pelagic)"
+"Neopentadactyla mixta","Gravel / shingle"
+"Neopentadactyla mixta",Maerl
+"Nucula nitidosa","Fine clean sand"
+"Nucula nitidosa","Muddy sand"
+"Nucella lapillus",Bedrock
+"Nucella lapillus","Large to very large boulders"
+"Nucella lapillus","Small boulders"
+"Nucella lapillus","Artificial (e.g. metal/wood/concrete)"
+"Nucella lapillus",Rockpools
+"Nucella lapillus","Under boulders"
+"Nucella lapillus",Caves
+"Nucella lapillus","Crevices / fissures"
+"Obelia longissima","Large to very large boulders"
+"Obelia longissima","Other species (see additional information)"
+"Obelia longissima",Bedrock
+"Obelia longissima","Small boulders"
+"Obelia longissima",Cobbles
+"Obelia longissima",Pebbles
+"Obelia longissima","Coarse clean sand"
+"Obelia longissima",Algae
+"Obelia longissima","Biogenic reef"
+"Obelia longissima","Artificial (e.g. metal/wood/concrete)"
+"Obelia longissima",Rockpools
+"Ophiothrix fragilis",Bedrock
+"Ophiothrix fragilis","Large to very large boulders"
+"Ophiothrix fragilis","Small boulders"
+"Ophiothrix fragilis",Cobbles
+"Ophiothrix fragilis",Pebbles
+"Ophiothrix fragilis","Gravel / shingle"
+"Ophiothrix fragilis",Maerl
+"Ophiothrix fragilis","Muddy gravel"
+"Ophiothrix fragilis","Under boulders"
+"Ophiothrix fragilis","Crevices / fissures"
+"Ophiothrix fragilis","Other species (see additional information)"
+"Osilinus lineatus",Bedrock
+"Osilinus lineatus","Large to very large boulders"
+"Osilinus lineatus",Rockpools
+"Osilinus lineatus","Under boulders"
+"Ostrea edulis","Large to very large boulders"
+"Ostrea edulis","Small boulders"
+"Ostrea edulis",Cobbles
+"Ostrea edulis",Pebbles
+"Ostrea edulis","Gravel / shingle"
+"Ostrea edulis","Artificial (e.g. metal/wood/concrete)"
+"Ostrea edulis","Muddy gravel"
+"Ostrea edulis","Muddy sand"
+"Owenia fusiformis","Fine clean sand"
+"Owenia fusiformis","Muddy sand"
+"Owenia fusiformis","Sandy mud"
+"Palinurus elephas",Bedrock
+"Palinurus elephas","Large to very large boulders"
+"Palinurus elephas","Small boulders"
+"Paludinella litorina",Bedrock
+"Paludinella litorina",Caves
+"Paludinella litorina","Under boulders"
+"Paludinella litorina","Crevices / fissures"
+"Paludinella litorina","Gravel / shingle"
+"Patella ulyssiponensis",Bedrock
+"Pecten maximus","Coarse clean sand"
+"Polydora ciliata","Other species (see additional information)"
+"Psammechinus miliaris","Large to very large boulders"
+"Psammechinus miliaris",Cobbles
+"Psammechinus miliaris","Muddy gravel"
+"Psammechinus miliaris",Mixed
+"Psammechinus miliaris","Artificial (e.g. metal/wood/concrete)"
+"Psammechinus miliaris","Under boulders"
+"Serpula vermicularis","Other species (see additional information)"
+"Pecten maximus","Muddy sand"
+"Pecten maximus","Sandy mud"
+"Pecten maximus","Gravel / shingle"
+"Pentapora fascialis",Bedrock
+"Pentapora fascialis","Artificial (e.g. metal/wood/concrete)"
+"Pentapora fascialis","Large to very large boulders"
+"Philine aperta","Muddy sand"
+"Philine aperta","Fine clean sand"
+"Philine aperta","Sandy mud"
+"Pholas dactylus",Bedrock
+"Polydora ciliata",Algae
+"Polydora ciliata","Artificial (e.g. metal/wood/concrete)"
+"Polydora ciliata",Mud
+"Pomatoceros triqueter",Bedrock
+"Pomatoceros triqueter","Large to very large boulders"
+"Pomatoceros triqueter","Small boulders"
+"Tenellia adspersa",Seagrass
+"Tenellia adspersa","Artificial (e.g. metal/wood/concrete)"
+"Urticina felina","Other species (see additional information)"
+"Crangon crangon","Fine clean sand"
+"Crangon crangon",Mud
+"Crangon crangon","Muddy sand"
+"Crangon crangon","Sandy mud"
+"Spio filicornis","Coarse clean sand"
+"Spio filicornis","Fine clean sand"
+"Spio filicornis",Mud
+"Spio filicornis","Muddy sand"
+"Spiophanes bombyx","Fine clean sand"
+"Spiophanes bombyx","Sandy mud"
+"Spisula solida",Mixed
+"Spisula solida",Pebbles
+"Spisula solida","Gravel / shingle"
+"Spisula solida","Fine clean sand"
+"Talitrus saltator",Strandline
+"Tenellia adspersa",Algae
+"Tenellia adspersa","Small boulders"
+"Tenellia adspersa",Pebbles
+"Tenellia adspersa",Cobbles
+"Thyasira gouldi","Muddy sand"
+"Thyasira gouldi",Mud
+"Thyasira gouldi","Sandy mud"
+"Truncatella subcylindrica","Gravel / shingle"
+"Umbonula littoralis",Bedrock
+"Umbonula littoralis","Large to very large boulders"
+"Umbonula littoralis","Small boulders"
+"Umbonula littoralis",Cobbles
+"Urticina felina",Bedrock
+"Urticina felina","Large to very large boulders"
+"Urticina felina","Small boulders"
+"Urticina felina","Crevices / fissures"
+"Venerupis senegalensis","Gravel / shingle"
+"Venerupis senegalensis",Mixed
+"Venerupis senegalensis","Muddy gravel"
+"Venerupis senegalensis","Muddy sand"
+"Venerupis senegalensis","Fine clean sand"
+"Virgularia mirabilis","Coarse clean sand"
+"Virgularia mirabilis","Fine clean sand"
+"Virgularia mirabilis",Mud
+"Virgularia mirabilis","Muddy sand"
+"Virgularia mirabilis","Sandy mud"
+"Mytilus edulis","Sandy mud"
+"Mytilus edulis","Muddy gravel"
+"Chaetopterus variopedatus","Muddy gravel"
+"Ahnfeltia plicata",Bedrock
+"Ahnfeltia plicata",Cobbles
+"Ahnfeltia plicata",Pebbles
+"Ahnfeltia plicata","Coarse clean sand"
+"Alaria esculenta",Bedrock
+"Alaria esculenta","Large to very large boulders"
+"Alaria esculenta","Small boulders"
+"Alaria esculenta",Cobbles
+"Alaria esculenta",Pebbles
+"Alaria esculenta","Artificial (e.g. metal/wood/concrete)"
+"Callianassa subterranea","Sandy mud"
+"Alkmaria romijni",Mud
+"Alkmaria romijni","Muddy sand"
+"Alkmaria romijni","Muddy gravel"
+"Arctica islandica","Coarse clean sand"
+"Arctica islandica","Sandy mud"
+"Arctica islandica","Muddy sand"
+"Ascophyllum nodosum","Small boulders"
+"Ascophyllum nodosum",Cobbles
+"Ascophyllum nodosum",Bedrock
+"Ascophyllum nodosum","Large to very large boulders"
+"Axinella dissimilis",Bedrock
+"Axinella dissimilis","Large to very large boulders"
+"Asterina phylactica","Coarse clean sand"
+"Asterina phylactica","Fine clean sand"
+"Asterina phylactica","Sandy mud"
+"Asterina phylactica","Muddy sand"
+"Asterina phylactica",Mud
+"Bugula turbinata",Caves
+"Caecum armoricum","Gravel / shingle"
+"Cancer pagurus","Muddy gravel"
+"Carcinus maenas","No preference"
+"Ceramium virgatum",Cobbles
+"Ceramium virgatum",Pebbles
+"Ceramium virgatum","Gravel / shingle"
+"Ceramium virgatum",Algae
+"Ceramium virgatum","Artificial (e.g. metal/wood/concrete)"
+"Ceramium virgatum",Rockpools
+"Cerastoderma glaucum","Coarse clean sand"
+"Cerastoderma glaucum","Fine clean sand"
+"Cerastoderma glaucum","Sandy mud"
+"Cerastoderma glaucum","Muddy sand"
+"Cerastoderma glaucum",Mud
+"Chondrus crispus",Bedrock
+"Chondrus crispus","Large to very large boulders"
+"Chondrus crispus","Small boulders"
+"Chondrus crispus",Rockpools
+"Chorda filum","Muddy gravel"
+"Chorda filum",Pebbles
+"Chorda filum","Gravel / shingle"
+"Chorda filum",Mixed
+"Chorda filum",Algae
+"Chthamalus stellatus",Bedrock
+"Chthamalus stellatus","Large to very large boulders"
+"Chthamalus stellatus","Artificial (e.g. metal/wood/concrete)"
+"Cladophora rupestris",Bedrock
+"Cladophora rupestris","Small boulders"
+"Cladophora rupestris",Cobbles
+"Cladophora rupestris",Algae
+"Clavelina lepadiformis",Pebbles
+"Corallina officinalis","Artificial (e.g. metal/wood/concrete)"
+"Corallina officinalis",Bedrock
+"Corallina officinalis","Large to very large boulders"
+"Botryllus schlosseri","Small boulders"
+"Delesseria sanguinea",Bedrock
+"Delesseria sanguinea","Large to very large boulders"
+"Delesseria sanguinea","Small boulders"
+"Delesseria sanguinea",Rockpools
+"Dipturus batis","Muddy gravel"
+"Dipturus batis","Coarse clean sand"
+"Dipturus batis","Fine clean sand"
+"Dipturus batis","Sandy mud"
+"Dipturus batis","Muddy sand"
+"Dipturus batis",Mud
+"Dipturus batis",Mixed
+"Edwardsia ivelli",Mud
+"Eurydice pulchra","Coarse clean sand"
+"Eurydice pulchra","Fine clean sand"
+"Fucus ceranoides",Bedrock
+"Fucus ceranoides","Large to very large boulders"
+"Fucus ceranoides","Small boulders"
+"Fucus ceranoides",Cobbles
+"Fucus ceranoides",Pebbles
+"Fucus ceranoides","Gravel / shingle"
+"Fucus distichus",Bedrock
+"Fucus distichus","Large to very large boulders"
+"Ampelisca spinipes","Insufficient information"
+"Fucus serratus",Bedrock
+"Fucus serratus","Large to very large boulders"
+"Corbula gibba",Mixed
+"Corbula gibba","Muddy gravel"
+"Corbula gibba","Muddy sand"
+"Corbula gibba","Sandy mud"
+"Cordylophora caspia","Artificial (e.g. metal/wood/concrete)"
+"Cordylophora caspia",Bedrock
+"Cordylophora caspia",Caves
+"Cordylophora caspia",Cobbles
+"Cordylophora caspia","Large to very large boulders"
+"Cordylophora caspia",Overhangs
+"Cordylophora caspia","Small boulders"
+"Cordylophora caspia",Pebbles
+"Corophium volutator","Sandy mud"
+"Corophium volutator","Muddy sand"
+"Corophium volutator",Mud
+"Crepidula fornicata",Mud
+"Crepidula fornicata",Mixed
+"Fucus serratus","Small boulders"
+"Fucus serratus",Cobbles
+"Fucus spiralis",Bedrock
+"Fucus spiralis","Large to very large boulders"
+"Fucus spiralis","Small boulders"
+"Fucus spiralis",Cobbles
+"Fucus vesiculosus",Bedrock
+"Fucus vesiculosus","Large to very large boulders"
+"Fucus vesiculosus","Small boulders"
+"Fucus vesiculosus",Cobbles
+"Fucus vesiculosus",Pebbles
+"Fucus vesiculosus","Gravel / shingle"
+"Fucus vesiculosus","Artificial (e.g. metal/wood/concrete)"
+"Furcellaria lumbricalis",Bedrock
+"Furcellaria lumbricalis","Large to very large boulders"
+"Furcellaria lumbricalis","Small boulders"
+"Furcellaria lumbricalis","Water column (pelagic)"
+"Furcellaria lumbricalis",Rockpools
+"Furcellaria lumbricalis",Cobbles
+"Furcellaria lumbricalis",Pebbles
+"Furcellaria lumbricalis",Algae
+"Gobius cobitis",Rockpools
+"Gobius cobitis","Under boulders"
+"Gobius cobitis",Mixed
+"Gobius couchi",Pebbles
+"Gobius couchi",Mixed
+"Gobius couchi",Rockpools
+"Gobius couchi","Under boulders"
+"Gobius couchi",Maerl
+"Halidrys siliquosa",Bedrock
+"Halidrys siliquosa","Large to very large boulders"
+"Halidrys siliquosa","Small boulders"
+"Halidrys siliquosa",Rockpools
+"Halidrys siliquosa",Cobbles
+"Himanthalia elongata",Bedrock
+"Himanthalia elongata","Large to very large boulders"
+"Hippocampus hippocampus",Algae
+"Hippocampus hippocampus",Seagrass
+"Hippocampus hippocampus",Bedrock
+"Hippocampus hippocampus",Mud
+"Laminaria digitata",Bedrock
+"Laminaria digitata","Large to very large boulders"
+"Laminaria digitata","Small boulders"
+"Laminaria digitata",Cobbles
+"Laminaria digitata",Pebbles
+"Laminaria digitata","Artificial (e.g. metal/wood/concrete)"
+"Laminaria hyperborea",Bedrock
+"Laminaria hyperborea","Large to very large boulders"
+"Laminaria hyperborea",Cobbles
+"Laminaria hyperborea",Pebbles
+"Laminaria hyperborea","Artificial (e.g. metal/wood/concrete)"
+"Saccharina latissima",Bedrock
+"Saccharina latissima","Large to very large boulders"
+"Funiculina quadrangularis","Muddy sand"
+"Gobius couchi","Fine clean sand"
+"Gobius couchi","Muddy sand"
+"Gobius couchi","Sandy mud"
+"Gobius couchi",Mud
+"Halichondria panicea","Small boulders"
+"Hyale prevostii",Bedrock
+"Saccharina latissima","Small boulders"
+"Saccharina latissima",Cobbles
+"Saccharina latissima",Pebbles
+"Chaetopterus variopedatus","Under boulders"
+"Lanice conchilega","Fine clean sand"
+"Chaetopterus variopedatus",Bedrock
+"Lanice conchilega","Muddy sand"
+"Leptopsammia pruvoti",Bedrock
+"Leptopsammia pruvoti","Large to very large boulders"
+"Lithophyllum incrustans",Rockpools
+"Musculus discors",Algae
+"Musculus discors",Bedrock
+"Musculus discors","Large to very large boulders"
+"Musculus discors","Small boulders"
+"Musculus discors","Gravel / shingle"
+"Musculus discors",Mud
+"Asterina gibbosa","Under boulders"
+"Nucula nitidosa","Sandy mud"
+"Palmaria palmata",Bedrock
+"Palmaria palmata",Algae
+"Palmaria palmata","Large to very large boulders"
+"Nephrops norvegicus",Mud
+"Nephrops norvegicus","Muddy sand"
+"Nephrops norvegicus","Sandy mud"
+"Nephtys hombergii","Coarse clean sand"
+"Nephtys hombergii","Fine clean sand"
+"Nephtys hombergii","Muddy sand"
+"Nephtys hombergii","Sandy mud"
+"Nucella lapillus",Overhangs
+"Ostrea edulis",Mud
+"Ostrea edulis",Bedrock
+"Pecten maximus","Fine clean sand"
+"Polydora ciliata",Bedrock
+"Patella vulgata",Bedrock
+"Patella vulgata","Large to very large boulders"
+"Patella vulgata","Small boulders"
+"Patella vulgata",Cobbles
+"Patella vulgata",Pebbles
+"Patella vulgata",Rockpools
+"Patella vulgata","Crevices / fissures"
+"Patella vulgata",Overhangs
+"Patella vulgata","Artificial (e.g. metal/wood/concrete)"
+"Pelvetia canaliculata",Bedrock
+"Pelvetia canaliculata","Large to very large boulders"
+"Pelvetia canaliculata","Small boulders"
+"Pelvetia canaliculata",Cobbles
+"Phymatolithon calcareum",Pebbles
+"Phymatolithon calcareum","Gravel / shingle"
+"Phymatolithon calcareum",Maerl
+"Phymatolithon calcareum","Muddy gravel"
+"Phymatolithon calcareum","Coarse clean sand"
+"Phymatolithon calcareum","Fine clean sand"
+"Phymatolithon calcareum","Sandy mud"
+"Phymatolithon calcareum","Muddy sand"
+"Phymatolithon calcareum",Mud
+"Phymatolithon calcareum",Mixed
+"Pisidia longicornis","Large to very large boulders"
+"Pisidia longicornis","Small boulders"
+"Pomatoschistus microps","Coarse clean sand"
+"Pomatoschistus microps","Fine clean sand"
+"Pomatoschistus microps","Sandy mud"
+"Pomatoschistus microps","Muddy sand"
+"Pomatoschistus microps",Mud
+"Pomatoschistus microps",Mixed
+"Pomatoschistus microps",Rockpools
+"Pomatoschistus microps",Pebbles
+"Pomatoschistus microps","Gravel / shingle"
+"Pomatoschistus minutus","Coarse clean sand"
+"Pomatoschistus minutus","Fine clean sand"
+"Pomatoschistus minutus","Sandy mud"
+"Pomatoschistus minutus","Muddy sand"
+"Pomatoschistus minutus",Mud
+"Pomatoschistus minutus",Mixed
+"Psammechinus miliaris",Bedrock
+"Psammechinus miliaris","Small boulders"
+"Psammechinus miliaris","Gravel / shingle"
+"Psammechinus miliaris","Muddy sand"
+"Psammechinus miliaris",Algae
+"Psammechinus miliaris",Rockpools
+"Rhodothamniella floridula",Bedrock
+"Rhodothamniella floridula","Large to very large boulders"
+"Rhodothamniella floridula","Small boulders"
+"Rhodothamniella floridula",Rockpools
+"Protanthea simplex",Bedrock
+"Protanthea simplex","Biogenic reef"
+"Protanthea simplex","Large to very large boulders"
+"Protanthea simplex","Small boulders"
+"Sabellaria alveolata",Bedrock
+"Sabellaria alveolata","Large to very large boulders"
+"Sabellaria alveolata","Small boulders"
+"Sabellaria alveolata",Cobbles
+"Sabellaria alveolata",Pebbles
+"Sabellaria spinulosa",Bedrock
+"Sabellaria spinulosa","Large to very large boulders"
+"Saccorhiza polyschides",Bedrock
+"Saccorhiza polyschides","Large to very large boulders"
+"Saccorhiza polyschides","Small boulders"
+"Saccorhiza polyschides",Cobbles
+"Saccorhiza polyschides",Pebbles
+"Asterina gibbosa","Coarse clean sand"
+"Ulva intestinalis","Small boulders"
+"Ulva intestinalis",Cobbles
+"Ulva intestinalis",Bedrock
+"Sabellaria spinulosa","Small boulders"
+"Semibalanus balanoides",Bedrock
+"Semibalanus balanoides","Large to very large boulders"
+"Semibalanus balanoides","Small boulders"
+"Semibalanus balanoides",Cobbles
+"Semibalanus balanoides",Pebbles
+"Semibalanus balanoides","Artificial (e.g. metal/wood/concrete)"
+"Serpula vermicularis","Artificial (e.g. metal/wood/concrete)"
+"Serpula vermicularis",Bedrock
+"Serpula vermicularis","Biogenic reef"
+"Serpula vermicularis","Large to very large boulders"
+"Serpula vermicularis","Small boulders"
+"Serpula vermicularis",Pebbles
+"Serpula vermicularis",Cobbles
+"Thieliana navis",Algae
+"Truncatella subcylindrica",Mud
+"Ulva intestinalis","Large to very large boulders"
+"Ulva intestinalis","Muddy sand"
+"Victorella pavida","Artificial (e.g. metal/wood/concrete)"
+"Victorella pavida","Other species (see additional information)"
+"Zostera marina","Gravel / shingle"
+"Zostera marina","Muddy gravel"
+"Zostera marina","Sandy mud"
+"Zostera marina","Muddy sand"
+"Zostera noltii","Sandy mud"
+"Zostera noltii","Muddy sand"
+"Zostera noltii",Mud
+"Venerupis senegalensis","Coarse clean sand"
+"Victorella pavida",Mixed
+"Chaetopterus variopedatus","Gravel / shingle"
+"Lithothamnion corallioides","Muddy sand"
+"Littorina littorea","Salt marsh"
+"Mytilus edulis",Rockpools
+"Asterina gibbosa","Biogenic reef"
+"Asterina gibbosa",Mixed
+"Chaetopterus variopedatus",Cobbles
+"Lithothamnion corallioides",Mud
+"Lithothamnion corallioides",Mixed
+"Sabellaria spinulosa",Cobbles
+"Metridium senile",Overhangs
+"Modiolus modiolus","Under boulders"
+"Molgula manhattensis",Cobbles
+"Chaetopterus variopedatus",Pebbles
+"Mytilus edulis","Biogenic reef"
+"Ampelisca brevicornis","Muddy gravel"
+"Mytilus edulis","Artificial (e.g. metal/wood/concrete)"
+"Mytilus edulis",Mixed
+"Mytilus edulis","Muddy sand"
+"Pholas dactylus","Artificial (e.g. metal/wood/concrete)"
+"Corbula gibba","Gravel / shingle"
+"Eunicella verrucosa","Large to very large boulders"
+"Armandia cirrhosa","Muddy sand"
+"Atrina fragilis","Coarse clean sand"
+"Asterina gibbosa","Crevices / fissures"
+"Conopeum reticulum",Algae
+"Conopeum reticulum","Artificial (e.g. metal/wood/concrete)"
+"Conopeum reticulum",Bedrock
+"Conopeum reticulum",Caves
+"Conopeum reticulum",Cobbles
+"Conopeum reticulum","Large to very large boulders"
+"Conopeum reticulum","Other species (see additional information)"
+"Conopeum reticulum",Overhangs
+"Asterina gibbosa","Artificial (e.g. metal/wood/concrete)"
+"Conopeum reticulum",Pebbles
+"Conopeum reticulum",Rockpools
+"Cordylophora caspia","Under boulders"
+"Chaetopterus variopedatus","Muddy sand"
+"Conopeum reticulum","Small boulders"
+"Conopeum reticulum","Under boulders"
+"Aphrodita aculeata","Sandy mud"
+"Ascidiella scabra","Biogenic reef"
+"Corallina officinalis",Rockpools
+"Corallina officinalis","Crevices / fissures"
+"Mytilus edulis","Small boulders"
+"Actinauge richardi","Coarse clean sand"
+"Actinauge richardi","Fine clean sand"
+"Actinauge richardi","Sandy mud"
+"Actinauge richardi","Muddy sand"
+"Actinauge richardi",Mud
+"Alcyonidium diaphanum",Bedrock
+"Alcyonidium diaphanum","Large to very large boulders"
+"Alcyonidium diaphanum","Small boulders"
+"Alcyonidium diaphanum",Cobbles
+"Ampelisca brevicornis","Muddy sand"
+"Ampelisca diadema","Muddy gravel"
+"Ampelisca tenuicornis","Muddy sand"
+"Ampharete falcata","Fine clean sand"
+"Ampharete falcata","Sandy mud"
+"Ampharete falcata","Muddy sand"
+"Aporrhais pespelecani","Muddy gravel"
+"Aporrhais pespelecani","Coarse clean sand"
+"Aporrhais pespelecani","Muddy sand"
+"Aporrhais pespelecani",Mud
+"Astarte sulcata","Gravel / shingle"
+"Astarte sulcata","Muddy gravel"
+"Astarte sulcata","Muddy sand"
+"Astarte sulcata",Mud
+"Bathyporeia elegans","Fine clean sand"
+"Caryophyllia smithii",Bedrock
+"Caryophyllia smithii","Large to very large boulders"
+"Caryophyllia smithii",Cobbles
+"Caryophyllia smithii","Other species (see additional information)"
+"Cerianthus lloydii","Muddy gravel"
+"Halichondria bowerbanki",Bedrock
+"Chaetopterus variopedatus","Coarse clean sand"
+"Chaetopterus variopedatus","Fine clean sand"
+"Chaetozone setosa","Muddy gravel"
+"Chaetozone setosa","Coarse clean sand"
+"Chaetozone setosa","Fine clean sand"
+"Chaetozone setosa","Sandy mud"
+"Chaetozone setosa","Muddy sand"
+"Chaetozone setosa",Mud
+"Hyalinoecia tubicola","Coarse clean sand"
+"Hyalinoecia tubicola","Fine clean sand"
+"Hyalinoecia tubicola","Sandy mud"
+"Hyalinoecia tubicola","Muddy sand"
+"Hyalinoecia tubicola",Mud
+"Hydrallmania falcata",Pebbles
+"Hydrallmania falcata","Coarse clean sand"
+"Hydrallmania falcata","Fine clean sand"
+"Cerianthus lloydii","Coarse clean sand"
+"Cerianthus lloydii","Fine clean sand"
+"Cerianthus lloydii","Sandy mud"
+"Cerianthus lloydii",Mud
+"Cerianthus lloydii",Mixed
+"Cerianthus lloydii","Muddy sand"
+"Cerianthus lloydii","Gravel / shingle"
+"Inachus dorsettensis",Pebbles
+"Inachus dorsettensis","Coarse clean sand"
+"Inachus dorsettensis","Fine clean sand"
+"Inachus dorsettensis","Sandy mud"
+"Inachus dorsettensis",Mud
+"Inachus dorsettensis","Muddy sand"
+"Macropipus tuberculatus",Mud
+"Maja squinado",Bedrock
+"Maja squinado","Coarse clean sand"
+"Maja squinado","Fine clean sand"
+"Mediomastus fragilis","Muddy gravel"
+"Mediomastus fragilis","Sandy mud"
+"Mediomastus fragilis","Muddy sand"
+"Mediomastus fragilis",Mud
+"Mysella bidentata","Muddy sand"
+"Nemertesia antennina","Coarse clean sand"
+"Nemertesia antennina","Fine clean sand"
+"Nephtys cirrosa","Coarse clean sand"
+"Nephtys cirrosa","Sandy mud"
+"Nucula sulcata","Muddy sand"
+"Nucula sulcata",Mud
+"Nucula sulcata",Clay
+"Ophiura albida","Fine clean sand"
+"Ophiura albida","Sandy mud"
+"Ophiura albida","Muddy sand"
+"Sagartiogeton undatus",Bedrock
+"Sagartiogeton undatus","Large to very large boulders"
+"Sagartiogeton undatus","Small boulders"
+"Sagartiogeton undatus",Cobbles
+"Sagartiogeton undatus",Pebbles
+"Sagartiogeton undatus","Gravel / shingle"
+"Sagartiogeton undatus","Coarse clean sand"
+"Sagartiogeton undatus","Fine clean sand"
+"Sagartiogeton undatus","Crevices / fissures"
+"Scaphander lignarius","Muddy sand"
+"Scoloplos armiger","Coarse clean sand"
+"Scoloplos armiger","Fine clean sand"
+"Scoloplos armiger","Muddy sand"
+"Thyasira flexuosa","Sandy mud"
+"Leptosynapta inhaerens",Mud
+"Thyone fusus","Gravel / shingle"
+"Distomus variolosus",Bedrock
+"Distomus variolosus","Large to very large boulders"
+"Distomus variolosus",Algae
+"Echinocyamus pusillus","Coarse clean sand"
+"Echinocyamus pusillus","Gravel / shingle"
+"Amphipholis squamata","Gravel / shingle"
+"Pseudocuma longicorne",Mud
+"Pseudocuma longicorne","Muddy sand"
+"Pseudocuma longicorne","Sandy mud"
+"Pseudocuma longicorne","Water column (pelagic)"
+"Leptocheirus spp.","Gravel / shingle"
+"Sertularia cupressina",Bedrock
+"Sertularia cupressina","Large to very large boulders"
+"Sertularia cupressina",Cobbles
+"Abietinaria abietina",Bedrock
+"Abietinaria abietina","Large to very large boulders"
+"Abietinaria abietina","Small boulders"
+"Abietinaria abietina",Cobbles
+"Tubularia indivisa",Bedrock
+"Tubularia indivisa","Large to very large boulders"
+"Tubularia indivisa","Small boulders"
+"Tubularia indivisa",Cobbles
+"Sagartia elegans","Gravel / shingle"
+"Sagartia elegans",Mud
+"Nephasoma spp.",Mud
+"Pholoe spp.","Gravel / shingle"
+"Eteone spp.","Gravel / shingle"
+"Eteone spp.",Mud
+"Hesionura spp.","Coarse clean sand"
+"Sertularia cupressina","Small boulders"
+"Pseudomystides spp.","Gravel / shingle"
+"Eulalia spp.",Bedrock
+"Eulalia spp.","Large to very large boulders"
+"Eulalia spp.",Cobbles
+"Eulalia spp.",Pebbles
+"Eulalia spp.","Gravel / shingle"
+"Eulalia spp.","Small boulders"
+"Glycera spp.","Coarse clean sand"
+"Glycera spp.","Fine clean sand"
+"Glycera spp.","Muddy sand"
+"Drilonereis spp.","Muddy sand"
+"Drilonereis spp.",Mud
+"Protodorvillea spp.",Pebbles
+"Protodorvillea spp.","Biogenic reef"
+"Exogone spp.","Coarse clean sand"
+"Exogone spp.","Gravel / shingle"
+"Sphaerosyllis spp.","Gravel / shingle"
+"Sphaerosyllis spp.",Mud
+"Myrianida spp.",Algae
+"Myrianida spp.",Pebbles
+"Myrianida spp.","Gravel / shingle"
+"Lumbrineris spp.",Algae
+"Lumbrineris spp.","Gravel / shingle"
+"Lumbrineris spp.",Mud
+"Lumbrineris spp.","Muddy sand"
+"Orbinia spp.","Muddy sand"
+"Orbinia spp.","Fine clean sand"
+"Paraonis spp.","Coarse clean sand"
+"Paraonis spp.","Fine clean sand"
+"Aonides spp.",Algae
+"Aonides spp.",Bedrock
+"Aonides spp.","Coarse clean sand"
+"Aonides spp.","Fine clean sand"
+"Laonice spp.","Gravel / shingle"
+"Laonice spp.","Muddy sand"
+"Minuspio spp.",Mud
+"Prionospio spp.",Mud
+"Mytilus edulis","Under boulders"
+"Mytilus edulis",Caves
+"Mytilus edulis","Crevices / fissures"
+"Asterias rubens",Bedrock
+"Dendrodoa grossularia",Bedrock
+"Dendrodoa grossularia","Large to very large boulders"
+"Dendrodoa grossularia",Algae
+"Dendrodoa grossularia","Other species (see additional information)"
+"Leptosynapta inhaerens","Muddy sand"
+"Leptosynapta inhaerens","Muddy gravel"
+"Iphinoe trispinosa","Water column (pelagic)"
+"Iphinoe trispinosa","Muddy sand"
+"Iphinoe trispinosa","Coarse clean sand"
+"Iphinoe trispinosa","Fine clean sand"
+"Pisione spp.","Coarse clean sand"
+"Harmothoe spp.",Algae
+"Harmothoe spp.","Other species (see additional information)"
+"Harmothoe spp.","Gravel / shingle"
+"Harmothoe spp.","Crevices / fissures"
+"Lepidonotus spp.",Bedrock
+"Lepidonotus spp.",Algae
+"Eteone spp.","Crevices / fissures"
+"Eteone spp.",Algae
+"Eulalia spp.",Algae
+"Eulalia spp.","Other species (see additional information)"
+"Eumida spp.",Algae
+"Syllis spp.",Algae
+"Syllis spp.","Other species (see additional information)"
+"Pionosyllis spp.",Algae
+"Pionosyllis spp.","Other species (see additional information)"
+"Pionosyllis spp.",Rockpools
+"Exogone spp.",Algae
+"Exogone spp.","Other species (see additional information)"
+"Lumbrineris spp.","Other species (see additional information)"
+"Euclymene spp.",Algae
+"Euclymene spp.",Mud
+"Ophelia spp.","Muddy sand"
+"Ophelia spp.","Water column (pelagic)"
+"Polycirrus spp.",Algae
+"Polycirrus spp.","Muddy sand"
+"Lagis spp.",Mud
+"Scalibragma spp.","Muddy gravel"
+"Scalibragma spp.",Mud
+"Travisia spp.","Muddy sand"
+"Asterina gibbosa","Gravel / shingle"
+"Asterina gibbosa","Large to very large boulders"
+"Asterina gibbosa",Bedrock
+"Buccinum undatum",Algae
+"Pagurus spp.",Rockpools
+"Pagurus spp.",Bedrock
+"Pagurus spp.",Cobbles
+"Pagurus spp.","Gravel / shingle"
+"Upogebia spp.","Muddy sand"
+"Upogebia spp.",Mud
+"Upogebia spp.",Clay
+"Pennatula phosphorea ","Coarse clean sand"
+"Pennatula phosphorea ","Fine clean sand"
+"Pennatula phosphorea ","Sandy mud"
+"Pennatula phosphorea ","Muddy sand"
+"Pennatula phosphorea ",Mud
+"Pennatula phosphorea ","Muddy sandy gravel"
+"Pennatula phosphorea ","Gravelley sand"
+"Pennatula phosphorea ","Muddy gravelly sand"
+"Pennatula phosphorea ","Sandy gravelly mud"
+"Bolocera tuediae",Bedrock
+"Bolocera tuediae","Large to very large boulders"
+"Bolocera tuediae","Small boulders"
+"Bolocera tuediae",Cobbles
+"Bolocera tuediae","Biogenic reef"
+"Adamsia carciniopados","Other species (see additional information)"
+"Ditrupa arietina","Coarse clean sand"
+"Ditrupa arietina","Fine clean sand"
+"Ditrupa arietina","Sandy mud"
+"Ditrupa arietina","Muddy sand"
+"Ditrupa arietina",Mud
+"Ditrupa arietina","Muddy gravelly sand"
+"Ditrupa arietina","Sandy gravelly mud"
+"Neanthes fucata","Other species (see additional information)"
+"Processa canaliculata","Coarse clean sand"
+"Processa canaliculata","Fine clean sand"
+"Processa canaliculata","Muddy sand"
+"Processa canaliculata",Mud
+"Processa canaliculata",Mixed
+"Processa canaliculata","Gravelley sand"
+"Processa canaliculata","Muddy gravelly sand"
+"Dichelopandalus bonnieri","Gravel / shingle"
+"Dichelopandalus bonnieri","Muddy gravel"
+"Dichelopandalus bonnieri","Coarse clean sand"

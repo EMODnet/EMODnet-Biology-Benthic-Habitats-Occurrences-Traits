@@ -1,0 +1,674 @@
+name	AphiaID	Match type	ScientificName	AphiaID_accepted	ScientificName_accepted	Kingdom	Phylum	Class	Order	Family	Genus	Subgenus	Species	Subspecies
+Abietinaria abietina	117870	exact	Abietinaria abietina	117870	Abietinaria abietina	Animalia	Cnidaria	Hydrozoa	Leptothecata	Sertulariidae	Abietinaria		abietina	
+Abra alba	141433	exact	Abra alba	141433	Abra alba	Animalia	Mollusca	Bivalvia	Cardiida	Semelidae	Abra		alba	
+Acanthocardia echinata	138992	exact	Acanthocardia echinata	138992	Acanthocardia echinata	Animalia	Mollusca	Bivalvia	Cardiida	Cardiidae	Acanthocardia		echinata	
+Actinauge richardi	100930	exact	Actinauge richardi	100930	Actinauge richardi	Animalia	Cnidaria	Anthozoa	Actiniaria	Hormathiidae	Actinauge		richardi	
+Adamsia carciniopados	100931	exact	Adamsia carciniopados	445590	Adamsia palliata	Animalia	Cnidaria	Anthozoa	Actiniaria	Hormathiidae	Adamsia		carciniopados	
+Aequipecten opercularis	140687	exact	Aequipecten opercularis	140687	Aequipecten opercularis	Animalia	Mollusca	Bivalvia	Pectinida	Pectinidae	Aequipecten		opercularis	
+Ahnfeltia plicata	144422	exact	Ahnfeltia plicata	144422	Ahnfeltia plicata	Plantae	Rhodophyta	Florideophyceae	Ahnfeltiales	Ahnfeltiaceae	Ahnfeltia		plicata	
+Alaria esculenta	145716	exact	Alaria esculenta	145716	Alaria esculenta	Chromista	Ochrophyta	Phaeophyceae	Laminariales	Alariaceae	Alaria		esculenta	
+Alcyonidium diaphanum	111597	exact	Alcyonidium diaphanum	111597	Alcyonidium diaphanum	Animalia	Bryozoa	Gymnolaemata	Ctenostomatida	Alcyonidiidae	Alcyonidium		diaphanum	
+Alcyonium digitatum	125333	exact	Alcyonium digitatum	125333	Alcyonium digitatum	Animalia	Cnidaria	Anthozoa	Alcyonacea	Alcyoniidae	Alcyonium		digitatum	
+Alkmaria romijni	129769	exact	Alkmaria romijni	129769	Alkmaria romijni	Animalia	Annelida	Polychaeta	Terebellida	Ampharetidae	Alkmaria		romijni	
+Ampelisca brevicornis	101891	exact	Ampelisca brevicornis	101891	Ampelisca brevicornis	Animalia	Arthropoda	Malacostraca	Amphipoda	Ampeliscidae	Ampelisca		brevicornis	
+Ampelisca diadema	101896	exact	Ampelisca diadema	101896	Ampelisca diadema	Animalia	Arthropoda	Malacostraca	Amphipoda	Ampeliscidae	Ampelisca		diadema	
+Ampelisca spinipes	101928	exact	Ampelisca spinipes	101928	Ampelisca spinipes	Animalia	Arthropoda	Malacostraca	Amphipoda	Ampeliscidae	Ampelisca		spinipes	
+Ampelisca tenuicornis	101930	exact	Ampelisca tenuicornis	101930	Ampelisca tenuicornis	Animalia	Arthropoda	Malacostraca	Amphipoda	Ampeliscidae	Ampelisca		tenuicornis	
+Ampharete falcata	129777	exact	Ampharete falcata	129777	Ampharete falcata	Animalia	Annelida	Polychaeta	Terebellida	Ampharetidae	Ampharete		falcata	
+Amphianthus dohrnii	100936	exact	Amphianthus dohrnii	100936	Amphianthus dohrnii	Animalia	Cnidaria	Anthozoa	Actiniaria	Amphianthidae	Amphianthus		dohrnii	
+Amphiura chiajei	125073	exact	Amphiura chiajei	125073	Amphiura chiajei	Animalia	Echinodermata	Ophiuroidea	Amphilepidida	Amphiuridae	Amphiura		chiajei	
+Amphiura filiformis	125080	exact	Amphiura filiformis	125080	Amphiura filiformis	Animalia	Echinodermata	Ophiuroidea	Amphilepidida	Amphiuridae	Amphiura		filiformis	
+Anapagurus laevis	107218	exact	Anapagurus laevis	107218	Anapagurus laevis	Animalia	Arthropoda	Malacostraca	Decapoda	Paguridae	Anapagurus		laevis	
+Antedon bifida	124201	exact	Antedon bifida	124201	Antedon bifida	Animalia	Echinodermata	Crinoidea	Comatulida	Antedonidae	Antedon		bifida	
+Aphelochaeta marioni	129938	exact	Aphelochaeta marioni	129938	Aphelochaeta marioni	Animalia	Annelida	Polychaeta	Terebellida	Cirratulidae	Aphelochaeta		marioni	
+Aphrodita aculeata	129840	exact	Aphrodita aculeata	129840	Aphrodita aculeata	Animalia	Annelida	Polychaeta	Phyllodocida	Aphroditidae	Aphrodita		aculeata	
+Aporrhais pespelecani	138760	exact	Aporrhais pespelecani	138760	Aporrhais pespelecani	Animalia	Mollusca	Gastropoda	Littorinimorpha	Aporrhaidae	Aporrhais		pespelecani	
+Arcopagia spp.	138529	exact	Arcopagia	138529	Arcopagia	Animalia	Mollusca	Bivalvia	Cardiida	Tellinidae	Arcopagia			
+Arctica islandica	138802	exact	Arctica islandica	138802	Arctica islandica	Animalia	Mollusca	Bivalvia	Venerida	Arcticidae	Arctica		islandica	
+Arenicola marina	129868	exact	Arenicola marina	129868	Arenicola marina	Animalia	Annelida	Polychaeta		Arenicolidae	Arenicola		marina	
+Armandia cirrhosa	130485	exact	Armandia cirrhosa	130485	Armandia cirrhosa	Animalia	Annelida	Polychaeta		Opheliidae	Armandia		cirrhosa	
+Ascidiella scabra	103719	exact	Ascidiella scabra	103719	Ascidiella scabra	Animalia	Chordata	Ascidiacea	Phlebobranchia	Ascidiidae	Ascidiella		scabra	
+Ascophyllum nodosum	145541	exact	Ascophyllum nodosum	145541	Ascophyllum nodosum	Chromista	Ochrophyta	Phaeophyceae	Fucales	Fucaceae	Ascophyllum		nodosum	
+Astarte sulcata	138824	exact	Astarte sulcata	138824	Astarte sulcata	Animalia	Mollusca	Bivalvia	Carditida	Astartidae	Astarte		sulcata	
+Asterias rubens	123776	exact	Asterias rubens	123776	Asterias rubens	Animalia	Echinodermata	Asteroidea	Forcipulatida	Asteriidae	Asterias		rubens	
+Asterina gibbosa	123987	exact	Asterina gibbosa	123987	Asterina gibbosa	Animalia	Echinodermata	Asteroidea	Valvatida	Asterinidae	Asterina		gibbosa	
+Astropecten irregularis	123867	exact	Astropecten irregularis	123867	Astropecten irregularis	Animalia	Echinodermata	Asteroidea	Paxillosida	Astropectinidae	Astropecten		irregularis	
+Atelecyclus spp.	106875	exact	Atelecyclus	106875	Atelecyclus	Animalia	Arthropoda	Malacostraca	Decapoda	Atelecyclidae	Atelecyclus			
+Atrina fragilis	146524	exact	Atrina fragilis	146524	Atrina fragilis	Animalia	Mollusca	Bivalvia	Ostreida	Pinnidae	Atrina		fragilis	
+Axinella dissimilis	132473	exact	Axinella dissimilis	132473	Axinella dissimilis	Animalia	Porifera	Demospongiae	Axinellida	Axinellidae	Axinella		dissimilis	
+Balanus crenatus	106215	exact	Balanus crenatus	106215	Balanus crenatus	Animalia	Arthropoda	Hexanauplia	Sessilia	Balanidae	Balanus		crenatus	
+Balanus spp.	106122	exact	Balanus	106122	Balanus	Animalia	Arthropoda	Hexanauplia	Sessilia	Balanidae	Balanus			
+Bathyporeia elegans	103058	exact	Bathyporeia elegans	103058	Bathyporeia elegans	Animalia	Arthropoda	Malacostraca	Amphipoda	Bathyporeiidae	Bathyporeia		elegans	
+Bathyporeia pelagica	103066	exact	Bathyporeia pelagica	103066	Bathyporeia pelagica	Animalia	Arthropoda	Malacostraca	Amphipoda	Bathyporeiidae	Bathyporeia		pelagica	
+Bolocera tuediae	100817	exact	Bolocera tuediae	100817	Bolocera tuediae	Animalia	Cnidaria	Anthozoa	Actiniaria	Actiniidae	Bolocera		tuediae	
+Botryllus schlosseri	103862	exact	Botryllus schlosseri	103862	Botryllus schlosseri	Animalia	Chordata	Ascidiacea	Stolidobranchia	Styelidae	Botryllus		schlosseri	
+Brissopsis lyrifera	124373	exact	Brissopsis lyrifera	124373	Brissopsis lyrifera	Animalia	Echinodermata	Echinoidea	Spatangoida	Brissidae	Brissopsis		lyrifera	
+Buccinum undatum	138878	exact	Buccinum undatum	138878	Buccinum undatum	Animalia	Mollusca	Gastropoda	Neogastropoda	Buccinidae	Buccinum		undatum	
+Bugula turbinata	111166	exact	Bugula turbinata	834020	Bugulina turbinata	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Bugulidae	Bugula		turbinata	
+Caecum armoricum	138945	exact	Caecum armoricum	138945	Caecum armoricum	Animalia	Mollusca	Gastropoda	Littorinimorpha	Caecidae	Caecum		armoricum	
+Callianassa subterranea	107729	exact	Callianassa subterranea	107729	Callianassa subterranea	Animalia	Arthropoda	Malacostraca	Decapoda	Callianassidae	Callianassa		subterranea	
+Callionymus lyra	126792	exact	Callionymus lyra	126792	Callionymus lyra	Animalia	Chordata	Actinopterygii	Perciformes	Callionymidae	Callionymus		lyra	
+Cancer pagurus	107276	exact	Cancer pagurus	107276	Cancer pagurus	Animalia	Arthropoda	Malacostraca	Decapoda	Cancridae	Cancer		pagurus	
+Capitella capitata	129876	exact	Capitella capitata	129876	Capitella capitata	Animalia	Annelida	Polychaeta		Capitellidae	Capitella		capitata	
+Carcinus maenas	107381	exact	Carcinus maenas	107381	Carcinus maenas	Animalia	Arthropoda	Malacostraca	Decapoda	Carcinidae	Carcinus		maenas	
+Caryophyllia smithii	1288958	exact	Caryophyllia smithii	135144	Caryophyllia (Caryophyllia) smithii	Animalia	Cnidaria	Anthozoa	Scleractinia	Caryophylliidae	Caryophyllia		smithii	
+Ceramium virgatum	377258	exact	Ceramium virgatum	377258	Ceramium virgatum	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Ceramiaceae	Ceramium		virgatum	
+Cerastoderma edule	138998	exact	Cerastoderma edule	138998	Cerastoderma edule	Animalia	Mollusca	Bivalvia	Cardiida	Cardiidae	Cerastoderma		edule	
+Cerastoderma glaucum	138999	exact	Cerastoderma glaucum	138999	Cerastoderma glaucum	Animalia	Mollusca	Bivalvia	Cardiida	Cardiidae	Cerastoderma		glaucum	
+Cerianthus lloydii	283798	exact	Cerianthus lloydii	283798	Cerianthus lloydii	Animalia	Cnidaria	Anthozoa	Spirularia	Cerianthidae	Cerianthus		lloydii	
+Chaetopterus variopedatus	129914	exact	Chaetopterus variopedatus	129914	Chaetopterus variopedatus	Animalia	Annelida	Polychaeta		Chaetopteridae	Chaetopterus		variopedatus	
+Chaetozone setosa	129955	exact	Chaetozone setosa	129955	Chaetozone setosa	Animalia	Annelida	Polychaeta	Terebellida	Cirratulidae	Chaetozone		setosa	
+Chondrus crispus	145625	exact	Chondrus crispus	145625	Chondrus crispus	Plantae	Rhodophyta	Florideophyceae	Gigartinales	Gigartinaceae	Chondrus		crispus	
+Chorda filum	145722	exact	Chorda filum	145722	Chorda filum	Chromista	Ochrophyta	Phaeophyceae	Laminariales	Chordaceae	Chorda		filum	
+Chthamalus montagui	106230	exact	Chthamalus montagui	106230	Chthamalus montagui	Animalia	Arthropoda	Hexanauplia	Sessilia	Chthamalidae	Chthamalus		montagui	
+Chthamalus stellatus	106231	exact	Chthamalus stellatus	106231	Chthamalus stellatus	Animalia	Arthropoda	Hexanauplia	Sessilia	Chthamalidae	Chthamalus		stellatus	
+Ciona intestinalis	103732	exact	Ciona intestinalis	103732	Ciona intestinalis	Animalia	Chordata	Ascidiacea	Phlebobranchia	Cionidae	Ciona		intestinalis	
+Cirratulus cirratus	129959	exact	Cirratulus cirratus	129959	Cirratulus cirratus	Animalia	Annelida	Polychaeta	Terebellida	Cirratulidae	Cirratulus		cirratus	
+Cladophora rupestris	145064	exact	Cladophora rupestris	145064	Cladophora rupestris	Plantae	Chlorophyta	Ulvophyceae	Cladophorales	Cladophoraceae	Cladophora		rupestris	
+Clavelina lepadiformis	103552	exact	Clavelina lepadiformis	103552	Clavelina lepadiformis	Animalia	Chordata	Ascidiacea	Aplousobranchia	Clavelinidae	Clavelina		lepadiformis	
+Colus gracilis	138899	exact	Colus gracilis	138899	Colus gracilis	Animalia	Mollusca	Gastropoda	Neogastropoda	Buccinidae	Colus		gracilis	
+Conopeum reticulum	111351	exact	Conopeum reticulum	111351	Conopeum reticulum	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Electridae	Conopeum		reticulum	
+Corallina officinalis	145108	exact	Corallina officinalis	145108	Corallina officinalis	Plantae	Rhodophyta	Florideophyceae	Corallinales	Corallinaceae	Corallina		officinalis	
+Corbula gibba	139410	exact	Corbula gibba	139410	Corbula gibba	Animalia	Mollusca	Bivalvia	Myida	Corbulidae	Corbula		gibba	
+Cordylophora caspia	117428	exact	Cordylophora caspia	117428	Cordylophora caspia	Animalia	Cnidaria	Hydrozoa	Anthoathecata	Cordylophoridae	Cordylophora		caspia	
+Corophium volutator	102101	exact	Corophium volutator	102101	Corophium volutator	Animalia	Arthropoda	Malacostraca	Amphipoda	Corophiidae	Corophium		volutator	
+Corystes cassivelaunus	107277	exact	Corystes cassivelaunus	107277	Corystes cassivelaunus	Animalia	Arthropoda	Malacostraca	Decapoda	Corystidae	Corystes		cassivelaunus	
+Crangon allmanni	107551	exact	Crangon allmanni	107551	Crangon allmanni	Animalia	Arthropoda	Malacostraca	Decapoda	Crangonidae	Crangon		allmanni	
+Crangon crangon	107552	exact	Crangon crangon	107552	Crangon crangon	Animalia	Arthropoda	Malacostraca	Decapoda	Crangonidae	Crangon		crangon	
+Crepidula fornicata	138963	exact	Crepidula fornicata	138963	Crepidula fornicata	Animalia	Mollusca	Gastropoda	Littorinimorpha	Calyptraeidae	Crepidula		fornicata	
+Crossaster papposus	124154	exact	Crossaster papposus	124154	Crossaster papposus	Animalia	Echinodermata	Asteroidea	Valvatida	Solasteridae	Crossaster		papposus	
+Ctenolabrus rupestris	126964	exact	Ctenolabrus rupestris	126964	Ctenolabrus rupestris	Animalia	Chordata	Actinopterygii	Perciformes	Labridae	Ctenolabrus		rupestris	
+Delesseria sanguinea	144744	exact	Delesseria sanguinea	144744	Delesseria sanguinea	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Delesseriaceae	Delesseria		sanguinea	
+Dendrodoa grossularia	103882	exact	Dendrodoa grossularia	103882	Dendrodoa grossularia	Animalia	Chordata	Ascidiacea	Stolidobranchia	Styelidae	Dendrodoa		grossularia	
+Dichelopandalus bonnieri	107643	exact	Dichelopandalus bonnieri	107643	Dichelopandalus bonnieri	Animalia	Arthropoda	Malacostraca	Decapoda	Pandalidae	Dichelopandalus		bonnieri	
+Diplosoma listerianum	103579	exact	Diplosoma listerianum	103579	Diplosoma listerianum	Animalia	Chordata	Ascidiacea	Aplousobranchia	Didemnidae	Diplosoma		listerianum	
+Dipturus batis	105869	exact	Dipturus batis	105869	Dipturus batis	Animalia	Chordata	Elasmobranchii	Rajiformes	Rajidae	Dipturus		batis	
+Distomus variolosus	103890	exact	Distomus variolosus	103890	Distomus variolosus	Animalia	Chordata	Ascidiacea	Stolidobranchia	Styelidae	Distomus		variolosus	
+Ditrupa arietina	130987	exact	Ditrupa arietina	130987	Ditrupa arietina	Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	Ditrupa		arietina	
+Dosinia spp.	138636	exact	Dosinia	138636	Dosinia	Animalia	Mollusca	Bivalvia	Venerida	Veneridae	Dosinia			
+Dysidea fragilis	132324	exact	Dysidea fragilis	132324	Dysidea fragilis	Animalia	Porifera	Demospongiae	Dictyoceratida	Dysideidae	Dysidea		fragilis	
+Echinocardium cordatum	124392	exact	Echinocardium cordatum	124392	Echinocardium cordatum	Animalia	Echinodermata	Echinoidea	Spatangoida	Loveniidae	Echinocardium		cordatum	
+Echinocyamus pusillus	124273	exact	Echinocyamus pusillus	124273	Echinocyamus pusillus	Animalia	Echinodermata	Echinoidea	Clypeasteroida	Fibulariidae	Echinocyamus		pusillus	
+Echinus esculentus	124287	exact	Echinus esculentus	124287	Echinus esculentus	Animalia	Echinodermata	Echinoidea	Camarodonta	Echinidae	Echinus		esculentus	
+Edwardsia ivelli	100888	exact	Edwardsia ivelli	100888	Edwardsia ivelli	Animalia	Cnidaria	Anthozoa	Actiniaria	Edwardsiidae	Edwardsia		ivelli	
+Electra pilosa	111355	exact	Electra pilosa	111355	Electra pilosa	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Electridae	Electra		pilosa	
+Ensis ensis	140733	exact	Ensis ensis	140733	Ensis ensis	Animalia	Mollusca	Bivalvia	Adapedonta	Pharidae	Ensis		ensis	
+Ensis spp.	138333	exact	Ensis	138333	Ensis	Animalia	Mollusca	Bivalvia	Adapedonta	Pharidae	Ensis			
+Eteone spp.	129443	exact	Eteone	129443	Eteone	Animalia	Annelida	Polychaeta	Phyllodocida	Phyllodocidae	Eteone			
+Euclymene spp.	129347	exact	Euclymene	129347	Euclymene	Animalia	Annelida	Polychaeta		Maldanidae	Euclymene			
+Eulalia spp.	129445	exact	Eulalia	129445	Eulalia	Animalia	Annelida	Polychaeta	Phyllodocida	Phyllodocidae	Eulalia			
+Eumida spp.	129446	exact	Eumida	129446	Eumida	Animalia	Annelida	Polychaeta	Phyllodocida	Phyllodocidae	Eumida			
+Eunicella verrucosa	125366	exact	Eunicella verrucosa	125366	Eunicella verrucosa	Animalia	Cnidaria	Anthozoa	Alcyonacea	Gorgoniidae	Eunicella		verrucosa	
+Eurydice pulchra	118852	exact	Eurydice pulchra	118852	Eurydice pulchra	Animalia	Arthropoda	Malacostraca	Isopoda	Cirolanidae	Eurydice		pulchra	
+Exogone spp.	129654	exact	Exogone	129654	Exogone	Animalia	Annelida	Polychaeta	Phyllodocida	Syllidae	Exogone			
+Flustra foliacea	111367	exact	Flustra foliacea	111367	Flustra foliacea	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Flustridae	Flustra		foliacea	
+Fucus ceranoides	145542	exact	Fucus ceranoides	145542	Fucus ceranoides	Chromista	Ochrophyta	Phaeophyceae	Fucales	Fucaceae	Fucus		ceranoides	
+Fucus distichus	145544	exact	Fucus distichus	145544	Fucus distichus	Chromista	Ochrophyta	Phaeophyceae	Fucales	Fucaceae	Fucus		distichus	
+Fucus serratus	145546	exact	Fucus serratus	145546	Fucus serratus	Chromista	Ochrophyta	Phaeophyceae	Fucales	Fucaceae	Fucus		serratus	
+Fucus spiralis	145547	exact	Fucus spiralis	145547	Fucus spiralis	Chromista	Ochrophyta	Phaeophyceae	Fucales	Fucaceae	Fucus		spiralis	
+Fucus vesiculosus	145548	exact	Fucus vesiculosus	145548	Fucus vesiculosus	Chromista	Ochrophyta	Phaeophyceae	Fucales	Fucaceae	Fucus		vesiculosus	
+Funiculina quadrangularis	128506	exact	Funiculina quadrangularis	128506	Funiculina quadrangularis	Animalia	Cnidaria	Anthozoa	Pennatulacea	Funiculinidae	Funiculina		quadrangularis	
+Furcellaria lumbricalis	145620	exact	Furcellaria lumbricalis	145620	Furcellaria lumbricalis	Plantae	Rhodophyta	Florideophyceae	Gigartinales	Furcellariaceae	Furcellaria		lumbricalis	
+Galathea spp.	106834	exact	Galathea	106834	Galathea	Animalia	Arthropoda	Malacostraca	Decapoda	Galatheidae	Galathea			
+Gammarus chevreuxi	102274	exact	Gammarus chevreuxi	102274	Gammarus chevreuxi	Animalia	Arthropoda	Malacostraca	Amphipoda	Gammaridae	Gammarus		chevreuxi	
+Gammarus insensibilis	102280	exact	Gammarus insensibilis	102280	Gammarus insensibilis	Animalia	Arthropoda	Malacostraca	Amphipoda	Gammaridae	Gammarus		insensibilis	
+Gammarus salinus	102292	exact	Gammarus salinus	102292	Gammarus salinus	Animalia	Arthropoda	Malacostraca	Amphipoda	Gammaridae	Gammarus		salinus	
+Gastrosaccus spp.	119859	exact	Gastrosaccus	119859	Gastrosaccus	Animalia	Arthropoda	Malacostraca	Mysida	Mysidae	Gastrosaccus			
+Glycymeris spp.	138035	exact	Glycymeris	138035	Glycymeris	Animalia	Mollusca	Bivalvia	Arcida	Glycymerididae	Glycymeris			
+Gobius cobitis	126886	exact	Gobius cobitis	126886	Gobius cobitis	Animalia	Chordata	Actinopterygii	Perciformes	Gobiidae	Gobius		cobitis	
+Gobius couchi	126887	exact	Gobius couchi	126887	Gobius couchi	Animalia	Chordata	Actinopterygii	Perciformes	Gobiidae	Gobius		couchi	
+Halichondria bowerbanki	132588	exact	Halichondria bowerbanki	165801	Halichondria (Halichondria) bowerbanki	Animalia	Porifera	Demospongiae	Suberitida	Halichondriidae	Halichondria		bowerbanki	
+Halichondria panicea	132627	exact	Halichondria panicea	165853	Halichondria (Halichondria) panicea	Animalia	Porifera	Demospongiae	Suberitida	Halichondriidae	Halichondria		panicea	
+Halidrys siliquosa	145540	exact	Halidrys siliquosa	145540	Halidrys siliquosa	Chromista	Ochrophyta	Phaeophyceae	Fucales	Sargassaceae	Halidrys		siliquosa	
+Harmothoe spp.	129491	exact	Harmothoe	129491	Harmothoe	Animalia	Annelida	Polychaeta	Phyllodocida	Polynoidae	Harmothoe			
+Hediste diversicolor	152302	exact	Hediste diversicolor	152302	Hediste diversicolor	Animalia	Annelida	Polychaeta	Phyllodocida	Nereididae	Hediste		diversicolor	
+Helcion pellucidum	162669	exact	Helcion pellucidum	147459	Patella pellucida	Animalia	Mollusca	Gastropoda		Patellidae	Helcion		pellucidum	
+Henricia oculata	123970	exact	Henricia oculata	123970	Henricia oculata	Animalia	Echinodermata	Asteroidea	Spinulosida	Echinasteridae	Henricia		oculata	
+Hesionura spp.	129448	exact	Hesionura	129448	Hesionura	Animalia	Annelida	Polychaeta	Phyllodocida	Phyllodocidae	Hesionura			
+Himanthalia elongata	145551	exact	Himanthalia elongata	145551	Himanthalia elongata	Chromista	Ochrophyta	Phaeophyceae	Fucales	Himanthaliaceae	Himanthalia		elongata	
+Hippocampus guttulatus	154776	exact	Hippocampus guttulatus	154776	Hippocampus guttulatus	Animalia	Chordata	Actinopterygii	Syngnathiformes	Syngnathidae	Hippocampus		guttulatus	
+Hippocampus hippocampus	127380	exact	Hippocampus hippocampus	127380	Hippocampus hippocampus	Animalia	Chordata	Actinopterygii	Syngnathiformes	Syngnathidae	Hippocampus		hippocampus	
+Homarus gammarus	107253	exact	Homarus gammarus	107253	Homarus gammarus	Animalia	Arthropoda	Malacostraca	Decapoda	Nephropidae	Homarus		gammarus	
+Hyale prevostii	490616	match_deleted	Apohyale prevostii	490616	Apohyale prevostii	Animalia	Arthropoda	Malacostraca	Amphipoda	Hyalidae	Apohyale		prevostii	
+Hydrallmania falcata	117890	exact	Hydrallmania falcata	117890	Hydrallmania falcata	Animalia	Cnidaria	Hydrozoa	Leptothecata	Sertulariidae	Hydrallmania		falcata	
+Hydrobia ulvae	140126	exact	Hydrobia ulvae	151628	Peringia ulvae	Animalia	Mollusca	Gastropoda	Littorinimorpha	Hydrobiidae	Hydrobia		ulvae	
+Idotea pelagica	119050	exact	Idotea pelagica	119050	Idotea pelagica	Animalia	Arthropoda	Malacostraca	Isopoda	Idoteidae	Idotea		pelagica	
+Inachus dorsettensis	107327	exact	Inachus dorsettensis	107327	Inachus dorsettensis	Animalia	Arthropoda	Malacostraca	Decapoda	Inachidae	Inachus		dorsettensis	
+Jassa falcata	102431	exact	Jassa falcata	102431	Jassa falcata	Animalia	Arthropoda	Malacostraca	Amphipoda	Ischyroceridae	Jassa		falcata	
+Labrus bergylta	126965	exact	Labrus bergylta	126965	Labrus bergylta	Animalia	Chordata	Actinopterygii	Perciformes	Labridae	Labrus		bergylta	
+Labrus mixtus	151501	exact	Labrus mixtus	151501	Labrus mixtus	Animalia	Chordata	Actinopterygii	Perciformes	Labridae	Labrus		mixtus	
+Lacuna vincta	140170	exact	Lacuna vincta	140170	Lacuna vincta	Animalia	Mollusca	Gastropoda	Littorinimorpha	Littorinidae	Lacuna		vincta	
+Laevicardium spp.	137738	exact	Laevicardium	137738	Laevicardium	Animalia	Mollusca	Bivalvia	Cardiida	Cardiidae	Laevicardium			
+Lagis spp.	152365	exact	Lagis	152365	Lagis	Animalia	Annelida	Polychaeta	Terebellida	Pectinariidae	Lagis			
+Laminaria digitata	145724	exact	Laminaria digitata	145724	Laminaria digitata	Chromista	Ochrophyta	Phaeophyceae	Laminariales	Laminariaceae	Laminaria		digitata	
+Laminaria hyperborea	145725	exact	Laminaria hyperborea	145725	Laminaria hyperborea	Chromista	Ochrophyta	Phaeophyceae	Laminariales	Laminariaceae	Laminaria		hyperborea	
+Lanice conchilega	131495	exact	Lanice conchilega	131495	Lanice conchilega	Animalia	Annelida	Polychaeta	Terebellida	Terebellidae	Lanice		conchilega	
+Lepidonotus spp.	129496	exact	Lepidonotus	129496	Lepidonotus	Animalia	Annelida	Polychaeta	Phyllodocida	Polynoidae	Lepidonotus			
+Leptasterias muelleri	379749	exact	Leptasterias muelleri	125158	Leptasterias (Leptasterias) muelleri	Animalia	Echinodermata	Asteroidea	Forcipulatida	Asteriidae	Leptasterias		muelleri	
+Leptochiton spp.	138117	exact	Leptochiton	138117	Leptochiton	Animalia	Mollusca	Polyplacophora	Lepidopleurida	Leptochitonidae	Leptochiton			
+Leptopsammia pruvoti	135193	exact	Leptopsammia pruvoti	135193	Leptopsammia pruvoti	Animalia	Cnidaria	Anthozoa	Scleractinia	Dendrophylliidae	Leptopsammia		pruvoti	
+Liocarcinus depurator	107387	exact	Liocarcinus depurator	107387	Liocarcinus depurator	Animalia	Arthropoda	Malacostraca	Decapoda	Polybiidae	Liocarcinus		depurator	
+Liocarcinus holsatus	107388	exact	Liocarcinus holsatus	107388	Liocarcinus holsatus	Animalia	Arthropoda	Malacostraca	Decapoda	Polybiidae	Liocarcinus		holsatus	
+Lithophyllum incrustans	145152	exact	Lithophyllum incrustans	145152	Lithophyllum incrustans	Plantae	Rhodophyta	Florideophyceae	Corallinales	Lithophyllaceae	Lithophyllum		incrustans	
+Lithothamnion corallioides	145165	exact	Lithothamnion corallioides	145165	Lithothamnion corallioides	Plantae	Rhodophyta	Florideophyceae	Corallinales	Lithothamniaceae	Lithothamnion		corallioides	
+Lithothamnion glaciale	145170	exact	Lithothamnion glaciale	145170	Lithothamnion glaciale	Plantae	Rhodophyta	Florideophyceae	Corallinales	Lithothamniaceae	Lithothamnion		glaciale	
+Littorina littorea	140262	exact	Littorina littorea	140262	Littorina littorea	Animalia	Mollusca	Gastropoda	Littorinimorpha	Littorinidae	Littorina		littorea	
+Littorina saxatilis	140264	exact	Littorina saxatilis	140264	Littorina saxatilis	Animalia	Mollusca	Gastropoda	Littorinimorpha	Littorinidae	Littorina		saxatilis	
+Luidia ciliaris	123920	exact	Luidia ciliaris	123920	Luidia ciliaris	Animalia	Echinodermata	Asteroidea	Paxillosida	Luidiidae	Luidia		ciliaris	
+Luidia sarsi	178639	exact	Luidia sarsi	123922	Luidia sarsii	Animalia	Echinodermata	Asteroidea	Paxillosida	Luidiidae	Luidia		sarsi	
+Lumbrineris spp.	129337	exact	Lumbrineris	129337	Lumbrineris	Animalia	Annelida	Polychaeta	Eunicida	Lumbrineridae	Lumbrineris			
+Macoma balthica	141579	exact	Macoma balthica	880017	Limecola balthica	Animalia	Mollusca	Bivalvia	Cardiida	Tellinidae	Macoma		balthica	
+Macropipus tuberculatus	107397	exact	Macropipus tuberculatus	107397	Macropipus tuberculatus	Animalia	Arthropoda	Malacostraca	Decapoda	Polybiidae	Macropipus		tuberculatus	
+Macropodia spp.	205077	exact	Macropodia	205077	Macropodia	Animalia	Arthropoda	Malacostraca	Decapoda	Inachidae	Macropodia			
+Macropodia tenuirostris	107346	exact	Macropodia tenuirostris	107346	Macropodia tenuirostris	Animalia	Arthropoda	Malacostraca	Decapoda	Inachidae	Macropodia		tenuirostris	
+Magelona mirabilis	130271	exact	Magelona mirabilis	130271	Magelona mirabilis	Animalia	Annelida	Polychaeta		Magelonidae	Magelona		mirabilis	
+Magelona spp.	129341	exact	Magelona	129341	Magelona	Animalia	Annelida	Polychaeta		Magelonidae	Magelona			
+Maja squinado	107350	exact	Maja squinado	107350	Maja squinado	Animalia	Arthropoda	Malacostraca	Decapoda	Majidae	Maja		squinado	
+Malacoceros fuliginosus	131131	exact	Malacoceros fuliginosus	131131	Malacoceros fuliginosus	Animalia	Annelida	Polychaeta	Spionida	Spionidae	Malacoceros		fuliginosus	
+Mediomastus fragilis	129892	exact	Mediomastus fragilis	129892	Mediomastus fragilis	Animalia	Annelida	Polychaeta		Capitellidae	Mediomastus		fragilis	
+Metridium senile	100982	exact	Metridium senile	100982	Metridium senile	Animalia	Cnidaria	Anthozoa	Actiniaria	Metridiidae	Metridium		senile	
+Modiolus modiolus	140467	exact	Modiolus modiolus	140467	Modiolus modiolus	Animalia	Mollusca	Bivalvia	Mytilida	Mytilidae	Modiolus		modiolus	
+Molgula manhattensis	103788	exact	Molgula manhattensis	103788	Molgula manhattensis	Animalia	Chordata	Ascidiacea	Stolidobranchia	Molgulidae	Molgula		manhattensis	
+Morchellium argus	148714	exact	Morchellium argus	148714	Morchellium argus	Animalia	Chordata	Ascidiacea	Aplousobranchia	Polyclinidae	Morchellium		argus	
+Musculus discors	140472	exact	Musculus discors	140472	Musculus discors	Animalia	Mollusca	Bivalvia	Mytilida	Mytilidae	Musculus		discors	
+Mya arenaria	140430	exact	Mya arenaria	140430	Mya arenaria	Animalia	Mollusca	Bivalvia	Myida	Myidae	Mya		arenaria	
+Mysella bidentata	140380	exact	Mysella bidentata	345281	Kurtiella bidentata	Animalia	Mollusca	Bivalvia	Galeommatida	Lasaeidae	Mysella		bidentata	
+Mytilus edulis	140480	exact	Mytilus edulis	140480	Mytilus edulis	Animalia	Mollusca	Bivalvia	Mytilida	Mytilidae	Mytilus		edulis	
+Neanthes fucata	130387	exact	Neanthes fucata	130387	Neanthes fucata	Animalia	Annelida	Polychaeta	Phyllodocida	Nereididae	Neanthes		fucata	
+Necora puber	107398	exact	Necora puber	107398	Necora puber	Animalia	Arthropoda	Malacostraca	Decapoda	Polybiidae	Necora		puber	
+Nematostella vectensis	100906	exact	Nematostella vectensis	100906	Nematostella vectensis	Animalia	Cnidaria	Anthozoa	Actiniaria	Edwardsiidae	Nematostella		vectensis	
+Nemertesia antennina	117809	exact	Nemertesia antennina	117809	Nemertesia antennina	Animalia	Cnidaria	Hydrozoa	Leptothecata	Plumulariidae	Nemertesia		antennina	
+Nemertesia ramosa	117815	exact	Nemertesia ramosa	117815	Nemertesia ramosa	Animalia	Cnidaria	Hydrozoa	Leptothecata	Plumulariidae	Nemertesia		ramosa	
+Neocrania anomala	104051	exact	Neocrania anomala	235385	Novocrania anomala	Animalia	Brachiopoda	Craniata	Craniida	Craniidae	Neocrania		anomala	
+Neomysis integer	120136	exact	Neomysis integer	120136	Neomysis integer	Animalia	Arthropoda	Malacostraca	Mysida	Mysidae	Neomysis		integer	
+Neopentadactyla mixta	124685	exact	Neopentadactyla mixta	124685	Neopentadactyla mixta	Animalia	Echinodermata	Holothuroidea	Dendrochirotida	Phyllophoridae	Neopentadactyla		mixta	
+Nephrops norvegicus	107254	exact	Nephrops norvegicus	107254	Nephrops norvegicus	Animalia	Arthropoda	Malacostraca	Decapoda	Nephropidae	Nephrops		norvegicus	
+Nephtys cirrosa	130357	exact	Nephtys cirrosa	130357	Nephtys cirrosa	Animalia	Annelida	Polychaeta	Phyllodocida	Nephtyidae	Nephtys		cirrosa	
+Nephtys hombergii	130359	exact	Nephtys hombergii	130359	Nephtys hombergii	Animalia	Annelida	Polychaeta	Phyllodocida	Nephtyidae	Nephtys		hombergii	
+Neptunea antiqua	138920	exact	Neptunea antiqua	138920	Neptunea antiqua	Animalia	Mollusca	Gastropoda	Neogastropoda	Buccinidae	Neptunea		antiqua	
+Nucella lapillus	140403	exact	Nucella lapillus	140403	Nucella lapillus	Animalia	Mollusca	Gastropoda	Neogastropoda	Muricidae	Nucella		lapillus	
+Nucula nitidosa	140589	exact	Nucula nitidosa	140589	Nucula nitidosa	Animalia	Mollusca	Bivalvia	Nuculida	Nuculidae	Nucula		nitidosa	
+Nucula sulcata	140592	exact	Nucula sulcata	140592	Nucula sulcata	Animalia	Mollusca	Bivalvia	Nuculida	Nuculidae	Nucula		sulcata	
+Obelia longissima	117389	exact	Obelia longissima	117389	Obelia longissima	Animalia	Cnidaria	Hydrozoa	Leptothecata	Campanulariidae	Obelia		longissima	
+Ophelia spp.	129413	exact	Ophelia	129413	Ophelia	Animalia	Annelida	Polychaeta		Opheliidae	Ophelia			
+Ophiothrix fragilis	125131	exact	Ophiothrix fragilis	125131	Ophiothrix fragilis	Animalia	Echinodermata	Ophiuroidea	Amphilepidida	Ophiotrichidae	Ophiothrix		fragilis	
+Ophiura albida	124913	exact	Ophiura albida	124913	Ophiura albida	Animalia	Echinodermata	Ophiuroidea	Ophiurida	Ophiuridae	Ophiura		albida	
+Ophiura ophiura	124929	exact	Ophiura ophiura	124929	Ophiura ophiura	Animalia	Echinodermata	Ophiuroidea	Ophiurida	Ophiuridae	Ophiura		ophiura	
+Osilinus lineatus	141827	exact	Osilinus lineatus	689176	Phorcus lineatus	Animalia	Mollusca	Gastropoda	Trochida	Trochidae	Osilinus		lineatus	
+Ostrea edulis	140658	exact	Ostrea edulis	140658	Ostrea edulis	Animalia	Mollusca	Bivalvia	Ostreida	Ostreidae	Ostrea		edulis	
+Owenia fusiformis	130544	exact	Owenia fusiformis	130544	Owenia fusiformis	Animalia	Annelida	Polychaeta		Oweniidae	Owenia		fusiformis	
+Pagurus bernhardus	107232	exact	Pagurus bernhardus	107232	Pagurus bernhardus	Animalia	Arthropoda	Malacostraca	Decapoda	Paguridae	Pagurus		bernhardus	
+Pagurus prideauxi	208731	exact	Pagurus prideauxi	107239	Pagurus prideaux	Animalia	Arthropoda	Malacostraca	Decapoda	Paguridae	Pagurus		prideauxi	
+Pagurus spp.	106854	exact	Pagurus	106854	Pagurus	Animalia	Arthropoda	Malacostraca	Decapoda	Paguridae	Pagurus			
+Palinurus elephas	107703	exact	Palinurus elephas	107703	Palinurus elephas	Animalia	Arthropoda	Malacostraca	Decapoda	Palinuridae	Palinurus		elephas	
+Palmaria palmata	145771	exact	Palmaria palmata	145771	Palmaria palmata	Plantae	Rhodophyta	Florideophyceae	Palmariales	Palmariaceae	Palmaria		palmata	
+Paludinella litorina	140266	match_deleted	Melarhaphe neritoides	140266	Melarhaphe neritoides	Animalia	Mollusca	Gastropoda	Littorinimorpha	Littorinidae	Melarhaphe		neritoides	
+Pandalus borealis	107649	exact	Pandalus borealis	107649	Pandalus borealis	Animalia	Arthropoda	Malacostraca	Decapoda	Pandalidae	Pandalus		borealis	
+Parablennius gattorugine	126770	exact	Parablennius gattorugine	126770	Parablennius gattorugine	Animalia	Chordata	Actinopterygii	Perciformes	Blenniidae	Parablennius		gattorugine	
+Patella ulyssiponensis	140684	exact	Patella ulyssiponensis	140684	Patella ulyssiponensis	Animalia	Mollusca	Gastropoda		Patellidae	Patella		ulyssiponensis	
+Patella vulgata	140685	exact	Patella vulgata	140685	Patella vulgata	Animalia	Mollusca	Gastropoda		Patellidae	Patella		vulgata	
+Pecten maximus	140712	exact	Pecten maximus	140712	Pecten maximus	Animalia	Mollusca	Bivalvia	Pectinida	Pectinidae	Pecten		maximus	
+Pelvetia canaliculata	145550	exact	Pelvetia canaliculata	145550	Pelvetia canaliculata	Chromista	Ochrophyta	Phaeophyceae	Fucales	Fucaceae	Pelvetia		canaliculata	
+Pennatula phosphorea	128517	exact	Pennatula phosphorea	128517	Pennatula phosphorea	Animalia	Cnidaria	Anthozoa	Pennatulacea	Pennatulidae	Pennatula		phosphorea	
+Pentapora fascialis	111082	exact	Pentapora fascialis	111082	Pentapora fascialis	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Bitectiporidae	Pentapora		fascialis	
+Phaxas pellucidus	140737	exact	Phaxas pellucidus	140737	Phaxas pellucidus	Animalia	Mollusca	Bivalvia	Adapedonta	Pharidae	Phaxas		pellucidus	
+Philine aperta	140744	exact	Philine aperta	140744	Philine aperta	Animalia	Mollusca	Gastropoda	Cephalaspidea	Philinidae	Philine		aperta	
+Pholas dactylus	140770	exact	Pholas dactylus	140770	Pholas dactylus	Animalia	Mollusca	Bivalvia	Myida	Pholadidae	Pholas		dactylus	
+Pholoe spp.	129439	exact	Pholoe	129439	Pholoe	Animalia	Annelida	Polychaeta	Phyllodocida	Pholoidae	Pholoe			
+Phymatolithon calcareum	145199	exact	Phymatolithon calcareum	145199	Phymatolithon calcareum	Plantae	Rhodophyta	Florideophyceae	Corallinales	Lithothamniaceae	Phymatolithon		calcareum	
+Pilumnus spp.	106941	exact	Pilumnus	106941	Pilumnus	Animalia	Arthropoda	Malacostraca	Decapoda	Pilumnidae	Pilumnus			
+Pionosyllis spp.	129669	exact	Pionosyllis	129669	Pionosyllis	Animalia	Annelida	Polychaeta	Phyllodocida	Syllidae	Pionosyllis			
+Pirimela spp.	106878	exact	Pirimela	106878	Pirimela	Animalia	Arthropoda	Malacostraca	Decapoda	Carcinidae	Pirimela			
+Pisidia longicornis	107188	exact	Pisidia longicornis	107188	Pisidia longicornis	Animalia	Arthropoda	Malacostraca	Decapoda	Porcellanidae	Pisidia		longicornis	
+Pisione spp.	129469	exact	Pisione	129469	Pisione	Animalia	Annelida	Polychaeta	Phyllodocida	Sigalionidae	Pisione			
+Pleuronectes platessa	127143	exact	Pleuronectes platessa	127143	Pleuronectes platessa	Animalia	Chordata	Actinopterygii	Pleuronectiformes	Pleuronectidae	Pleuronectes		platessa	
+Polinices spp.	147109	exact	Polinices	147109	Polinices	Animalia	Mollusca	Gastropoda	Littorinimorpha	Naticidae	Polinices			
+Pollachius pollachius	126440	exact	Pollachius pollachius	126440	Pollachius pollachius	Animalia	Chordata	Actinopterygii	Gadiformes	Gadidae	Pollachius		pollachius	
+Polycirrus spp.	129710	exact	Polycirrus	129710	Polycirrus	Animalia	Annelida	Polychaeta	Terebellida	Terebellidae	Polycirrus			
+Polydora ciliata	131141	exact	Polydora ciliata	131141	Polydora ciliata	Animalia	Annelida	Polychaeta	Spionida	Spionidae	Polydora		ciliata	
+Polydora spp.	129619	exact	Polydora	129619	Polydora	Animalia	Annelida	Polychaeta	Spionida	Spionidae	Polydora			
+Pomatoceros triqueter	131027	exact	Pomatoceros triqueter	555935	Spirobranchus triqueter	Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	Pomatoceros		triqueter	
+Pomatoschistus microps	126927	exact	Pomatoschistus microps	126927	Pomatoschistus microps	Animalia	Chordata	Actinopterygii	Perciformes	Gobiidae	Pomatoschistus		microps	
+Pomatoschistus minutus	126928	exact	Pomatoschistus minutus	126928	Pomatoschistus minutus	Animalia	Chordata	Actinopterygii	Perciformes	Gobiidae	Pomatoschistus		minutus	
+Processa canaliculata	107682	exact	Processa canaliculata	107682	Processa canaliculata	Animalia	Arthropoda	Malacostraca	Decapoda	Processidae	Processa		canaliculata	
+Protanthea simplex	100913	exact	Protanthea simplex	100913	Protanthea simplex	Animalia	Cnidaria	Anthozoa	Actiniaria	Gonactiniidae	Protanthea		simplex	
+Psammechinus miliaris	124319	exact	Psammechinus miliaris	124319	Psammechinus miliaris	Animalia	Echinodermata	Echinoidea	Camarodonta	Parechinidae	Psammechinus		miliaris	
+Pseudamussium septemradiatum	153001	exact	Pseudamussium septemradiatum	140717	Pseudamussium peslutrae	Animalia	Mollusca	Bivalvia	Pectinida	Pectinidae	Pseudamussium		septemradiatum	
+Pseudomystides spp.	129457	exact	Pseudomystides	129457	Pseudomystides	Animalia	Annelida	Polychaeta	Phyllodocida	Phyllodocidae	Pseudomystides			
+Pygospio elegans	131170	exact	Pygospio elegans	131170	Pygospio elegans	Animalia	Annelida	Polychaeta	Spionida	Spionidae	Pygospio		elegans	
+Rhodothamniella floridula	145777	exact	Rhodothamniella floridula	145777	Rhodothamniella floridula	Plantae	Rhodophyta	Florideophyceae	Palmariales	Rhodothamniellaceae	Rhodothamniella		floridula	
+Sabellaria alveolata	130866	exact	Sabellaria alveolata	130866	Sabellaria alveolata	Animalia	Annelida	Polychaeta		Sabellariidae	Sabellaria		alveolata	
+Sabellaria spinulosa	130867	exact	Sabellaria spinulosa	130867	Sabellaria spinulosa	Animalia	Annelida	Polychaeta		Sabellariidae	Sabellaria		spinulosa	
+Saccharina latissima	234483	exact	Saccharina latissima	234483	Saccharina latissima	Chromista	Ochrophyta	Phaeophyceae	Laminariales	Laminariaceae	Saccharina		latissima	
+Saccorhiza polyschides	145735	exact	Saccorhiza polyschides	145735	Saccorhiza polyschides	Chromista	Ochrophyta	Phaeophyceae	Tilopteridales	Phyllariaceae	Saccorhiza		polyschides	
+Sagartiogeton undatus	101002	exact	Sagartiogeton undatus	101002	Sagartiogeton undatus	Animalia	Cnidaria	Anthozoa	Actiniaria	Sagartiidae	Sagartiogeton		undatus	
+Sargassum (Bactrophycus) muticum	145559	exact	Sargassum (Bactrophycus) muticum	494791	Sargassum muticum	Chromista	Ochrophyta	Phaeophyceae	Fucales	Sargassaceae	Sargassum	Bactrophycus	muticum	
+Scalibragma spp.									
+Scoloplos armiger	130537	exact	Scoloplos armiger	130537	Scoloplos armiger	Animalia	Annelida	Polychaeta		Orbiniidae	Scoloplos		armiger	
+Semibalanus balanoides	106210	exact	Semibalanus balanoides	106210	Semibalanus balanoides	Animalia	Arthropoda	Hexanauplia	Sessilia	Archaeobalanidae	Semibalanus		balanoides	
+Serpula vermicularis	131051	exact	Serpula vermicularis	131051	Serpula vermicularis	Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	Serpula		vermicularis	
+Sertularia cupressina	117913	exact	Sertularia cupressina	117913	Sertularia cupressina	Animalia	Cnidaria	Hydrozoa	Leptothecata	Sertulariidae	Sertularia		cupressina	
+Solecurtus spp.	138513	exact	Solecurtus	138513	Solecurtus	Animalia	Mollusca	Bivalvia	Cardiida	Solecurtidae	Solecurtus			
+Spatangus purpureus	124418	exact	Spatangus purpureus	124418	Spatangus purpureus	Animalia	Echinodermata	Echinoidea	Spatangoida	Spatangidae	Spatangus		purpureus	
+Sphenia spp.	138212	exact	Sphenia	138212	Sphenia	Animalia	Mollusca	Bivalvia	Myida	Myidae	Sphenia			
+Spio filicornis	131183	exact	Spio filicornis	131183	Spio filicornis	Animalia	Annelida	Polychaeta	Spionida	Spionidae	Spio		filicornis	
+Spio martinensis	131185	exact	Spio martinensis	131185	Spio martinensis	Animalia	Annelida	Polychaeta	Spionida	Spionidae	Spio		martinensis	
+Spiophanes bombyx	131187	exact	Spiophanes bombyx	131187	Spiophanes bombyx	Animalia	Annelida	Polychaeta	Spionida	Spionidae	Spiophanes		bombyx	
+Spisula solida	140301	exact	Spisula solida	140301	Spisula solida	Animalia	Mollusca	Bivalvia	Venerida	Mactridae	Spisula		solida	
+Syllis spp.	129680	exact	Syllis	129680	Syllis	Animalia	Annelida	Polychaeta	Phyllodocida	Syllidae	Syllis			
+Talitrus saltator	103220	exact	Talitrus saltator	103220	Talitrus saltator	Animalia	Arthropoda	Malacostraca	Amphipoda	Talitridae	Talitrus		saltator	
+Tellina fabula	141587	exact	Tellina fabula	146907	Fabulina fabula	Animalia	Mollusca	Bivalvia	Cardiida	Tellinidae	Tellina		fabula	
+Tellina spp.	138533	exact	Tellina	138533	Tellina	Animalia	Mollusca	Bivalvia	Cardiida	Tellinidae	Tellina			
+Tenellia adspersa	141639	exact	Tenellia adspersa	141639	Tenellia adspersa	Animalia	Mollusca	Gastropoda	Nudibranchia	Trinchesiidae	Tenellia		adspersa	
+Thelepus spp.	129714	exact	Thelepus	129714	Thelepus	Animalia	Annelida	Polychaeta	Terebellida	Terebellidae	Thelepus			
+Thorogobius ephippiatus	126937	exact	Thorogobius ephippiatus	126937	Thorogobius ephippiatus	Animalia	Chordata	Actinopterygii	Perciformes	Gobiidae	Thorogobius		ephippiatus	
+Thracia spp.	138549	exact	Thracia	138549	Thracia	Animalia	Mollusca	Bivalvia		Thraciidae	Thracia			
+Thyasira flexuosa	141662	exact	Thyasira flexuosa	141662	Thyasira flexuosa	Animalia	Mollusca	Bivalvia	Lucinida	Thyasiridae	Thyasira		flexuosa	
+Thyasira gouldi	141663	exact	Thyasira gouldi	141663	Thyasira gouldi	Animalia	Mollusca	Bivalvia	Lucinida	Thyasiridae	Thyasira		gouldi	
+Travisia spp.	129417	exact	Travisia	129417	Travisia	Animalia	Annelida	Polychaeta		Travisiidae	Travisia			
+Trisopterus luscus	126445	exact	Trisopterus luscus	126445	Trisopterus luscus	Animalia	Chordata	Actinopterygii	Gadiformes	Gadidae	Trisopterus		luscus	
+Trisopterus minutus	126446	exact	Trisopterus minutus	126446	Trisopterus minutus	Animalia	Chordata	Actinopterygii	Gadiformes	Gadidae	Trisopterus		minutus	
+Truncatella subcylindrica	141850	exact	Truncatella subcylindrica	141850	Truncatella subcylindrica	Animalia	Mollusca	Gastropoda	Littorinimorpha	Truncatellidae	Truncatella		subcylindrica	
+Tubularia indivisa	117994	exact	Tubularia indivisa	117994	Tubularia indivisa	Animalia	Cnidaria	Hydrozoa	Anthoathecata	Tubulariidae	Tubularia		indivisa	
+Turritella communis	141872	exact	Turritella communis	1381415	Turritellinella tricarinata	Animalia	Mollusca	Gastropoda	[unassigned] Caenogastropoda	Turritellidae	Turritella		communis	
+Typosyllis spp.	147195	exact	Typosyllis	129680	Syllis	Animalia	Annelida	Polychaeta	Phyllodocida	Syllidae	Typosyllis			
+Ulva intestinalis	234471	exact	Ulva intestinalis	234471	Ulva intestinalis	Plantae	Chlorophyta	Ulvophyceae	Ulvales	Ulvaceae	Ulva		intestinalis	
+Umbonula littoralis	111586	exact	Umbonula littoralis	146830	Oshurkovia littoralis	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Umbonulidae	Umbonula		littoralis	
+Upogebia spp.	107079	exact	Upogebia	107079	Upogebia	Animalia	Arthropoda	Malacostraca	Decapoda	Upogebiidae	Upogebia			
+Urothoe spp.	101789	exact	Urothoe	101789	Urothoe	Animalia	Arthropoda	Malacostraca	Amphipoda	Urothoidae	Urothoe			
+Urticina felina	100834	exact	Urticina felina	100834	Urticina felina	Animalia	Cnidaria	Anthozoa	Actiniaria	Actiniidae	Urticina		felina	
+Venerupis senegalensis	146955	exact	Venerupis senegalensis	181364	Venerupis corrugata	Animalia	Mollusca	Bivalvia	Venerida	Veneridae	Venerupis		senegalensis	
+Victorella pavida	111673	exact	Victorella pavida	111673	Victorella pavida	Animalia	Bryozoa	Gymnolaemata	Ctenostomatida	Victorellidae	Victorella		pavida	
+Virgularia mirabilis	128539	exact	Virgularia mirabilis	128539	Virgularia mirabilis	Animalia	Cnidaria	Anthozoa	Pennatulacea	Virgulariidae	Virgularia		mirabilis	
+Zostera marina	495077	exact	Zostera marina	145795	Zostera subg. Zostera marina	Plantae	Tracheophyta	Magnoliopsida	Alismatales	Zosteraceae	Zostera		marina	
+Abludomelita obtusata	102788	exact	Abludomelita obtusata	102788	Abludomelita obtusata	Animalia	Arthropoda	Malacostraca	Amphipoda	Melitidae	Abludomelita		obtusata	
+Abra nitida	141435	exact	Abra nitida	141435	Abra nitida	Animalia	Mollusca	Bivalvia	Cardiida	Semelidae	Abra		nitida	
+Abra prismatica	141436	exact	Abra prismatica	141436	Abra prismatica	Animalia	Mollusca	Bivalvia	Cardiida	Semelidae	Abra		prismatica	
+Abra tenuis	141439	exact	Abra tenuis	141439	Abra tenuis	Animalia	Mollusca	Bivalvia	Cardiida	Semelidae	Abra		tenuis	
+Ampelisca macrocephala	101908	exact	Ampelisca macrocephala	101908	Ampelisca macrocephala	Animalia	Arthropoda	Malacostraca	Amphipoda	Ampeliscidae	Ampelisca		macrocephala	
+Ampharete acutifrons	129775	exact	Ampharete acutifrons	129775	Ampharete acutifrons	Animalia	Annelida	Polychaeta	Terebellida	Ampharetidae	Ampharete		acutifrons	
+Amphicteis gunneri	129784	exact	Amphicteis gunneri	129784	Amphicteis gunneri	Animalia	Annelida	Polychaeta	Terebellida	Ampharetidae	Amphicteis		gunneri	
+Anomia ephippium	138748	exact	Anomia ephippium	138748	Anomia ephippium	Animalia	Mollusca	Bivalvia	Pectinida	Anomiidae	Anomia		ephippium	
+Anoplodactylus petiolatus	134723	exact	Anoplodactylus petiolatus	134723	Anoplodactylus petiolatus	Animalia	Arthropoda	Pycnogonida	Pantopoda	Phoxichilidiidae	Anoplodactylus		petiolatus	
+Aonides paucibranchiata	131107	exact	Aonides paucibranchiata	131107	Aonides paucibranchiata	Animalia	Annelida	Polychaeta	Spionida	Spionidae	Aonides		paucibranchiata	
+Aonides spp.	129605	exact	Aonides	129605	Aonides	Animalia	Annelida	Polychaeta	Spionida	Spionidae	Aonides			
+Asterina phylactica	123990	exact	Asterina phylactica	123990	Asterina phylactica	Animalia	Echinodermata	Asteroidea	Valvatida	Asterinidae	Asterina		phylactica	
+Azorinus chamasolen	141541	exact	Azorinus chamasolen	141541	Azorinus chamasolen	Animalia	Mollusca	Bivalvia	Cardiida	Solecurtidae	Azorinus		chamasolen	
+Bathyporeia guilliamsoniana	103060	exact	Bathyporeia guilliamsoniana	103060	Bathyporeia guilliamsoniana	Animalia	Arthropoda	Malacostraca	Amphipoda	Bathyporeiidae	Bathyporeia		guilliamsoniana	
+Bathyporeia pilosa	103068	exact	Bathyporeia pilosa	103068	Bathyporeia pilosa	Animalia	Arthropoda	Malacostraca	Amphipoda	Bathyporeiidae	Bathyporeia		pilosa	
+Bathyporeia sarsi	103073	exact	Bathyporeia sarsi	103073	Bathyporeia sarsi	Animalia	Arthropoda	Malacostraca	Amphipoda	Bathyporeiidae	Bathyporeia		sarsi	
+Bathyporeia tenuipes	103076	exact	Bathyporeia tenuipes	103076	Bathyporeia tenuipes	Animalia	Arthropoda	Malacostraca	Amphipoda	Bathyporeiidae	Bathyporeia		tenuipes	
+Bodotria scorpioides	110445	exact	Bodotria scorpioides	110445	Bodotria scorpioides	Animalia	Arthropoda	Malacostraca	Cumacea	Bodotriidae	Bodotria		scorpioides	
+Branchiostoma lanceolatum	104906	exact	Branchiostoma lanceolatum	104906	Branchiostoma lanceolatum	Animalia	Chordata	Leptocardii		Branchiostomatidae	Branchiostoma		lanceolatum	
+Caprella linearis	101839	exact	Caprella linearis	101839	Caprella linearis	Animalia	Arthropoda	Malacostraca	Amphipoda	Caprellidae	Caprella		linearis	
+Capulus ungaricus	138984	exact	Capulus ungaricus	138984	Capulus ungaricus	Animalia	Mollusca	Gastropoda	Littorinimorpha	Capulidae	Capulus		ungaricus	
+Ceratocephale loveni	130367	exact	Ceratocephale loveni	130367	Ceratocephale loveni	Animalia	Annelida	Polychaeta	Phyllodocida	Nereididae	Ceratocephale		loveni	
+Chamelea gallina	141907	exact	Chamelea gallina	141907	Chamelea gallina	Animalia	Mollusca	Bivalvia	Venerida	Veneridae	Chamelea		gallina	
+Corella parallelogramma	103743	exact	Corella parallelogramma	103743	Corella parallelogramma	Animalia	Chordata	Ascidiacea	Phlebobranchia	Corellidae	Corella		parallelogramma	
+Corophium crassicorne	102089	exact	Corophium crassicorne	397383	Crassicorophium crassicorne	Animalia	Arthropoda	Malacostraca	Amphipoda	Corophiidae	Corophium		crassicorne	
+Diastylis bradyi	110472	exact	Diastylis bradyi	110472	Diastylis bradyi	Animalia	Arthropoda	Malacostraca	Cumacea	Diastylidae	Diastylis		bradyi	
+Diastylis laevis	110481	exact	Diastylis laevis	110481	Diastylis laevis	Animalia	Arthropoda	Malacostraca	Cumacea	Diastylidae	Diastylis		laevis	
+Diastylis rathkei	110487	exact	Diastylis rathkei	110487	Diastylis rathkei	Animalia	Arthropoda	Malacostraca	Cumacea	Diastylidae	Diastylis		rathkei	
+Donax vittatus	139604	exact	Donax vittatus	139604	Donax vittatus	Animalia	Mollusca	Bivalvia	Cardiida	Donacidae	Donax		vittatus	
+Drilonereis spp.	129200	exact	Drilonereis	129200	Drilonereis	Animalia	Annelida	Polychaeta	Eunicida	Oenonidae	Drilonereis			
+Echiurus echiurus	110377	exact	Echiurus echiurus	110377	Echiurus echiurus	Animalia	Annelida	Polychaeta	Echiuroidea	Echiuridae	Echiurus		echiurus	
+Escharella immersa	111484	exact	Escharella immersa	111484	Escharella immersa	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Escharellidae	Escharella		immersa	
+Eteone flava	130613	exact	Eteone flava	130613	Eteone flava	Animalia	Annelida	Polychaeta	Phyllodocida	Phyllodocidae	Eteone		flava	
+Eteone foliosa	130614	exact	Eteone foliosa	152250	Hypereteone foliosa	Animalia	Annelida	Polychaeta	Phyllodocida	Phyllodocidae	Eteone		foliosa	
+Eteone longa	130616	exact	Eteone longa	130616	Eteone longa	Animalia	Annelida	Polychaeta	Phyllodocida	Phyllodocidae	Eteone		longa	
+Eudorella emarginata	110524	exact	Eudorella emarginata	110524	Eudorella emarginata	Animalia	Arthropoda	Malacostraca	Cumacea	Leuconidae	Eudorella		emarginata	
+Eudorella truncatula	110535	exact	Eudorella truncatula	110535	Eudorella truncatula	Animalia	Arthropoda	Malacostraca	Cumacea	Leuconidae	Eudorella		truncatula	
+Eulalia mustela	130631	exact	Eulalia mustela	130631	Eulalia mustela	Animalia	Annelida	Polychaeta	Phyllodocida	Phyllodocidae	Eulalia		mustela	
+Eulalia viridis	130639	exact	Eulalia viridis	130639	Eulalia viridis	Animalia	Annelida	Polychaeta	Phyllodocida	Phyllodocidae	Eulalia		viridis	
+Eusyllis blomstrandi	131290	exact	Eusyllis blomstrandi	131290	Eusyllis blomstrandi	Animalia	Annelida	Polychaeta	Phyllodocida	Syllidae	Eusyllis		blomstrandi	
+Exogone hebes	238310	exact	Exogone hebes	757970	Parexogone hebes	Animalia	Annelida	Polychaeta	Phyllodocida	Syllidae	Exogone		hebes	
+Gastrosaccus spinifer	120020	exact	Gastrosaccus spinifer	120020	Gastrosaccus spinifer	Animalia	Arthropoda	Malacostraca	Mysida	Mysidae	Gastrosaccus		spinifer	
+Gattyana cirrhosa	130749	exact	Gattyana cirrhosa	130749	Gattyana cirrhosa	Animalia	Annelida	Polychaeta	Phyllodocida	Polynoidae	Gattyana		cirrhosa	
+Glycera alba	130116	exact	Glycera alba	130116	Glycera alba	Animalia	Annelida	Polychaeta	Phyllodocida	Glyceridae	Glycera		alba	
+Glycera lapidum	130123	exact	Glycera lapidum	130123	Glycera lapidum	Animalia	Annelida	Polychaeta	Phyllodocida	Glyceridae	Glycera		lapidum	
+Glycera rouxi	183173	exact	Glycera rouxi	130131	Glycera unicornis	Animalia	Annelida	Polychaeta	Phyllodocida	Glyceridae	Glycera		rouxi	
+Glycera spp.	129296	exact	Glycera	129296	Glycera	Animalia	Annelida	Polychaeta	Phyllodocida	Glyceridae	Glycera			
+Glycinde nordmanni	130136	exact	Glycinde nordmanni	130136	Glycinde nordmanni	Animalia	Annelida	Polychaeta	Phyllodocida	Goniadidae	Glycinde		nordmanni	
+Goniada maculata	130140	exact	Goniada maculata	130140	Goniada maculata	Animalia	Annelida	Polychaeta	Phyllodocida	Goniadidae	Goniada		maculata	
+Goodallia triangularis	138831	exact	Goodallia triangularis	138831	Goodallia triangularis	Animalia	Mollusca	Bivalvia	Carditida	Astartidae	Goodallia		triangularis	
+Harmothoe impar	130770	exact	Harmothoe impar	130770	Harmothoe impar	Animalia	Annelida	Polychaeta	Phyllodocida	Polynoidae	Harmothoe		impar	
+Haustorius arenarius	102317	exact	Haustorius arenarius	102317	Haustorius arenarius	Animalia	Arthropoda	Malacostraca	Amphipoda	Haustoriidae	Haustorius		arenarius	
+Hesionura elongata	130649	exact	Hesionura elongata	130649	Hesionura elongata	Animalia	Annelida	Polychaeta	Phyllodocida	Phyllodocidae	Hesionura		elongata	
+Hiatella arctica	140103	exact	Hiatella arctica	140103	Hiatella arctica	Animalia	Mollusca	Bivalvia	Adapedonta	Hiatellidae	Hiatella		arctica	
+Hyalinoecia tubicola	130464	exact	Hyalinoecia tubicola	130464	Hyalinoecia tubicola	Animalia	Annelida	Polychaeta	Eunicida	Onuphidae	Hyalinoecia		tubicola	
+Hyas coarctatus	107323	exact	Hyas coarctatus	107323	Hyas coarctatus	Animalia	Arthropoda	Malacostraca	Decapoda	Oregoniidae	Hyas		coarctatus	
+Iphinoe serrata	110460	exact	Iphinoe serrata	110460	Iphinoe serrata	Animalia	Arthropoda	Malacostraca	Cumacea	Bodotriidae	Iphinoe		serrata	
+Iphinoe trispinosa	110462	exact	Iphinoe trispinosa	110462	Iphinoe trispinosa	Animalia	Arthropoda	Malacostraca	Cumacea	Bodotriidae	Iphinoe		trispinosa	
+Laevicardium crassum	139004	exact	Laevicardium crassum	139004	Laevicardium crassum	Animalia	Mollusca	Bivalvia	Cardiida	Cardiidae	Laevicardium		crassum	
+Laonice cirrata	131128	exact	Laonice cirrata	131128	Laonice cirrata	Animalia	Annelida	Polychaeta	Spionida	Spionidae	Laonice		cirrata	
+Laonice spp.	129613	exact	Laonice	129613	Laonice	Animalia	Annelida	Polychaeta	Spionida	Spionidae	Laonice			
+Lepidonotus squamatus	130801	exact	Lepidonotus squamatus	130801	Lepidonotus squamatus	Animalia	Annelida	Polychaeta	Phyllodocida	Polynoidae	Lepidonotus		squamatus	
+Leptosynapta inhaerens	124465	exact	Leptosynapta inhaerens	124465	Leptosynapta inhaerens	Animalia	Echinodermata	Holothuroidea	Apodida	Synaptidae	Leptosynapta		inhaerens	
+Leptosynapta spp.	123449	exact	Leptosynapta	123449	Leptosynapta	Animalia	Echinodermata	Holothuroidea	Apodida	Synaptidae	Leptosynapta			
+Liocarcinus marmoreus	107390	exact	Liocarcinus marmoreus	107390	Liocarcinus marmoreus	Animalia	Arthropoda	Malacostraca	Decapoda	Polybiidae	Liocarcinus		marmoreus	
+Lucinoma borealis	140283	exact	Lucinoma borealis	140283	Lucinoma borealis	Animalia	Mollusca	Bivalvia	Lucinida	Lucinidae	Lucinoma		borealis	
+Lumbrineris hibernica	130245	exact	Lumbrineris hibernica	146469	Abyssoninoe hibernica	Animalia	Annelida	Polychaeta	Eunicida	Lumbrineridae	Lumbrineris		hibernica	
+Lumbrineris latreilli	130248	exact	Lumbrineris latreilli	130248	Lumbrineris latreilli	Animalia	Annelida	Polychaeta	Eunicida	Lumbrineridae	Lumbrineris		latreilli	
+Mactra stultorum	140299	exact	Mactra stultorum	140299	Mactra stultorum	Animalia	Mollusca	Bivalvia	Venerida	Mactridae	Mactra		stultorum	
+Maera othonis	102821	exact	Maera othonis	534781	Othomaera othonis	Animalia	Arthropoda	Malacostraca	Amphipoda	Maeridae	Maera		othonis	
+Marphysa bellii	130072	exact	Marphysa bellii	1297885	Paucibranchia bellii	Animalia	Annelida	Polychaeta	Eunicida	Eunicidae	Marphysa		bellii	
+Minuspio spp.	129617	exact	Minuspio	129620	Prionospio	Animalia	Annelida	Polychaeta	Spionida	Spionidae	Minuspio			
+Modiolus barbatus	140464	exact	Modiolus barbatus	140464	Modiolus barbatus	Animalia	Mollusca	Bivalvia	Mytilida	Mytilidae	Modiolus		barbatus	
+Nephasoma spp.	136022	exact	Nephasoma	136022	Nephasoma	Animalia	Sipuncula	Sipunculidea	Golfingiida	Golfingiidae	Nephasoma			
+Nephtys caeca	130355	exact	Nephtys caeca	130355	Nephtys caeca	Animalia	Annelida	Polychaeta	Phyllodocida	Nephtyidae	Nephtys		caeca	
+Nephtys incisa	130362	exact	Nephtys incisa	130362	Nephtys incisa	Animalia	Annelida	Polychaeta	Phyllodocida	Nephtyidae	Nephtys		incisa	
+Nephtys longosetosa	130364	exact	Nephtys longosetosa	130364	Nephtys longosetosa	Animalia	Annelida	Polychaeta	Phyllodocida	Nephtyidae	Nephtys		longosetosa	
+Nereimyra punctata	130185	exact	Nereimyra punctata	130185	Nereimyra punctata	Animalia	Annelida	Polychaeta	Phyllodocida	Hesionidae	Nereimyra		punctata	
+Notomastus latericeus	129898	exact	Notomastus latericeus	129898	Notomastus latericeus	Animalia	Annelida	Polychaeta		Capitellidae	Notomastus		latericeus	
+Ophelia borealis	130491	exact	Ophelia borealis	130491	Ophelia borealis	Animalia	Annelida	Polychaeta		Opheliidae	Ophelia		borealis	
+Orbinia sertulata	130523	exact	Orbinia sertulata	130523	Orbinia sertulata	Animalia	Annelida	Polychaeta		Orbiniidae	Orbinia		sertulata	
+Orbinia spp.	129420	exact	Orbinia	129420	Orbinia	Animalia	Annelida	Polychaeta		Orbiniidae	Orbinia			
+Paraonis spp.	129435	exact	Paraonis	129435	Paraonis	Animalia	Annelida	Polychaeta		Paraonidae	Paraonis			
+Parvicardium scabrum	139012	exact	Parvicardium scabrum	139012	Parvicardium scabrum	Animalia	Mollusca	Bivalvia	Cardiida	Cardiidae	Parvicardium		scabrum	
+Pectinaria (Amphictene) auricoma	130590	exact	Pectinaria (Amphictene) auricoma	152448	Amphictene auricoma	Animalia	Annelida	Polychaeta	Terebellida	Pectinariidae	Pectinaria	Amphictene	auricoma	
+Pectinaria koreni	234099	exact	Pectinaria koreni	152367	Lagis koreni	Animalia	Annelida	Polychaeta	Terebellida	Pectinariidae	Pectinaria		koreni	
+Phoronis muelleri	128549	exact	Phoronis muelleri	128549	Phoronis muelleri	Animalia	Phoronida			Phoronidae	Phoronis		muelleri	
+Photis longicaudata	102383	exact	Photis longicaudata	102383	Photis longicaudata	Animalia	Arthropoda	Malacostraca	Amphipoda	Photidae	Photis		longicaudata	
+Phyllodoce (Anaitides) groenlandica	130668	exact	Phyllodoce (Anaitides) groenlandica	334506	Phyllodoce groenlandica	Animalia	Annelida	Polychaeta	Phyllodocida	Phyllodocidae	Phyllodoce	Anaitides	groenlandica	
+Phyllodoce (Anaitides) maculata	334510	exact_subgenus	Phyllodoce maculata	334510	Phyllodoce maculata	Animalia	Annelida	Polychaeta	Phyllodocida	Phyllodocidae	Phyllodoce		maculata	
+Pisidia spp.	106837	exact	Pisidia	106837	Pisidia	Animalia	Arthropoda	Malacostraca	Decapoda	Porcellanidae	Pisidia			
+Pisione remota	130707	exact	Pisione remota	130707	Pisione remota	Animalia	Annelida	Polychaeta	Phyllodocida	Sigalionidae	Pisione		remota	
+Poecilochaetus serpens	130711	exact	Poecilochaetus serpens	130711	Poecilochaetus serpens	Animalia	Annelida	Polychaeta	Spionida	Poecilochaetidae	Poecilochaetus		serpens	
+Pontocrates altamarinus	102916	exact	Pontocrates altamarinus	102916	Pontocrates altamarinus	Animalia	Arthropoda	Malacostraca	Amphipoda	Oedicerotidae	Pontocrates		altamarinus	
+Prionospio spp.	129620	exact	Prionospio	129620	Prionospio	Animalia	Annelida	Polychaeta	Spionida	Spionidae	Prionospio			
+Protodorvillea kefersteini	130041	exact	Protodorvillea kefersteini	130041	Protodorvillea kefersteini	Animalia	Annelida	Polychaeta	Eunicida	Dorvilleidae	Protodorvillea		kefersteini	
+Protodorvillea spp.	129272	exact	Protodorvillea	129272	Protodorvillea	Animalia	Annelida	Polychaeta	Eunicida	Dorvilleidae	Protodorvillea			
+Pycnogonum littorale	134744	exact	Pycnogonum littorale	239867	Pycnogonum litorale	Animalia	Arthropoda	Pycnogonida	Pantopoda	Pycnogonidae	Pycnogonum		littorale	
+Sagartia elegans	100991	exact	Sagartia elegans	100991	Sagartia elegans	Animalia	Cnidaria	Anthozoa	Actiniaria	Sagartiidae	Sagartia		elegans	
+Scalibregma inflatum	130980	exact	Scalibregma inflatum	130980	Scalibregma inflatum	Animalia	Annelida	Polychaeta		Scalibregmatidae	Scalibregma		inflatum	
+Scaphander lignarius	139488	exact	Scaphander lignarius	139488	Scaphander lignarius	Animalia	Mollusca	Gastropoda	Cephalaspidea	Scaphandridae	Scaphander		lignarius	
+Scolelepis bonnieri	131171	exact	Scolelepis bonnieri	131171	Scolelepis bonnieri	Animalia	Annelida	Polychaeta	Spionida	Spionidae	Scolelepis		bonnieri	
+Sphaerosyllis bulbosa	131379	exact	Sphaerosyllis bulbosa	131379	Sphaerosyllis bulbosa	Animalia	Annelida	Polychaeta	Phyllodocida	Syllidae	Sphaerosyllis		bulbosa	
+Sphaerosyllis spp.	129677	exact	Sphaerosyllis	129677	Sphaerosyllis	Animalia	Annelida	Polychaeta	Phyllodocida	Syllidae	Sphaerosyllis			
+Spisula elliptica	140300	exact	Spisula elliptica	140300	Spisula elliptica	Animalia	Mollusca	Bivalvia	Venerida	Mactridae	Spisula		elliptica	
+Spisula subtruncata	140302	exact	Spisula subtruncata	140302	Spisula subtruncata	Animalia	Mollusca	Bivalvia	Venerida	Mactridae	Spisula		subtruncata	
+Stenothoe marina	103166	exact	Stenothoe marina	103166	Stenothoe marina	Animalia	Arthropoda	Malacostraca	Amphipoda	Stenothoidae	Stenothoe		marina	
+Tellina tenuis	141595	exact	Tellina tenuis	878470	Macomangulus tenuis	Animalia	Mollusca	Bivalvia	Cardiida	Tellinidae	Tellina		tenuis	
+Thracia villosiuscula	141651	exact	Thracia villosiuscula	141651	Thracia villosiuscula	Animalia	Mollusca	Bivalvia		Thraciidae	Thracia		villosiuscula	
+Thyone fusus	124670	exact	Thyone fusus	124670	Thyone fusus	Animalia	Echinodermata	Holothuroidea	Dendrochirotida	Phyllophoridae	Thyone		fusus	
+Timoclea ovata	141929	exact	Timoclea ovata	141929	Timoclea ovata	Animalia	Mollusca	Bivalvia	Venerida	Veneridae	Timoclea		ovata	
+Travisia forbesii	130512	exact	Travisia forbesii	130512	Travisia forbesii	Animalia	Annelida	Polychaeta		Travisiidae	Travisia		forbesii	
+Unciola crenatipalma	102057	exact	Unciola crenatipalma	102057	Unciola crenatipalma	Animalia	Arthropoda	Malacostraca	Amphipoda	Unciolidae	Unciola		crenatipalma	
+Upogebia deltaura	107739	exact	Upogebia deltaura	107739	Upogebia deltaura	Animalia	Arthropoda	Malacostraca	Decapoda	Upogebiidae	Upogebia		deltaura	
+Urothoe brevicornis	103226	exact	Urothoe brevicornis	103226	Urothoe brevicornis	Animalia	Arthropoda	Malacostraca	Amphipoda	Urothoidae	Urothoe		brevicornis	
+Urothoe elegans	103228	exact	Urothoe elegans	103228	Urothoe elegans	Animalia	Arthropoda	Malacostraca	Amphipoda	Urothoidae	Urothoe		elegans	
+Urothoe marina	103233	exact	Urothoe marina	103233	Urothoe marina	Animalia	Arthropoda	Malacostraca	Amphipoda	Urothoidae	Urothoe		marina	
+Urothoe poseidonis	103235	exact	Urothoe poseidonis	103235	Urothoe poseidonis	Animalia	Arthropoda	Malacostraca	Amphipoda	Urothoidae	Urothoe		poseidonis	
+Acanthocardia tuberculata	381057	exact	Acanthocardia tuberculata	381057	Acanthocardia tuberculata	Animalia	Mollusca	Bivalvia	Cardiida	Cardiidae	Acanthocardia		tuberculata	
+Acteon tornatilis	138691	exact	Acteon tornatilis	138691	Acteon tornatilis	Animalia	Mollusca	Gastropoda		Acteonidae	Acteon		tornatilis	
+Aequipecten spp.	138313	exact	Aequipecten	138313	Aequipecten	Animalia	Mollusca	Bivalvia	Pectinida	Pectinidae	Aequipecten			
+Alentia gelatinosa	130722	exact	Alentia gelatinosa	130722	Alentia gelatinosa	Animalia	Annelida	Polychaeta	Phyllodocida	Polynoidae	Alentia		gelatinosa	
+Amaeana spp.	129685	exact	Amaeana	129685	Amaeana	Animalia	Annelida	Polychaeta	Terebellida	Terebellidae	Amaeana			
+Ampelisca gibba	101898	exact	Ampelisca gibba	101898	Ampelisca gibba	Animalia	Arthropoda	Malacostraca	Amphipoda	Ampeliscidae	Ampelisca		gibba	
+Ampelisca typica	101933	exact	Ampelisca typica	101933	Ampelisca typica	Animalia	Arthropoda	Malacostraca	Amphipoda	Ampeliscidae	Ampelisca		typica	
+Amphilochus manudens	101967	exact	Amphilochus manudens	101967	Amphilochus manudens	Animalia	Arthropoda	Malacostraca	Amphipoda	Amphilochidae	Amphilochus		manudens	
+Amphipholis squamata	125064	exact	Amphipholis squamata	125064	Amphipholis squamata	Animalia	Echinodermata	Ophiuroidea	Amphilepidida	Amphiuridae	Amphipholis		squamata	
+Amphiura (Acrocnida) brachiata	125193	exact	Amphiura (Acrocnida) brachiata	236130	Acrocnida brachiata	Animalia	Echinodermata	Ophiuroidea	Amphilepidida	Amphiuridae	Amphiura	Acrocnida	brachiata	
+Amphiura (Ophiopeltis) securigera	125195	exact	Amphiura (Ophiopeltis) securigera	125195	Amphiura (Ophiopeltis) securigera	Animalia	Echinodermata	Ophiuroidea	Amphilepidida	Amphiuridae	Amphiura	Ophiopeltis	securigera	
+Anoplodactylus spp.	134592	exact	Anoplodactylus	134592	Anoplodactylus	Animalia	Arthropoda	Pycnogonida	Pantopoda	Phoxichilidiidae	Anoplodactylus			
+Antalis entalis	150534	exact	Antalis entalis	150534	Antalis entalis	Animalia	Mollusca	Scaphopoda	Dentaliida	Dentaliidae	Antalis		entalis	
+Argissa hamatipes	102064	exact	Argissa hamatipes	102064	Argissa hamatipes	Animalia	Arthropoda	Malacostraca	Amphipoda	Argissidae	Argissa		hamatipes	
+Ascidia spp.	103483	exact	Ascidia	103483	Ascidia	Animalia	Chordata	Ascidiacea	Phlebobranchia	Ascidiidae	Ascidia			
+Astacilla longicornis	119024	exact	Astacilla longicornis	119024	Astacilla longicornis	Animalia	Arthropoda	Malacostraca	Isopoda	Arcturidae	Astacilla		longicornis	
+Atelecyclus rotundatus	107273	exact	Atelecyclus rotundatus	107273	Atelecyclus rotundatus	Animalia	Arthropoda	Malacostraca	Decapoda	Atelecyclidae	Atelecyclus		rotundatus	
+Atylus falcatus	102126	exact	Atylus falcatus	102139	Nototropis falcatus	Animalia	Arthropoda	Malacostraca	Amphipoda	Atylidae	Atylus		falcatus	
+Atylus vedlomensis	102132	exact	Atylus vedlomensis	179538	Nototropis vedlomensis	Animalia	Arthropoda	Malacostraca	Amphipoda	Atylidae	Atylus		vedlomensis	
+Axius spp.	107067	exact	Axius	107067	Axius	Animalia	Arthropoda	Malacostraca	Decapoda	Axiidae	Axius			
+Bathyarca pectunculoides	138799	exact	Bathyarca pectunculoides	138799	Bathyarca pectunculoides	Animalia	Mollusca	Bivalvia	Arcida	Arcidae	Bathyarca		pectunculoides	
+Bispira spp.	129523	exact	Bispira	129523	Bispira	Animalia	Annelida	Polychaeta	Sabellida	Sabellidae	Bispira			
+Bodotria arenosa	110440	exact	Bodotria arenosa	110440	Bodotria arenosa	Animalia	Arthropoda	Malacostraca	Cumacea	Bodotriidae	Bodotria		arenosa	
+Bodotria spp.	110387	exact	Bodotria	110387	Bodotria	Animalia	Arthropoda	Malacostraca	Cumacea	Bodotriidae	Bodotria			
+Bowerbankia spp.	111023	exact	Bowerbankia	111022	Amathia	Animalia	Bryozoa	Gymnolaemata	Ctenostomatida	Vesiculariidae	Bowerbankia			
+Brania spp.	129648	exact	Brania	129648	Brania	Animalia	Annelida	Polychaeta	Phyllodocida	Syllidae	Brania			
+Buccinum spp.	137701	exact	Buccinum	137701	Buccinum	Animalia	Mollusca	Gastropoda	Neogastropoda	Buccinidae	Buccinum			
+Callianassa tyrrhena	107731	exact	Callianassa tyrrhena	1398927	Gilvossius tyrrhenus	Animalia	Arthropoda	Malacostraca	Decapoda	Callianassidae	Callianassa		tyrrhena	
+Calliostoma spp.	138584	exact	Calliostoma	138584	Calliostoma	Animalia	Mollusca	Gastropoda	Trochida	Calliostomatidae	Calliostoma			
+Calocaris macandreae	107726	exact	Calocaris macandreae	107726	Calocaris macandreae	Animalia	Arthropoda	Malacostraca	Decapoda	Axiidae	Calocaris		macandreae	
+Caulleriella spp.	129241	exact	Caulleriella	129241	Caulleriella	Animalia	Annelida	Polychaeta	Terebellida	Cirratulidae	Caulleriella			
+Cellaria fistulosa	111257	exact	Cellaria fistulosa	111257	Cellaria fistulosa	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Cellariidae	Cellaria		fistulosa	
+Chamelea spp.	138633	exact	Chamelea	138633	Chamelea	Animalia	Mollusca	Bivalvia	Venerida	Veneridae	Chamelea			
+Cheirocratus intermedius	102795	exact	Cheirocratus intermedius	102795	Cheirocratus intermedius	Animalia	Arthropoda	Malacostraca	Amphipoda	Cheirocratidae	Cheirocratus		intermedius	
+Cheirocratus spp.	101669	exact	Cheirocratus	101669	Cheirocratus	Animalia	Arthropoda	Malacostraca	Amphipoda	Cheirocratidae	Cheirocratus			
+Chlamys distorta	146807	exact	Chlamys distorta	236715	Talochlamys pusio	Animalia	Mollusca	Bivalvia	Pectinida	Pectinidae	Chlamys		distorta	
+Chlamys spp.	138315	exact	Chlamys	138315	Chlamys	Animalia	Mollusca	Bivalvia	Pectinida	Pectinidae	Chlamys			
+Chlamys varia	140696	exact	Chlamys varia	236719	Mimachlamys varia	Animalia	Mollusca	Bivalvia	Pectinida	Pectinidae	Chlamys		varia	
+Circomphalus casina	152412	exact	Circomphalus casina	141934	Venus casina	Animalia	Mollusca	Bivalvia	Venerida	Veneridae	Circomphalus		casina	
+Circomphalus spp.	152411	exact	Circomphalus	152411	Circomphalus	Animalia	Mollusca	Bivalvia	Venerida	Veneridae	Circomphalus			
+Ciriformia spp.	129245	phonetic	Cirriformia	129245	Cirriformia	Animalia	Annelida	Polychaeta	Terebellida	Cirratulidae	Cirriformia			
+Cirrophorous spp.									
+Clausinella spp.	138634	exact	Clausinella	138634	Clausinella	Animalia	Mollusca	Bivalvia	Venerida	Veneridae	Clausinella			
+Clymenura spp.	129346	exact	Clymenura	129346	Clymenura	Animalia	Annelida	Polychaeta		Maldanidae	Clymenura			
+Cochlodesma praetenue	181373	exact	Cochlodesma praetenue	181373	Cochlodesma praetenue	Animalia	Mollusca	Bivalvia		Periplomatidae	Cochlodesma		praetenue	
+Corophium spp.	101489	exact	Corophium	101489	Corophium	Animalia	Arthropoda	Malacostraca	Amphipoda	Corophiidae	Corophium			
+Crenella decussata	140440	exact	Crenella decussata	140440	Crenella decussata	Animalia	Mollusca	Bivalvia	Mytilida	Mytilidae	Crenella		decussata	
+Crisia eburnea	111696	exact	Crisia eburnea	111696	Crisia eburnea	Animalia	Bryozoa	Stenolaemata	Cyclostomatida	Crisiidae	Crisia		eburnea	
+Cylichna cylindracea	139476	exact	Cylichna cylindracea	139476	Cylichna cylindracea	Animalia	Mollusca	Gastropoda	Cephalaspidea	Cylichnidae	Cylichna		cylindracea	
+Devonia perrieri	140365	exact	Devonia perrieri	140365	Devonia perrieri	Animalia	Mollusca	Bivalvia	Galeommatida	Lasaeidae	Devonia		perrieri	
+Dexamine spinosa	102135	exact	Dexamine spinosa	102135	Dexamine spinosa	Animalia	Arthropoda	Malacostraca	Amphipoda	Dexaminidae	Dexamine		spinosa	
+Diastylis lucifera	110483	exact	Diastylis lucifera	110483	Diastylis lucifera	Animalia	Arthropoda	Malacostraca	Cumacea	Diastylidae	Diastylis		lucifera	
+Diastylis rugosa	110488	exact	Diastylis rugosa	110488	Diastylis rugosa	Animalia	Arthropoda	Malacostraca	Cumacea	Diastylidae	Diastylis		rugosa	
+Didemnum spp.	103456	exact	Didemnum	103456	Didemnum	Animalia	Chordata	Ascidiacea	Aplousobranchia	Didemnidae	Didemnum			
+Diodora spp.	138011	exact	Diodora	138011	Diodora	Animalia	Mollusca	Gastropoda	Lepetellida	Fissurellidae	Diodora			
+Diplocirrus glaucus	130100	exact	Diplocirrus glaucus	130100	Diplocirrus glaucus	Animalia	Annelida	Polychaeta	Terebellida	Flabelligeridae	Diplocirrus		glaucus	
+Dodecaceria concharum	129967	exact	Dodecaceria concharum	129967	Dodecaceria concharum	Animalia	Annelida	Polychaeta	Terebellida	Cirratulidae	Dodecaceria		concharum	
+Dosinia exoleta	141911	exact	Dosinia exoleta	141911	Dosinia exoleta	Animalia	Mollusca	Bivalvia	Venerida	Veneridae	Dosinia		exoleta	
+Dosinia lupinus	141912	exact	Dosinia lupinus	141912	Dosinia lupinus	Animalia	Mollusca	Bivalvia	Venerida	Veneridae	Dosinia		lupinus	
+Drilonereis filum	129856	exact	Drilonereis filum	129856	Drilonereis filum	Animalia	Annelida	Polychaeta	Eunicida	Oenonidae	Drilonereis		filum	
+Dulichia spp.	101734	exact	Dulichia	101734	Dulichia	Animalia	Arthropoda	Malacostraca	Amphipoda	Dulichiidae	Dulichia			
+Dyopedos monacantha	103042	exact	Dyopedos monacantha	489646	Dyopedos monacanthus	Animalia	Arthropoda	Malacostraca	Amphipoda	Dulichiidae	Dyopedos		monacantha	
+Dyopedos porrectus	103044	exact	Dyopedos porrectus	103044	Dyopedos porrectus	Animalia	Arthropoda	Malacostraca	Amphipoda	Dulichiidae	Dyopedos		porrectus	
+Ebalia spp.	106889	exact	Ebalia	106889	Ebalia	Animalia	Arthropoda	Malacostraca	Decapoda	Leucosiidae	Ebalia			
+Echinocardium flavescens	124394	exact	Echinocardium flavescens	124394	Echinocardium flavescens	Animalia	Echinodermata	Echinoidea	Spatangoida	Loveniidae	Echinocardium		flavescens	
+Echinus elegans	124286	exact	Echinus elegans	532035	Gracilechinus elegans	Animalia	Echinodermata	Echinoidea	Camarodonta	Echinidae	Echinus		elegans	
+Ennucula tenuis	140584	exact	Ennucula tenuis	140584	Ennucula tenuis	Animalia	Mollusca	Bivalvia	Nuculida	Nuculidae	Ennucula		tenuis	
+Ericthonius difformis	102403	exact	Ericthonius difformis	102403	Ericthonius difformis	Animalia	Arthropoda	Malacostraca	Amphipoda	Ischyroceridae	Ericthonius		difformis	
+Eualus pusiolus	107507	exact	Eualus pusiolus	107507	Eualus pusiolus	Animalia	Arthropoda	Malacostraca	Decapoda	Thoridae	Eualus		pusiolus	
+Euclymene lumbricoides	130293	exact	Euclymene lumbricoides	209899	Euclymene lombricoides	Animalia	Annelida	Polychaeta		Maldanidae	Euclymene		lumbricoides	
+Euclymene robusta	130296	exact	Euclymene robusta	146978	Heteroclymene robusta	Animalia	Annelida	Polychaeta		Maldanidae	Euclymene		robusta	
+Eulalia bilineata	130624	exact	Eulalia bilineata	130624	Eulalia bilineata	Animalia	Annelida	Polychaeta	Phyllodocida	Phyllodocidae	Eulalia		bilineata	
+Eulima bilineata	139800	exact	Eulima bilineata	139800	Eulima bilineata	Animalia	Mollusca	Gastropoda	Littorinimorpha	Eulimidae	Eulima		bilineata	
+Eumida sanguinea	130644	exact	Eumida sanguinea	130644	Eumida sanguinea	Animalia	Annelida	Polychaeta	Phyllodocida	Phyllodocidae	Eumida		sanguinea	
+Eunereis longissima	130375	exact	Eunereis longissima	130375	Eunereis longissima	Animalia	Annelida	Polychaeta	Phyllodocida	Nereididae	Eunereis		longissima	
+Eunoe nodosa	130745	exact	Eunoe nodosa	130745	Eunoe nodosa	Animalia	Annelida	Polychaeta	Phyllodocida	Polynoidae	Eunoe		nodosa	
+Eupolymnia nebulosa	131489	exact	Eupolymnia nebulosa	131489	Eupolymnia nebulosa	Animalia	Annelida	Polychaeta	Terebellida	Terebellidae	Eupolymnia		nebulosa	
+Eurynome aspera	107318	exact	Eurynome aspera	107318	Eurynome aspera	Animalia	Arthropoda	Malacostraca	Decapoda	Majidae	Eurynome		aspera	
+Eurysyllis spp.	129652	exact	Eurysyllis	129652	Eurysyllis	Animalia	Annelida	Polychaeta	Phyllodocida	Syllidae	Eurysyllis			
+Eusirus longipes	102202	exact	Eusirus longipes	102202	Eusirus longipes	Animalia	Arthropoda	Malacostraca	Amphipoda	Eusiridae	Eusirus		longipes	
+Exogone naidina	327985	exact	Exogone naidina	327985	Exogone naidina	Animalia	Annelida	Polychaeta	Phyllodocida	Syllidae	Exogone		naidina	
+Exogone verugera	333456	exact	Exogone verugera	333456	Exogone verugera	Animalia	Annelida	Polychaeta	Phyllodocida	Syllidae	Exogone		verugera	
+Facelina bostoniensis	139908	exact	Facelina bostoniensis	139908	Facelina bostoniensis	Animalia	Mollusca	Gastropoda	Nudibranchia	Facelinidae	Facelina		bostoniensis	
+Galathea dispersa	107148	exact	Galathea dispersa	107148	Galathea dispersa	Animalia	Arthropoda	Malacostraca	Decapoda	Galatheidae	Galathea		dispersa	
+Galathea intermedia	107150	exact	Galathea intermedia	107150	Galathea intermedia	Animalia	Arthropoda	Malacostraca	Decapoda	Galatheidae	Galathea		intermedia	
+Gammaropsis maculata	102364	exact	Gammaropsis maculata	102364	Gammaropsis maculata	Animalia	Arthropoda	Malacostraca	Amphipoda	Photidae	Gammaropsis		maculata	
+Gammaropsis nitida	102367	exact	Gammaropsis nitida	102367	Gammaropsis nitida	Animalia	Arthropoda	Malacostraca	Amphipoda	Photidae	Gammaropsis		nitida	
+Gammaropsis palmata	102369	exact	Gammaropsis palmata	102369	Gammaropsis palmata	Animalia	Arthropoda	Malacostraca	Amphipoda	Photidae	Gammaropsis		palmata	
+Gammaropsis spp.	101558	exact	Gammaropsis	101558	Gammaropsis	Animalia	Arthropoda	Malacostraca	Amphipoda	Photidae	Gammaropsis			
+Gari fervensis	140870	exact	Gari fervensis	140870	Gari fervensis	Animalia	Mollusca	Bivalvia	Cardiida	Psammobiidae	Gari		fervensis	
+Gari spp.	138388	exact	Gari	138388	Gari	Animalia	Mollusca	Bivalvia	Cardiida	Psammobiidae	Gari			
+Gitana sarsi	101977	exact	Gitana sarsi	101977	Gitana sarsi	Animalia	Arthropoda	Malacostraca	Amphipoda	Amphilochidae	Gitana		sarsi	
+Glycera tridactyla	130130	exact	Glycera tridactyla	130130	Glycera tridactyla	Animalia	Annelida	Polychaeta	Phyllodocida	Glyceridae	Glycera		tridactyla	
+Glycinde spp.	129299	exact	Glycinde	129299	Glycinde	Animalia	Annelida	Polychaeta	Phyllodocida	Goniadidae	Glycinde			
+Glycymeris glycymeris	140025	exact	Glycymeris glycymeris	140025	Glycymeris glycymeris	Animalia	Mollusca	Bivalvia	Arcida	Glycymerididae	Glycymeris		glycymeris	
+Gnathia oxyuraea	118995	exact	Gnathia oxyuraea	118995	Gnathia oxyuraea	Animalia	Arthropoda	Malacostraca	Isopoda	Gnathiidae	Gnathia		oxyuraea	
+Golfingia spp.	136021	exact	Golfingia	136021	Golfingia	Animalia	Sipuncula	Sipunculidea	Golfingiida	Golfingiidae	Golfingia			
+Goniada spp.	129300	exact	Goniada	129300	Goniada	Animalia	Annelida	Polychaeta	Phyllodocida	Goniadidae	Goniada			
+Gouldia minima	141916	exact	Gouldia minima	141916	Gouldia minima	Animalia	Mollusca	Bivalvia	Venerida	Veneridae	Gouldia		minima	
+Grania spp.	369702	exact	Grania	369702	Grania	Plantae	Rhodophyta	Florideophyceae	Acrochaetiales	Acrochaetiaceae	Grania			
+Guernea spp.	101499	exact	Guernea	101499	Guernea	Animalia	Arthropoda	Malacostraca	Amphipoda	Dexaminidae	Guernea			
+Hanleya hanleyi	140082	exact	Hanleya hanleyi	140082	Hanleya hanleyi	Animalia	Mollusca	Polyplacophora	Lepidopleurida	Hanleyidae	Hanleya		hanleyi	
+Haploops tubicola	101958	exact	Haploops tubicola	101958	Haploops tubicola	Animalia	Arthropoda	Malacostraca	Amphipoda	Ampeliscidae	Haploops		tubicola	
+Harpinia antennaria	102960	exact	Harpinia antennaria	102960	Harpinia antennaria	Animalia	Arthropoda	Malacostraca	Amphipoda	Phoxocephalidae	Harpinia		antennaria	
+Harpinia crenulata	102963	exact	Harpinia crenulata	102963	Harpinia crenulata	Animalia	Arthropoda	Malacostraca	Amphipoda	Phoxocephalidae	Harpinia		crenulata	
+Harpinia pectinata	102972	exact	Harpinia pectinata	102972	Harpinia pectinata	Animalia	Arthropoda	Malacostraca	Amphipoda	Phoxocephalidae	Harpinia		pectinata	
+Harpinia spp.	101716	exact	Harpinia	101716	Harpinia	Animalia	Arthropoda	Malacostraca	Amphipoda	Phoxocephalidae	Harpinia			
+Heteromastus spp.	129214	exact	Heteromastus	129214	Heteromastus	Animalia	Annelida	Polychaeta		Capitellidae	Heteromastus			
+Hiatella spp.	138068	exact	Hiatella	138068	Hiatella	Animalia	Mollusca	Bivalvia	Adapedonta	Hiatellidae	Hiatella			
+Hinia spp.	246052	exact	Hinia	246140	Tritia	Animalia	Mollusca	Gastropoda	Neogastropoda	Nassariidae	Hinia			
+Hippolyte spp.	106987	exact	Hippolyte	106987	Hippolyte	Animalia	Arthropoda	Malacostraca	Decapoda	Hippolytidae	Hippolyte			
+Hippomedon denticulatus	102570	exact	Hippomedon denticulatus	102570	Hippomedon denticulatus	Animalia	Arthropoda	Malacostraca	Amphipoda	Tryphosidae	Hippomedon		denticulatus	
+Hyas spp.	106903	exact	Hyas	106903	Hyas	Animalia	Arthropoda	Malacostraca	Decapoda	Oregoniidae	Hyas			
+Hydrallmania spp.	117230	exact	Hydrallmania	117230	Hydrallmania	Animalia	Cnidaria	Hydrozoa	Leptothecata	Sertulariidae	Hydrallmania			
+Inachus phalangium	107333	exact	Inachus phalangium	107333	Inachus phalangium	Animalia	Arthropoda	Malacostraca	Decapoda	Inachidae	Inachus		phalangium	
+Ione thoracica	118218	exact	Ione thoracica	118218	Ione thoracica	Animalia	Arthropoda	Malacostraca	Isopoda	Ionidae	Ione		thoracica	
+Iphimedia obesa	102347	exact	Iphimedia obesa	102347	Iphimedia obesa	Animalia	Arthropoda	Malacostraca	Amphipoda	Iphimediidae	Iphimedia		obesa	
+Ischyrocerus anguipes	102412	exact	Ischyrocerus anguipes	102412	Ischyrocerus anguipes	Animalia	Arthropoda	Malacostraca	Amphipoda	Ischyroceridae	Ischyrocerus		anguipes	
+Janira maculosa	118732	exact	Janira maculosa	118732	Janira maculosa	Animalia	Arthropoda	Malacostraca	Isopoda	Janiridae	Janira		maculosa	
+Jasmineira spp.	129533	exact	Jasmineira	129533	Jasmineira	Animalia	Annelida	Polychaeta	Sabellida	Sabellidae	Jasmineira			
+Kefersteinia cirrata	872696	exact	Kefersteinia cirrata	152249	Psamathe fusca	Animalia	Annelida	Polychaeta	Phyllodocida	Hesionidae	Kefersteinia		cirrata	
+Kellia suborbicularis	140161	exact	Kellia suborbicularis	140161	Kellia suborbicularis	Animalia	Mollusca	Bivalvia	Galeommatida	Lasaeidae	Kellia		suborbicularis	
+Leptocheirus hirsutimanus	102036	exact	Leptocheirus hirsutimanus	102036	Leptocheirus hirsutimanus	Animalia	Arthropoda	Malacostraca	Amphipoda	Corophiidae	Leptocheirus		hirsutimanus	
+Leptocheirus spp.	101470	exact	Leptocheirus	101470	Leptocheirus	Animalia	Arthropoda	Malacostraca	Amphipoda	Corophiidae	Leptocheirus			
+Leptochiton asellus	140199	exact	Leptochiton asellus	140199	Leptochiton asellus	Animalia	Mollusca	Polyplacophora	Lepidopleurida	Leptochitonidae	Leptochiton		asellus	
+Lepton squamosum	140218	exact	Lepton squamosum	140218	Lepton squamosum	Animalia	Mollusca	Bivalvia	Galeommatida	Lasaeidae	Lepton		squamosum	
+Leucothoe incisa	102460	exact	Leucothoe incisa	102460	Leucothoe incisa	Animalia	Arthropoda	Malacostraca	Amphipoda	Leucothoidae	Leucothoe		incisa	
+Leucothoe lilljeborgi	102462	exact	Leucothoe lilljeborgi	102462	Leucothoe lilljeborgi	Animalia	Arthropoda	Malacostraca	Amphipoda	Leucothoidae	Leucothoe		lilljeborgi	
+Leucothoe spinicarpa	102470	exact	Leucothoe spinicarpa	102470	Leucothoe spinicarpa	Animalia	Arthropoda	Malacostraca	Amphipoda	Leucothoidae	Leucothoe		spinicarpa	
+Limatula subauriculata	140242	exact	Limatula subauriculata	140242	Limatula subauriculata	Animalia	Mollusca	Bivalvia	Limida	Limidae	Limatula		subauriculata	
+Liocarcinus pusillus	107393	exact	Liocarcinus pusillus	107393	Liocarcinus pusillus	Animalia	Arthropoda	Malacostraca	Decapoda	Polybiidae	Liocarcinus		pusillus	
+Lucinoma spp.	138149	exact	Lucinoma	138149	Lucinoma	Animalia	Mollusca	Bivalvia	Lucinida	Lucinidae	Lucinoma			
+Macrochaeta spp.	129141	exact	Macrochaeta	129141	Macrochaeta	Animalia	Annelida	Polychaeta	Terebellida	Acrocirridae	Macrochaeta			
+Maerella tenuimana	102831	exact	Maerella tenuimana	102831	Maerella tenuimana	Animalia	Arthropoda	Malacostraca	Amphipoda	Maeridae	Maerella		tenuimana	
+Maldane sarsi	130305	exact	Maldane sarsi	130305	Maldane sarsi	Animalia	Annelida	Polychaeta		Maldanidae	Maldane		sarsi	
+Malmgreniella castanea	130811	exact	Malmgreniella castanea	152357	Malmgrenia castanea	Animalia	Annelida	Polychaeta	Phyllodocida	Polynoidae	Malmgreniella		castanea	
+Margarites helicinus	141821	exact	Margarites helicinus	141821	Margarites helicinus	Animalia	Mollusca	Gastropoda	Trochida	Margaritidae	Margarites		helicinus	
+Marphysa sanguinea	130075	exact	Marphysa sanguinea	130075	Marphysa sanguinea	Animalia	Annelida	Polychaeta	Eunicida	Eunicidae	Marphysa		sanguinea	
+Marphysa spp.	129281	exact	Marphysa	129281	Marphysa	Animalia	Annelida	Polychaeta	Eunicida	Eunicidae	Marphysa			
+Megamphopus cornutus	102377	exact	Megamphopus cornutus	102377	Megamphopus cornutus	Animalia	Arthropoda	Malacostraca	Amphipoda	Photidae	Megamphopus		cornutus	
+Melanella alba	139832	exact	Melanella alba	139832	Melanella alba	Animalia	Mollusca	Gastropoda	Littorinimorpha	Eulimidae	Melanella		alba	
+Melinna cristata	129804	exact	Melinna cristata	129804	Melinna cristata	Animalia	Annelida	Polychaeta	Terebellida	Ampharetidae	Melinna		cristata	
+Melphidippella macra	102860	exact	Melphidippella macra	102860	Melphidippella macra	Animalia	Arthropoda	Malacostraca	Amphipoda	Melphidippidae	Melphidippella		macra	
+Metaphoxus fultoni	102981	exact	Metaphoxus fultoni	102981	Metaphoxus fultoni	Animalia	Arthropoda	Malacostraca	Amphipoda	Phoxocephalidae	Metaphoxus		fultoni	
+Metopa pusilla	103132	exact	Metopa pusilla	103132	Metopa pusilla	Animalia	Arthropoda	Malacostraca	Amphipoda	Stenothoidae	Metopa		pusilla	
+Metopa spp.	101764	exact	Metopa	101764	Metopa	Animalia	Arthropoda	Malacostraca	Amphipoda	Stenothoidae	Metopa			
+Microprotopus maculatus	102380	exact	Microprotopus maculatus	102380	Microprotopus maculatus	Animalia	Arthropoda	Malacostraca	Amphipoda	Microprotopidae	Microprotopus		maculatus	
+Molgula spp.	103509	exact	Molgula	103509	Molgula	Animalia	Chordata	Ascidiacea	Stolidobranchia	Molgulidae	Molgula			
+Montacuta ferruginosa	140371	exact	Montacuta ferruginosa	146952	Tellimya ferruginosa	Animalia	Mollusca	Bivalvia	Galeommatida	Lasaeidae	Montacuta		ferruginosa	
+Montacuta substriata	140377	exact	Montacuta substriata	140377	Montacuta substriata	Animalia	Mollusca	Bivalvia	Galeommatida	Lasaeidae	Montacuta		substriata	
+Musculus niger	140474	exact	Musculus niger	140474	Musculus niger	Animalia	Mollusca	Bivalvia	Mytilida	Mytilidae	Musculus		niger	
+Mya truncata	140431	exact	Mya truncata	140431	Mya truncata	Animalia	Mollusca	Bivalvia	Myida	Myidae	Mya		truncata	
+Myrianida spp.	129659	exact	Myrianida	129659	Myrianida	Animalia	Annelida	Polychaeta	Phyllodocida	Syllidae	Myrianida			
+Myriochele spp.	129426	exact	Myriochele	129426	Myriochele	Animalia	Annelida	Polychaeta		Oweniidae	Myriochele			
+Myrtea spinifera	140287	exact	Myrtea spinifera	140287	Myrtea spinifera	Animalia	Mollusca	Bivalvia	Lucinida	Lucinidae	Myrtea		spinifera	
+Mysia undata	140728	exact	Mysia undata	140728	Mysia undata	Animalia	Mollusca	Bivalvia	Venerida	Veneridae	Mysia		undata	
+Nereiphylla spp.	129451	exact	Nereiphylla	129451	Nereiphylla	Animalia	Annelida	Polychaeta	Phyllodocida	Phyllodocidae	Nereiphylla			
+Nereis spp.	129379	exact	Nereis	129379	Nereis	Animalia	Annelida	Polychaeta	Phyllodocida	Nereididae	Nereis			
+Nereis zonata	130407	exact	Nereis zonata	130407	Nereis zonata	Animalia	Annelida	Polychaeta	Phyllodocida	Nereididae	Nereis		zonata	
+Nicomache lumbricalis	130311	exact	Nicomache lumbricalis	130311	Nicomache lumbricalis	Animalia	Annelida	Polychaeta		Maldanidae	Nicomache		lumbricalis	
+Notomastus spp.	129220	exact	Notomastus	129220	Notomastus	Animalia	Annelida	Polychaeta		Capitellidae	Notomastus			
+Notophyllum foliosum	130661	exact	Notophyllum foliosum	130661	Notophyllum foliosum	Animalia	Annelida	Polychaeta	Phyllodocida	Phyllodocidae	Notophyllum		foliosum	
+Nucula spp.	138262	exact	Nucula	138262	Nucula	Animalia	Mollusca	Bivalvia	Nuculida	Nuculidae	Nucula			
+Nuculana minuta	140577	exact	Nuculana minuta	140577	Nuculana minuta	Animalia	Mollusca	Bivalvia	Nuculanida	Nuculanidae	Nuculana		minuta	
+Nuculana spp.	138259	exact	Nuculana	138259	Nuculana	Animalia	Mollusca	Bivalvia	Nuculanida	Nuculanidae	Nuculana			
+Nymphon spp.	134591	exact	Nymphon	134591	Nymphon	Animalia	Arthropoda	Pycnogonida	Pantopoda	Nymphonidae	Nymphon			
+Odontosyllis gibba	131328	exact	Odontosyllis gibba	131328	Odontosyllis gibba	Animalia	Annelida	Polychaeta	Phyllodocida	Syllidae	Odontosyllis		gibba	
+Odontosyllis spp.	129660	exact	Odontosyllis	129660	Odontosyllis	Animalia	Annelida	Polychaeta	Phyllodocida	Syllidae	Odontosyllis			
+Oenopota turricula	139336	exact	Oenopota turricula	160446	Propebela turricula	Animalia	Mollusca	Gastropoda	Neogastropoda	Mangeliidae	Oenopota		turricula	
+Onchidoris bilamellata	150457	exact	Onchidoris bilamellata	150457	Onchidoris bilamellata	Animalia	Mollusca	Gastropoda	Nudibranchia	Onchidorididae	Onchidoris		bilamellata	
+Onchidoris muricata	140640	exact	Onchidoris muricata	140640	Onchidoris muricata	Animalia	Mollusca	Gastropoda	Nudibranchia	Onchidorididae	Onchidoris		muricata	
+Ophelina acuminata	130500	exact	Ophelina acuminata	130500	Ophelina acuminata	Animalia	Annelida	Polychaeta		Opheliidae	Ophelina		acuminata	
+Ophiactis balli	125110	exact	Ophiactis balli	125110	Ophiactis balli	Animalia	Echinodermata	Ophiuroidea	Amphilepidida	Ophiactidae	Ophiactis		balli	
+Ophiodromus flexuosus	130187	exact	Ophiodromus flexuosus	710680	Oxydromus flexuosus	Animalia	Annelida	Polychaeta	Phyllodocida	Hesionidae	Ophiodromus		flexuosus	
+Ophryotrocha spp.	129266	exact	Ophryotrocha	129266	Ophryotrocha	Animalia	Annelida	Polychaeta	Eunicida	Dorvilleidae	Ophryotrocha			
+Orbinia latreillii	130522	exact	Orbinia latreillii	130522	Orbinia latreillii	Animalia	Annelida	Polychaeta		Orbiniidae	Orbinia		latreillii	
+Orchomene spp.	101633	exact	Orchomene	101633	Orchomene	Animalia	Arthropoda	Malacostraca	Amphipoda	Tryphosidae	Orchomene			
+Palaemon spp.	107032	exact	Palaemon	107032	Palaemon	Animalia	Arthropoda	Malacostraca	Decapoda	Palaemonidae	Palaemon			
+Palliolum spp.	138322	exact	Palliolum	138322	Palliolum	Animalia	Mollusca	Bivalvia	Pectinida	Pectinidae	Palliolum			
+Palliolum striatum	140709	exact	Palliolum striatum	140709	Palliolum striatum	Animalia	Mollusca	Bivalvia	Pectinida	Pectinidae	Palliolum		striatum	
+Pandalina spp.	107043	exact	Pandalina	107043	Pandalina	Animalia	Arthropoda	Malacostraca	Decapoda	Pandalidae	Pandalina			
+Pandalus spp.	107044	exact	Pandalus	107044	Pandalus	Animalia	Arthropoda	Malacostraca	Decapoda	Pandalidae	Pandalus			
+Panomya arctica	152416	exact	Panomya arctica	140105	Panomya norvegica	Animalia	Mollusca	Bivalvia	Adapedonta	Hiatellidae	Panomya		arctica	
+Paphia rhomboides	141923	exact	Paphia rhomboides	745846	Polititapes rhomboides	Animalia	Mollusca	Bivalvia	Venerida	Veneridae	Paphia		rhomboides	
+Parametaphoxus spp.	101721	exact	Parametaphoxus	101721	Parametaphoxus	Animalia	Arthropoda	Malacostraca	Amphipoda	Phoxocephalidae	Parametaphoxus			
+Parametopa spp.	101768	exact	Parametopa	101768	Parametopa	Animalia	Arthropoda	Malacostraca	Amphipoda	Stenothoidae	Parametopa			
+Paramphilochoides odontonyx	101982	exact	Paramphilochoides odontonyx	101982	Paramphilochoides odontonyx	Animalia	Arthropoda	Malacostraca	Amphipoda	Amphilochidae	Paramphilochoides		odontonyx	
+Paranaitis kosteriensis	130662	exact	Paranaitis kosteriensis	130662	Paranaitis kosteriensis	Animalia	Annelida	Polychaeta	Phyllodocida	Phyllodocidae	Paranaitis		kosteriensis	
+Parapleustes bicuspis	103008	exact	Parapleustes bicuspis	103008	Parapleustes bicuspis	Animalia	Arthropoda	Malacostraca	Amphipoda	Pleustidae	Parapleustes		bicuspis	
+Parvicardium exiguum	139008	exact	Parvicardium exiguum	139008	Parvicardium exiguum	Animalia	Mollusca	Bivalvia	Cardiida	Cardiidae	Parvicardium		exiguum	
+Parvicardium minimum	139010	exact	Parvicardium minimum	1417307	Papillicardium minimum	Animalia	Mollusca	Bivalvia	Cardiida	Cardiidae	Parvicardium		minimum	
+Parvicardium ovale	466749	exact	Parvicardium ovale	156326	Parvicardium scriptum	Animalia	Mollusca	Bivalvia	Cardiida	Cardiidae	Parvicardium		ovale	
+Pasiphaea sivado	107677	exact	Pasiphaea sivado	107677	Pasiphaea sivado	Animalia	Arthropoda	Malacostraca	Decapoda	Pasiphaeidae	Pasiphaea		sivado	
+Pasiphaea spp.	107052	exact	Pasiphaea	107052	Pasiphaea	Animalia	Arthropoda	Malacostraca	Decapoda	Pasiphaeidae	Pasiphaea			
+Pectinaria belgica	334417	exact	Pectinaria belgica	334417	Pectinaria belgica	Animalia	Annelida	Polychaeta	Terebellida	Pectinariidae	Pectinaria		belgica	
+Pelonaia corrugata	103894	exact	Pelonaia corrugata	103894	Pelonaia corrugata	Animalia	Chordata	Ascidiacea	Stolidobranchia	Styelidae	Pelonaia		corrugata	
+Peltocoxa damnoniensis	101984	exact	Peltocoxa damnoniensis	101984	Peltocoxa damnoniensis	Animalia	Arthropoda	Malacostraca	Amphipoda	Cyproideidae	Peltocoxa		damnoniensis	
+Perioculodes longimanus	102915	exact	Perioculodes longimanus	102915	Perioculodes longimanus	Animalia	Arthropoda	Malacostraca	Amphipoda	Oedicerotidae	Perioculodes		longimanus	
+Pherusa plumosa	130113	exact	Pherusa plumosa	130113	Pherusa plumosa	Animalia	Annelida	Polychaeta	Terebellida	Flabelligeridae	Pherusa		plumosa	
+Philine catena	140747	exact	Philine catena	140747	Philine catena	Animalia	Mollusca	Gastropoda	Cephalaspidea	Philinidae	Philine		catena	
+Philine scabra	140761	exact	Philine scabra	867492	Hermania scabra	Animalia	Mollusca	Gastropoda	Cephalaspidea	Philinidae	Philine		scabra	
+Phoronis hippocrepia	128548	exact	Phoronis hippocrepia	128548	Phoronis hippocrepia	Animalia	Phoronida			Phoronidae	Phoronis		hippocrepia	
+Photis reinhardi	102387	exact	Photis reinhardi	102387	Photis reinhardi	Animalia	Arthropoda	Malacostraca	Amphipoda	Photidae	Photis		reinhardi	
+Phoxocephalus holbolli	102989	exact	Phoxocephalus holbolli	102989	Phoxocephalus holbolli	Animalia	Arthropoda	Malacostraca	Amphipoda	Phoxocephalidae	Phoxocephalus		holbolli	
+Phtisica marina	101864	exact	Phtisica marina	101864	Phtisica marina	Animalia	Arthropoda	Malacostraca	Amphipoda	Caprellidae	Phtisica		marina	
+Phyllodoce laminosa	130670	exact	Phyllodoce laminosa	130670	Phyllodoce laminosa	Animalia	Annelida	Polychaeta	Phyllodocida	Phyllodocidae	Phyllodoce		laminosa	
+Pinnotheres pisum	107473	exact	Pinnotheres pisum	107473	Pinnotheres pisum	Animalia	Arthropoda	Malacostraca	Decapoda	Pinnotheridae	Pinnotheres		pisum	
+Pista cristata	131516	exact	Pista cristata	131516	Pista cristata	Animalia	Annelida	Polychaeta	Terebellida	Terebellidae	Pista		cristata	
+Pleurobranchus membranaceus	140820	exact	Pleurobranchus membranaceus	140820	Pleurobranchus membranaceus	Animalia	Mollusca	Gastropoda	Pleurobranchida	Pleurobranchidae	Pleurobranchus		membranaceus	
+Pleurocrypta longibranchiata	118226	exact	Pleurocrypta longibranchiata	118226	Pleurocrypta longibranchiata	Animalia	Arthropoda	Malacostraca	Isopoda	Bopyridae	Pleurocrypta		longibranchiata	
+Podarkeopsis spp.	129319	exact	Podarkeopsis	129319	Podarkeopsis	Animalia	Annelida	Polychaeta	Phyllodocida	Hesionidae	Podarkeopsis			
+Poecilochaetus spp.	129471	exact	Poecilochaetus	129471	Poecilochaetus	Animalia	Annelida	Polychaeta	Spionida	Poecilochaetidae	Poecilochaetus			
+Polycarpa fibrosa	103902	exact	Polycarpa fibrosa	103902	Polycarpa fibrosa	Animalia	Chordata	Ascidiacea	Stolidobranchia	Styelidae	Polycarpa		fibrosa	
+Polycarpa spp.	103538	exact	Polycarpa	103538	Polycarpa	Animalia	Chordata	Ascidiacea	Stolidobranchia	Styelidae	Polycarpa			
+Polydora cornuta	131143	exact	Polydora cornuta	131143	Polydora cornuta	Animalia	Annelida	Polychaeta	Spionida	Spionidae	Polydora		cornuta	
+Pomatoceros spp.	129572	exact	Pomatoceros	129582	Spirobranchus	Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	Pomatoceros			
+Pontocrates spp.	101702	exact	Pontocrates	101702	Pontocrates	Animalia	Arthropoda	Malacostraca	Amphipoda	Oedicerotidae	Pontocrates			
+Priapulus caudatus	101160	exact	Priapulus caudatus	101160	Priapulus caudatus	Animalia	Priapulida		Priapulomorpha	Priapulidae	Priapulus		caudatus	
+Prionospio cirrifera	131153	exact	Prionospio cirrifera	131153	Prionospio cirrifera	Animalia	Annelida	Polychaeta	Spionida	Spionidae	Prionospio		cirrifera	
+Prionospio malmgreni	131159	exact	Prionospio malmgreni	131159	Prionospio malmgreni	Animalia	Annelida	Polychaeta	Spionida	Spionidae	Prionospio		malmgreni	
+Processa nouveli holthuisi	108344	exact	Processa nouveli holthuisi	108344	Processa nouveli holthuisi	Animalia	Arthropoda	Malacostraca	Decapoda	Processidae	Processa		nouveli	holthuisi
+Processa parva	107690	exact	Processa parva	107690	Processa parva	Animalia	Arthropoda	Malacostraca	Decapoda	Processidae	Processa		parva	
+Protula tubularia	131035	exact	Protula tubularia	131035	Protula tubularia	Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	Protula		tubularia	
+Psamathe spp.	152248	exact	Psamathe	152248	Psamathe	Animalia	Annelida	Polychaeta	Phyllodocida	Hesionidae	Psamathe			
+Pseudocuma (Pseudocuma) longicorne	110627	exact	Pseudocuma (Pseudocuma) longicorne	110627	Pseudocuma (Pseudocuma) longicorne	Animalia	Arthropoda	Malacostraca	Cumacea	Pseudocumatidae	Pseudocuma	Pseudocuma	longicorne	
+Pseudomystides limbata	130683	exact	Pseudomystides limbata	130683	Pseudomystides limbata	Animalia	Annelida	Polychaeta	Phyllodocida	Phyllodocidae	Pseudomystides		limbata	
+Pseudothyone raphanus	124661	exact	Pseudothyone raphanus	124661	Pseudothyone raphanus	Animalia	Echinodermata	Holothuroidea	Dendrochirotida	Sclerodactylidae	Pseudothyone		raphanus	
+Pulsellum spp.	138398	exact	Pulsellum	138398	Pulsellum	Animalia	Mollusca	Scaphopoda	Gadilida	Pulsellidae	Pulsellum			
+Puncturella noachina	139975	exact	Puncturella noachina	139975	Puncturella noachina	Animalia	Mollusca	Gastropoda	Lepetellida	Fissurellidae	Puncturella		noachina	
+Rhodine loveni	130331	exact	Rhodine loveni	130331	Rhodine loveni	Animalia	Annelida	Polychaeta		Maldanidae	Rhodine		loveni	
+Sagitta spp.	105410	exact	Sagitta	105410	Sagitta	Animalia	Chaetognatha	Sagittoidea	Aphragmophora	Sagittidae	Sagitta			
+Saxicavella jeffreysi	140108	exact	Saxicavella jeffreysi	140108	Saxicavella jeffreysi	Animalia	Mollusca	Bivalvia	Galeommatida	Basterotiidae	Saxicavella		jeffreysi	
+Scaphander spp.	137871	exact	Scaphander	137871	Scaphander	Animalia	Mollusca	Gastropoda	Cephalaspidea	Scaphandridae	Scaphander			
+Schistomysis spp.	119905	exact	Schistomysis	119905	Schistomysis	Animalia	Arthropoda	Malacostraca	Mysida	Mysidae	Schistomysis			
+Scolelepis foliosa	131173	exact	Scolelepis foliosa	334741	Scolelepis (Scolelepis) foliosa	Animalia	Annelida	Polychaeta	Spionida	Spionidae	Scolelepis		foliosa	
+Scolelepis squamata	131177	exact	Scolelepis squamata	157566	Scolelepis (Scolelepis) squamata	Animalia	Annelida	Polychaeta	Spionida	Spionidae	Scolelepis		squamata	
+Sepiola spp.	138483	exact	Sepiola	138483	Sepiola	Animalia	Mollusca	Cephalopoda	Sepiida	Sepiolidae	Sepiola			
+Siboglinum spp.	129103	exact	Siboglinum	129103	Siboglinum	Animalia	Annelida	Polychaeta	Sabellida	Siboglinidae	Siboglinum			
+Sigalion mathildae	131072	exact	Sigalion mathildae	131072	Sigalion mathildae	Animalia	Annelida	Polychaeta	Phyllodocida	Sigalionidae	Sigalion		mathildae	
+Solen marginatus	141546	exact	Solen marginatus	141546	Solen marginatus	Animalia	Mollusca	Bivalvia	Adapedonta	Solenidae	Solen		marginatus	
+Sphaerodoridium claparedeii	131086	exact	Sphaerodoridium claparedeii	157570	Sphaerodoridium claparedii	Animalia	Annelida	Polychaeta	Phyllodocida	Sphaerodoridae	Sphaerodoridium		claparedeii	
+Sphaerosyllis hystrix	131388	exact	Sphaerosyllis hystrix	131388	Sphaerosyllis hystrix	Animalia	Annelida	Polychaeta	Phyllodocida	Syllidae	Sphaerosyllis		hystrix	
+Sphenia binghami	140432	exact	Sphenia binghami	140432	Sphenia binghami	Animalia	Mollusca	Bivalvia	Myida	Myidae	Sphenia		binghami	
+Spiochaetopterus typicus	129924	exact	Spiochaetopterus typicus	129924	Spiochaetopterus typicus	Animalia	Annelida	Polychaeta		Chaetopteridae	Spiochaetopterus		typicus	
+Stenothoe monoculoides	103169	exact	Stenothoe monoculoides	103169	Stenothoe monoculoides	Animalia	Arthropoda	Malacostraca	Amphipoda	Stenothoidae	Stenothoe		monoculoides	
+Stenula rubrovittata	103178	exact	Stenula rubrovittata	160514	Metopa rubrovittata	Animalia	Arthropoda	Malacostraca	Amphipoda	Stenothoidae	Stenula		rubrovittata	
+Sthenelais limicola	131077	exact	Sthenelais limicola	131077	Sthenelais limicola	Animalia	Annelida	Polychaeta	Phyllodocida	Sigalionidae	Sthenelais		limicola	
+Stichastrella rosea	123813	exact	Stichastrella rosea	123813	Stichastrella rosea	Animalia	Echinodermata	Asteroidea	Forcipulatida	Stichasteridae	Stichastrella		rosea	
+Styela coriacea	103930	exact	Styela coriacea	103930	Styela coriacea	Animalia	Chordata	Ascidiacea	Stolidobranchia	Styelidae	Styela		coriacea	
+Styela spp.	103543	exact	Styela	103543	Styela	Animalia	Chordata	Ascidiacea	Stolidobranchia	Styelidae	Styela			
+Syllides spp.	129679	exact	Syllides	129679	Syllides	Animalia	Annelida	Polychaeta	Phyllodocida	Syllidae	Syllides			
+Synchelidium haplocheles	102924	exact	Synchelidium haplocheles	102924	Synchelidium haplocheles	Animalia	Arthropoda	Malacostraca	Amphipoda	Oedicerotidae	Synchelidium		haplocheles	
+Tapes spp.	138645	exact	Tapes	138645	Tapes	Animalia	Mollusca	Bivalvia	Venerida	Veneridae	Tapes			
+Terebellides stroemii	131573	exact	Terebellides stroemii	131573	Terebellides stroemii	Animalia	Annelida	Polychaeta	Terebellida	Trichobranchidae	Terebellides		stroemii	
+Tharyx spp.	129249	exact	Tharyx	129249	Tharyx	Animalia	Annelida	Polychaeta	Terebellida	Cirratulidae	Tharyx			
+Thyasira spp.	138552	exact	Thyasira	138552	Thyasira	Animalia	Mollusca	Bivalvia	Lucinida	Thyasiridae	Thyasira			
+Timoclea spp.	138646	exact	Timoclea	138646	Timoclea	Animalia	Mollusca	Bivalvia	Venerida	Veneridae	Timoclea			
+Trichobranchus glacialis	131574	exact	Trichobranchus glacialis	131574	Trichobranchus glacialis	Animalia	Annelida	Polychaeta	Terebellida	Trichobranchidae	Trichobranchus		glacialis	
+Trichotropis borealis	138988	exact	Trichotropis borealis	714762	Ariadnaria borealis	Animalia	Mollusca	Gastropoda	Littorinimorpha	Capulidae	Trichotropis		borealis	
+Tridonta spp.	146517	exact	Tridonta	137683	Astarte	Animalia	Mollusca	Bivalvia	Carditida	Astartidae	Tridonta			
+Tritonia hombergi	141733	exact	Tritonia hombergi	416648	Tritonia hombergii	Animalia	Mollusca	Gastropoda	Nudibranchia	Tritoniidae	Tritonia		hombergi	
+Trypanosyllis coeliaca	131464	exact	Trypanosyllis coeliaca	335151	Trypanosyllis (Trypanosyllis) coeliaca	Animalia	Annelida	Polychaeta	Phyllodocida	Syllidae	Trypanosyllis		coeliaca	
+Tubificoides spp.	137393	exact	Tubificoides	137393	Tubificoides	Animalia	Annelida	Clitellata	Haplotaxida	Naididae	Tubificoides			
+Turbonilla (Pyrgiscus) crenata	152377	exact	Turbonilla (Pyrgiscus) crenata	836211	Pyrgiscus crenatus	Animalia	Mollusca	Gastropoda		Pyramidellidae	Turbonilla	Pyrgiscus	crenata	
+Upogebia stellata	107742	exact	Upogebia stellata	107742	Upogebia stellata	Animalia	Arthropoda	Malacostraca	Decapoda	Upogebiidae	Upogebia		stellata	
+Vaunthompsonia cristata	110467	exact	Vaunthompsonia cristata	110467	Vaunthompsonia cristata	Animalia	Arthropoda	Malacostraca	Cumacea	Bodotriidae	Vaunthompsonia		cristata	
+Velutina velutina	141905	exact	Velutina velutina	141905	Velutina velutina	Animalia	Mollusca	Gastropoda	Littorinimorpha	Velutinidae	Velutina		velutina	
+Venus spp.	138648	exact	Venus	138648	Venus	Animalia	Mollusca	Bivalvia	Venerida	Veneridae	Venus			
+Verruca spp.	106140	exact	Verruca	106140	Verruca	Animalia	Arthropoda	Hexanauplia	Sessilia	Verrucidae	Verruca			
+Vesicularia spp.	111024	exact	Vesicularia	111024	Vesicularia	Animalia	Bryozoa	Gymnolaemata	Ctenostomatida	Vesiculariidae	Vesicularia			
+Vitreolina philippi	139903	exact	Vitreolina philippi	139903	Vitreolina philippi	Animalia	Mollusca	Gastropoda	Littorinimorpha	Eulimidae	Vitreolina		philippi	
+Westwoodilla caecula	102932	exact	Westwoodilla caecula	102932	Westwoodilla caecula	Animalia	Arthropoda	Malacostraca	Amphipoda	Oedicerotidae	Westwoodilla		caecula	
+									

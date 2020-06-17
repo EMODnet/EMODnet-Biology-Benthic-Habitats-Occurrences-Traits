@@ -1,0 +1,724 @@
+SpeciesName,feedingmethod
+"Caryophyllia smithii","Passive suspension feeder"
+"Amphianthus dohrnii","Passive suspension feeder"
+"Leptopsammia pruvoti",Predator
+"Tellina fabula","Surface deposit feeder"
+"Asterias rubens",Scavenger
+"Balanus crenatus","Passive suspension feeder"
+"Hediste diversicolor","Surface deposit feeder"
+"Hediste diversicolor",Omnivore
+"Henricia oculata",Omnivore
+"Gammarus insensibilis",Herbivore
+"Gammarus salinus",Herbivore
+"Halichondria bowerbanki","Active suspension feeder"
+"Hediste diversicolor",Scavenger
+"Jassa falcata",Predator
+"Nematostella vectensis","Passive suspension feeder"
+"Neomysis integer","Active suspension feeder"
+"Paludinella litorina","Sub-surface deposit feeder"
+"Pomatoschistus microps",Predator
+"Thyasira gouldi","Symbiont contribution"
+"Truncatella subcylindrica","Sub-surface deposit feeder"
+"Virgularia mirabilis","Passive suspension feeder"
+"Dipturus batis",Predator
+"Edwardsia ivelli","Passive suspension feeder"
+"Ensis ensis","Active suspension feeder"
+"Gobius cobitis",Omnivore
+"Gobius couchi",Omnivore
+"Palinurus elephas",Omnivore
+"Philine aperta",Predator
+"Philine aperta",Scavenger
+"Pomatoschistus minutus",Predator
+"Talitrus saltator",Omnivore
+"Tenellia adspersa",Predator
+"Urticina felina",Predator
+"Zostera marina",Photoautotroph
+"Asterina gibbosa",Omnivore
+"Hippocampus hippocampus",Predator
+"Semibalanus balanoides","Passive suspension feeder"
+"Carcinus maenas",Omnivore
+"Crangon crangon",Omnivore
+"Actinauge richardi","Passive suspension feeder"
+"Cancer pagurus",Predator
+"Asterina gibbosa",Predator
+"Ahnfeltia plicata",Photoautotroph
+"Alaria esculenta",Photoautotroph
+"Alcyonium digitatum","Active suspension feeder"
+"Alkmaria romijni","Surface deposit feeder"
+"Antedon bifida","Passive suspension feeder"
+"Aphelochaeta marioni","Surface deposit feeder"
+"Arenicola marina","Sub-surface deposit feeder"
+"Armandia cirrhosa","Sub-surface deposit feeder"
+"Ascidiella scabra","Active suspension feeder"
+"Ascophyllum nodosum",Photoautotroph
+"Atrina fragilis","Active suspension feeder"
+"Axinella dissimilis","Active suspension feeder"
+"Balanus crenatus","Active suspension feeder"
+"Bugula turbinata","Active suspension feeder"
+"Caecum armoricum","Sub-surface deposit feeder"
+"Ceramium virgatum",Photoautotroph
+"Cerastoderma glaucum","Active suspension feeder"
+"Chondrus crispus",Photoautotroph
+"Chorda filum",Photoautotroph
+"Chthamalus montagui","Active suspension feeder"
+"Chthamalus stellatus","Active suspension feeder"
+"Ciona intestinalis","Active suspension feeder"
+"Cladophora rupestris",Photoautotroph
+"Clavelina lepadiformis","Active suspension feeder"
+"Asterias rubens",Predator
+"Conopeum reticulum","Active suspension feeder"
+"Corallina officinalis",Photoautotroph
+"Corophium volutator","See additional information"
+"Corophium volutator","Surface deposit feeder"
+"Corophium volutator","Active suspension feeder"
+"Crepidula fornicata","Active suspension feeder"
+"Delesseria sanguinea",Photoautotroph
+"Electra pilosa","Active suspension feeder"
+"Eunicella verrucosa","Passive suspension feeder"
+"Tellina fabula","Active suspension feeder"
+"Fucus ceranoides",Photoautotroph
+"Fucus distichus",Photoautotroph
+"Fucus serratus",Photoautotroph
+"Fucus spiralis",Photoautotroph
+"Fucus vesiculosus",Photoautotroph
+"Funiculina quadrangularis","Passive suspension feeder"
+"Furcellaria lumbricalis",Photoautotroph
+"Gammarus salinus","Surface deposit feeder"
+"Halichondria panicea","Active suspension feeder"
+"Halidrys siliquosa",Photoautotroph
+"Hediste diversicolor","Sub-surface deposit feeder"
+"Hediste diversicolor","Passive suspension feeder"
+"Helcion pellucidum",Herbivore
+"Henricia oculata","Passive suspension feeder"
+"Himanthalia elongata",Photoautotroph
+"Hyale prevostii",Herbivore
+"Jassa falcata","Active suspension feeder"
+"Lacuna vincta",Herbivore
+"Laminaria digitata",Photoautotroph
+"Laminaria hyperborea",Photoautotroph
+"Saccharina latissima",Photoautotroph
+"Leptopsammia pruvoti","Passive suspension feeder"
+"Lithophyllum incrustans",Photoautotroph
+"Lithothamnion corallioides",Photoautotroph
+"Lithothamnion glaciale",Photoautotroph
+"Littorina littorea",Herbivore
+"Magelona mirabilis","Surface deposit feeder"
+"Metridium senile","Passive suspension feeder"
+"Molgula manhattensis","Active suspension feeder"
+"Morchellium argus","Active suspension feeder"
+"Nemertesia ramosa","Passive suspension feeder"
+"Neopentadactyla mixta","Passive suspension feeder"
+"Obelia longissima","Passive suspension feeder"
+"Osilinus lineatus",Herbivore
+"Ostrea edulis","Active suspension feeder"
+"Palmaria palmata",Photoautotroph
+"Paludinella litorina","Surface deposit feeder"
+"Patella ulyssiponensis",Herbivore
+"Patella vulgata",Herbivore
+"Pecten maximus","Active suspension feeder"
+"Pelvetia canaliculata",Photoautotroph
+"Pentapora fascialis","Active suspension feeder"
+"Pholas dactylus","Active suspension feeder"
+"Phymatolithon calcareum",Photoautotroph
+"Protanthea simplex","Passive suspension feeder"
+"Rhodothamniella floridula",Photoautotroph
+"Sabellaria alveolata","Active suspension feeder"
+"Saccorhiza polyschides",Photoautotroph
+"Semibalanus balanoides","Active suspension feeder"
+"Thieliana navis","Passive suspension feeder"
+"Thyasira gouldi","Active suspension feeder"
+"Truncatella subcylindrica","Surface deposit feeder"
+"Ulva intestinalis",Photoautotroph
+"Umbonula littoralis","Active suspension feeder"
+"Venerupis senegalensis","Active suspension feeder"
+"Victorella pavida","Active suspension feeder"
+"Zostera noltii",Photoautotroph
+"Asterina gibbosa",Scavenger
+"Cordylophora caspia","Passive suspension feeder"
+"Corophium volutator","Grazer (grains/particles)"
+"Asterina phylactica",Predator
+"Alcyonium digitatum",Predator
+"Actinauge richardi",Predator
+"Alcyonidium diaphanum","Active suspension feeder"
+"Thieliana navis",Predator
+"Nematostella vectensis",Predator
+"Cordylophora caspia",Predator
+"Cerianthus lloydii","Passive suspension feeder"
+"Amphianthus dohrnii",Predator
+"Caryophyllia smithii",Predator
+"Cerianthus lloydii",Predator
+"Hydrallmania falcata","Passive suspension feeder"
+"Inachus dorsettensis",Omnivore
+"Inachus dorsettensis",Scavenger
+"Inachus dorsettensis",Predator
+"Macropipus tuberculatus",Omnivore
+"Macropipus tuberculatus",Scavenger
+"Macropipus tuberculatus",Predator
+"Macropodia tenuirostris",Omnivore
+"Maja squinado",Omnivore
+"Maja squinado",Scavenger
+"Maja squinado",Predator
+"Mediomastus fragilis","Sub-surface deposit feeder"
+"Nemertesia antennina","Passive suspension feeder"
+"Nucula sulcata","Sub-surface deposit feeder"
+"Nucula sulcata",Detritivore
+"Sagartiogeton undatus","Passive suspension feeder"
+"Scaphander lignarius",Predator
+"Leptosynapta inhaerens",Detritivore
+"Thyone fusus","Surface deposit feeder"
+"Distomus variolosus","Active suspension feeder"
+"Pseudocuma longicorne",Detritivore
+"Sertularia cupressina",Predator
+"Abietinaria abietina",Predator
+"Tubularia indivisa",Predator
+"Sagartia elegans",Predator
+"Nephasoma spp.","Sub-surface deposit feeder"
+"Pisione spp.",Predator
+"Lepidonotus spp.",Omnivore
+"Pholoe spp.",Predator
+"Eteone spp.",Predator
+"Hesionura spp.",Predator
+"Pseudomystides spp.",Predator
+"Eulalia spp.",Predator
+"Eumida spp.",Predator
+"Glycera spp.",Predator
+"Drilonereis spp.",Predator
+"Protodorvillea spp.",Predator
+"Syllis spp.",Predator
+"Pionosyllis spp.",Predator
+"Exogone spp.",Predator
+"Sphaerosyllis spp.",Predator
+"Orbinia spp.","Sub-surface deposit feeder"
+"Paraonis spp.","Sub-surface deposit feeder"
+"Aonides spp.","Surface deposit feeder"
+"Laonice spp.","Surface deposit feeder"
+"Minuspio spp.","Surface deposit feeder"
+"Prionospio spp.","Surface deposit feeder"
+"Pisione spp.",Herbivore
+"Lepidonotus spp.",Predator
+"Eteone spp.",Scavenger
+"Eulalia spp.",Scavenger
+"Syllis spp.",Herbivore
+"Pionosyllis spp.",Herbivore
+"Exogone spp.",Herbivore
+"Exogone spp.",Detritivore
+"Euclymene spp.","Sub-surface deposit feeder"
+"Ophelia spp.","Surface deposit feeder"
+"Lagis spp.","Sub-surface deposit feeder"
+"Scalibragma spp.","Surface deposit feeder"
+"Scalibragma spp.","Sub-surface deposit feeder"
+"Travisia spp.","Sub-surface deposit feeder"
+"Pagurus spp.",Scavenger
+"Pagurus spp.","Passive suspension feeder"
+"Upogebia spp.","Active suspension feeder"
+"Pennatula phosphorea ","Passive suspension feeder"
+"Bolocera tuediae",Predator
+"Bolocera tuediae","Passive suspension feeder"
+"Adamsia carciniopados",Scavenger
+"Adamsia carciniopados","Passive suspension feeder"
+"Adamsia carciniopados","Surface deposit feeder"
+"Adamsia carciniopados",Detritivore
+"Adamsia carciniopados",Predator
+"Neanthes fucata",Scavenger
+"Neanthes fucata",Detritivore
+"Neanthes fucata","Active suspension feeder"
+"Neanthes fucata",Predator
+"Processa canaliculata",Predator
+"Processa canaliculata","Surface deposit feeder"
+"Processa canaliculata",Detritivore
+"Processa canaliculata",Scavenger
+"Dichelopandalus bonnieri",Predator
+"Dichelopandalus bonnieri",Scavenger
+"Pandalus borealis",Predator
+"Pandalus borealis","Surface deposit feeder"
+"Pandalus borealis",Detritivore
+"Pandalus borealis",Scavenger
+"Crangon allmanni",Predator
+"Crangon allmanni",Scavenger
+"Anapagurus laevis",Omnivore
+"Anapagurus laevis",Detritivore
+"Anapagurus laevis",Scavenger
+"Anapagurus laevis","Surface deposit feeder"
+"Pagurus bernhardus","Surface deposit feeder"
+"Pagurus bernhardus",Predator
+"Pagurus bernhardus","Active suspension feeder"
+"Pagurus prideauxi","Surface deposit feeder"
+"Pagurus prideauxi",Predator
+"Pagurus prideauxi","Active suspension feeder"
+"Necora puber",Omnivore
+"Necora puber",Herbivore
+"Necora puber",Predator
+"Necora puber",Scavenger
+"Aequipecten opercularis","Active suspension feeder"
+"Pseudamussium septemradiatum","Active suspension feeder"
+"Pseudamussium septemradiatum","Surface deposit feeder"
+"Aporrhais serresianus",Detritivore
+"Aporrhais serresianus","Surface deposit feeder"
+"Polinices spp.",Predator
+"Luidia ciliaris",Predator
+"Luidia ciliaris",Scavenger
+"Luidia sarsi",Predator
+"Luidia sarsi",Scavenger
+"Porania pulvillus",Predator
+"Porania pulvillus",Scavenger
+"Porania pulvillus","Surface deposit feeder"
+"Pollachius pollachius",Predator
+"Pollachius pollachius",Scavenger
+"Trisopterus luscus",Predator
+"Trisopterus luscus",Scavenger
+"Trisopterus minutus",Predator
+"Trisopterus minutus",Scavenger
+"Ctenolabrus rupestris",Predator
+"Ctenolabrus rupestris",Scavenger
+"Labrus bergylta",Predator
+"Labrus bergylta",Scavenger
+"Labrus mixtus",Predator
+"Labrus mixtus",Scavenger
+"Parablennius gattorugine",Omnivore
+"Callionymus lyra",Predator
+"Callionymus lyra",Scavenger
+"Thorogobius ephippiatus",Omnivore
+"Pleuronectes platessa",Predator
+"Pleuronectes platessa",Scavenger
+"Gastrosaccus spp.","Active suspension feeder"
+"Gastrosaccus spp.","Sub-surface deposit feeder"
+"Urothoe spp.","Active suspension feeder"
+"Urothoe spp.","Surface deposit feeder"
+"Arcopagia spp.","Surface deposit feeder"
+"Arcopagia spp.","Active suspension feeder"
+"Tellina spp.","Surface deposit feeder"
+"Tellina spp.","Active suspension feeder"
+"Solecurtus spp.","Surface deposit feeder"
+"Solecurtus spp.","Active suspension feeder"
+"Dosinia spp.","Active suspension feeder"
+"Sphenia spp.","Active suspension feeder"
+"Thracia spp.","Active suspension feeder"
+"Atelecyclus spp.",Scavenger
+"Atelecyclus spp.",Predator
+"Pirimela spp.",Omnivore
+"Pirimela spp.",Scavenger
+"Pilumnus spp.",Omnivore
+"Pilumnus spp.",Scavenger
+"Leptochiton spp.",Herbivore
+"Glycymeris spp.","Active suspension feeder"
+"Laevicardium spp.","Active suspension feeder"
+"Astropecten irregularis",Predator
+"Astropecten irregularis",Scavenger
+"Dysidea fragilis","Active suspension feeder"
+"Homarus gammarus",Scavenger
+"Homarus gammarus",Omnivore
+"Leptasterias muelleri",Omnivore
+"Leptasterias muelleri",Scavenger
+"Leptasterias muelleri",Predator
+"Idotea pelagica",Omnivore
+"Sabellaria spinulosa","Passive suspension feeder"
+"Sabellaria spinulosa","Active suspension feeder"
+"Liocarcinus depurator",Predator
+"Liocarcinus depurator",Scavenger
+"Psammechinus miliaris",Predator
+"Psammechinus miliaris",Scavenger
+"Ophiothrix fragilis","Passive suspension feeder"
+"Ophiothrix fragilis","Active suspension feeder"
+"Ophiothrix fragilis","Surface deposit feeder"
+"Ophiothrix fragilis","Sub-surface deposit feeder"
+"Hydrobia ulvae","Surface deposit feeder"
+"Hydrobia ulvae","Sub-surface deposit feeder"
+"Echinus esculentus","Grazer (grains/particles)"
+"Echinus esculentus","Grazer (fronds/blades)"
+"Echinus esculentus","Grazer (surface/substratum)"
+"Neocrania anomala","Passive suspension feeder"
+"Neocrania anomala","Active suspension feeder"
+"Botryllus schlosseri","Passive suspension feeder"
+"Botryllus schlosseri","Active suspension feeder"
+"Pisidia longicornis","Passive suspension feeder"
+"Pisidia longicornis","Active suspension feeder"
+"Cerastoderma edule","Passive suspension feeder"
+"Cerastoderma edule","Active suspension feeder"
+"Amphiura filiformis","Passive suspension feeder"
+"Amphiura filiformis","Active suspension feeder"
+"Amphiura filiformis","Surface deposit feeder"
+"Amphiura filiformis","Sub-surface deposit feeder"
+"Mya arenaria","Passive suspension feeder"
+"Mya arenaria","Active suspension feeder"
+"Polydora ciliata","Passive suspension feeder"
+"Polydora ciliata","Active suspension feeder"
+"Polydora ciliata","Surface deposit feeder"
+"Polydora ciliata","Sub-surface deposit feeder"
+"Echinocardium cordatum","Surface deposit feeder"
+"Echinocardium cordatum","Sub-surface deposit feeder"
+"Mytilus edulis","Passive suspension feeder"
+"Mytilus edulis","Active suspension feeder"
+"Callianassa subterranea","Surface deposit feeder"
+"Callianassa subterranea","Sub-surface deposit feeder"
+"Macoma balthica","Passive suspension feeder"
+"Macoma balthica","Active suspension feeder"
+"Macoma balthica","Surface deposit feeder"
+"Macoma balthica","Sub-surface deposit feeder"
+"Nucella lapillus",Predator
+"Modiolus modiolus","Passive suspension feeder"
+"Modiolus modiolus","Active suspension feeder"
+"Serpula vermicularis","Passive suspension feeder"
+"Serpula vermicularis","Active suspension feeder"
+"Arctica islandica","Passive suspension feeder"
+"Arctica islandica","Active suspension feeder"
+"Arctica islandica","Surface deposit feeder"
+"Arctica islandica","Sub-surface deposit feeder"
+"Bathyporeia pelagica","Surface deposit feeder"
+"Bathyporeia pelagica","Sub-surface deposit feeder"
+"Flustra foliacea","Passive suspension feeder"
+"Flustra foliacea","Active suspension feeder"
+"Lanice conchilega","Passive suspension feeder"
+"Lanice conchilega","Active suspension feeder"
+"Lanice conchilega","Surface deposit feeder"
+"Lanice conchilega","Sub-surface deposit feeder"
+"Musculus discors","Passive suspension feeder"
+"Musculus discors","Active suspension feeder"
+"Brissopsis lyrifera","Surface deposit feeder"
+"Brissopsis lyrifera","Sub-surface deposit feeder"
+"Amphiura chiajei","Surface deposit feeder"
+"Amphiura chiajei","Sub-surface deposit feeder"
+"Eurydice pulchra",Predator
+"Eurydice pulchra",Scavenger
+"Nephrops norvegicus",Predator
+"Nephrops norvegicus",Scavenger
+"Corbula gibba","Passive suspension feeder"
+"Corbula gibba","Active suspension feeder"
+"Aphrodita aculeata",Predator
+"Aphrodita aculeata",Scavenger
+"Spio filicornis","Surface deposit feeder"
+"Spio filicornis","Sub-surface deposit feeder"
+"Nucula nitidosa","Surface deposit feeder"
+"Nucula nitidosa","Sub-surface deposit feeder"
+"Owenia fusiformis","Passive suspension feeder"
+"Owenia fusiformis","Active suspension feeder"
+"Owenia fusiformis","Surface deposit feeder"
+"Owenia fusiformis","Sub-surface deposit feeder"
+"Spiophanes bombyx","Passive suspension feeder"
+"Spiophanes bombyx","Active suspension feeder"
+"Spiophanes bombyx","Surface deposit feeder"
+"Spiophanes bombyx","Sub-surface deposit feeder"
+"Nephtys hombergii",Predator
+"Nephtys hombergii",Scavenger
+"Abra alba","Passive suspension feeder"
+"Abra alba","Active suspension feeder"
+"Abra alba","Surface deposit feeder"
+"Abra alba","Sub-surface deposit feeder"
+"Pomatoceros triqueter","Passive suspension feeder"
+"Pomatoceros triqueter","Active suspension feeder"
+"Cirratulus cirratus","Surface deposit feeder"
+"Cirratulus cirratus","Sub-surface deposit feeder"
+"Capitella capitata","Surface deposit feeder"
+"Capitella capitata","Sub-surface deposit feeder"
+"Spisula solida","Passive suspension feeder"
+"Spisula solida","Active suspension feeder"
+"Ampelisca brevicornis","Passive suspension feeder"
+"Ampelisca brevicornis","Active suspension feeder"
+"Ampelisca brevicornis","Surface deposit feeder"
+"Ampelisca brevicornis","Sub-surface deposit feeder"
+"Ampelisca diadema","Passive suspension feeder"
+"Ampelisca diadema","Active suspension feeder"
+"Ampelisca spinipes","Passive suspension feeder"
+"Ampelisca spinipes","Active suspension feeder"
+"Ampelisca tenuicornis","Passive suspension feeder"
+"Ampelisca tenuicornis","Active suspension feeder"
+"Ampelisca tenuicornis","Surface deposit feeder"
+"Ampelisca tenuicornis","Sub-surface deposit feeder"
+"Aporrhais pespelecani","Passive suspension feeder"
+"Aporrhais pespelecani","Active suspension feeder"
+"Astarte sulcata","Passive suspension feeder"
+"Astarte sulcata","Active suspension feeder"
+"Bathyporeia elegans","Surface deposit feeder"
+"Bathyporeia elegans","Sub-surface deposit feeder"
+"Chaetopterus variopedatus","Passive suspension feeder"
+"Chaetopterus variopedatus","Active suspension feeder"
+"Chaetozone setosa","Surface deposit feeder"
+"Chaetozone setosa","Sub-surface deposit feeder"
+"Hyalinoecia tubicola","Surface deposit feeder"
+"Hyalinoecia tubicola","Sub-surface deposit feeder"
+"Mysella bidentata","Passive suspension feeder"
+"Mysella bidentata","Active suspension feeder"
+"Mysella bidentata","Surface deposit feeder"
+"Mysella bidentata","Sub-surface deposit feeder"
+"Nephtys cirrosa",Predator
+"Nephtys cirrosa",Scavenger
+"Ophiura albida","Passive suspension feeder"
+"Ophiura albida","Active suspension feeder"
+"Ophiura albida","Surface deposit feeder"
+"Ophiura albida","Sub-surface deposit feeder"
+"Phaxas pellucidus","Passive suspension feeder"
+"Phaxas pellucidus","Active suspension feeder"
+"Scoloplos armiger","Surface deposit feeder"
+"Scoloplos armiger","Sub-surface deposit feeder"
+"Dendrodoa grossularia","Passive suspension feeder"
+"Dendrodoa grossularia","Active suspension feeder"
+"Echinocyamus pusillus","Surface deposit feeder"
+"Echinocyamus pusillus","Sub-surface deposit feeder"
+"Iphinoe trispinosa","Surface deposit feeder"
+"Iphinoe trispinosa","Sub-surface deposit feeder"
+"Ditrupa arietina","Passive suspension feeder"
+"Ditrupa arietina","Active suspension feeder"
+"Corystes cassivelaunus",Predator
+"Corystes cassivelaunus",Scavenger
+"Liocarcinus holsatus",Predator
+"Liocarcinus holsatus",Scavenger
+"Acanthocardia echinata","Passive suspension feeder"
+"Acanthocardia echinata","Active suspension feeder"
+"Turritella communis","Passive suspension feeder"
+"Turritella communis","Active suspension feeder"
+"Turritella communis","Surface deposit feeder"
+"Turritella communis","Sub-surface deposit feeder"
+"Buccinum undatum",Predator
+"Buccinum undatum",Scavenger
+"Colus gracilis",Predator
+"Colus gracilis",Scavenger
+"Neptunea antiqua",Predator
+"Neptunea antiqua",Scavenger
+"Ophiura ophiura",Predator
+"Ophiura ophiura",Scavenger
+"Spatangus purpureus","Surface deposit feeder"
+"Spatangus purpureus","Sub-surface deposit feeder"
+"Crossaster papposus",Predator
+"Crossaster papposus",Scavenger
+"Abludomelita obtusata","Surface deposit feeder"
+"Abludomelita obtusata","Sub-surface deposit feeder"
+"Abra nitida","Passive suspension feeder"
+"Abra nitida","Active suspension feeder"
+"Abra nitida","Surface deposit feeder"
+"Abra nitida","Sub-surface deposit feeder"
+"Abra prismatica","Passive suspension feeder"
+"Abra prismatica","Active suspension feeder"
+"Abra prismatica","Surface deposit feeder"
+"Abra prismatica","Sub-surface deposit feeder"
+"Abra tenuis","Passive suspension feeder"
+"Abra tenuis","Active suspension feeder"
+"Abra tenuis","Surface deposit feeder"
+"Abra tenuis","Sub-surface deposit feeder"
+"Ampelisca macrocephala","Passive suspension feeder"
+"Ampelisca macrocephala","Active suspension feeder"
+"Ampharete acutifrons","Surface deposit feeder"
+"Ampharete acutifrons","Sub-surface deposit feeder"
+"Ampharete falcata","Passive suspension feeder"
+"Ampharete falcata","Active suspension feeder"
+"Ampharete falcata","Surface deposit feeder"
+"Ampharete falcata","Sub-surface deposit feeder"
+"Amphicteis gunneri","Surface deposit feeder"
+"Amphicteis gunneri","Sub-surface deposit feeder"
+"Anomia ephippium","Passive suspension feeder"
+"Anomia ephippium","Active suspension feeder"
+"Anoplodactylus petiolatus",Predator
+"Anoplodactylus petiolatus",Scavenger
+"Aonides paucibranchiata","Surface deposit feeder"
+"Aonides paucibranchiata","Sub-surface deposit feeder"
+"Azorinus chamasolen","Passive suspension feeder"
+"Azorinus chamasolen","Active suspension feeder"
+"Bathyporeia guilliamsoniana","Surface deposit feeder"
+"Bathyporeia guilliamsoniana","Sub-surface deposit feeder"
+"Bathyporeia pilosa","Surface deposit feeder"
+"Bathyporeia pilosa","Sub-surface deposit feeder"
+"Bathyporeia sarsi","Surface deposit feeder"
+"Bathyporeia sarsi","Sub-surface deposit feeder"
+"Bathyporeia tenuipes","Surface deposit feeder"
+"Bathyporeia tenuipes","Sub-surface deposit feeder"
+"Bodotria scorpioides","Surface deposit feeder"
+"Bodotria scorpioides","Sub-surface deposit feeder"
+"Branchiostoma lanceolatum","Passive suspension feeder"
+"Branchiostoma lanceolatum","Active suspension feeder"
+"Caprella linearis",Predator
+"Caprella linearis",Scavenger
+"Capulus ungaricus","Passive suspension feeder"
+"Capulus ungaricus","Active suspension feeder"
+"Ceratocephale loveni","Surface deposit feeder"
+"Ceratocephale loveni","Sub-surface deposit feeder"
+"Chamelea gallina","Passive suspension feeder"
+"Chamelea gallina","Active suspension feeder"
+"Corella parallelogramma","Passive suspension feeder"
+"Corella parallelogramma","Active suspension feeder"
+"Corophium crassicorne","Passive suspension feeder"
+"Corophium crassicorne","Active suspension feeder"
+"Corophium crassicorne","Surface deposit feeder"
+"Corophium crassicorne","Sub-surface deposit feeder"
+"Diastylis bradyi","Surface deposit feeder"
+"Diastylis bradyi","Sub-surface deposit feeder"
+"Diastylis laevis","Surface deposit feeder"
+"Diastylis laevis","Sub-surface deposit feeder"
+"Diastylis rathkei","Surface deposit feeder"
+"Diastylis rathkei","Sub-surface deposit feeder"
+"Donax vittatus","Passive suspension feeder"
+"Donax vittatus","Active suspension feeder"
+"Echiurus echiurus","Surface deposit feeder"
+"Echiurus echiurus","Sub-surface deposit feeder"
+"Escharella immersa","Passive suspension feeder"
+"Escharella immersa","Active suspension feeder"
+"Eteone flava",Predator
+"Eteone flava",Scavenger
+"Eteone foliosa",Predator
+"Eteone foliosa",Scavenger
+"Eteone longa",Predator
+"Eteone longa",Scavenger
+"Eudorella emarginata","Surface deposit feeder"
+"Eudorella emarginata","Sub-surface deposit feeder"
+"Eudorella truncatula","Surface deposit feeder"
+"Eudorella truncatula","Sub-surface deposit feeder"
+"Eulalia mustela",Predator
+"Eulalia mustela",Scavenger
+"Eulalia viridis",Predator
+"Eulalia viridis",Scavenger
+"Eusyllis blomstrandi",Predator
+"Eusyllis blomstrandi",Scavenger
+"Exogone hebes",Predator
+"Exogone hebes",Scavenger
+"Gastrosaccus spinifer","Passive suspension feeder"
+"Gastrosaccus spinifer","Active suspension feeder"
+"Gastrosaccus spinifer","Surface deposit feeder"
+"Gastrosaccus spinifer","Sub-surface deposit feeder"
+"Gattyana cirrhosa",Predator
+"Gattyana cirrhosa",Scavenger
+"Glycera alba",Predator
+"Glycera alba",Scavenger
+"Glycera lapidum",Predator
+"Glycera lapidum",Scavenger
+"Glycera rouxi",Predator
+"Glycera rouxi",Scavenger
+"Glycinde nordmanni",Predator
+"Glycinde nordmanni",Scavenger
+"Goniada maculata",Predator
+"Goniada maculata",Scavenger
+"Goodallia triangularis","Passive suspension feeder"
+"Goodallia triangularis","Active suspension feeder"
+"Harmothoe impar",Predator
+"Harmothoe impar",Scavenger
+"Haustorius arenarius","Passive suspension feeder"
+"Haustorius arenarius","Active suspension feeder"
+"Hesionura elongata",Predator
+"Hesionura elongata",Scavenger
+"Hiatella arctica","Passive suspension feeder"
+"Hiatella arctica","Active suspension feeder"
+"Hyas coarctatus",Predator
+"Hyas coarctatus",Scavenger
+"Iphinoe serrata","Surface deposit feeder"
+"Iphinoe serrata","Sub-surface deposit feeder"
+"Laevicardium crassum","Passive suspension feeder"
+"Laevicardium crassum","Active suspension feeder"
+"Laonice cirrata","Surface deposit feeder"
+"Laonice cirrata","Sub-surface deposit feeder"
+"Lepidonotus squamatus",Predator
+"Lepidonotus squamatus",Scavenger
+"Liocarcinus marmoreus",Predator
+"Liocarcinus marmoreus",Scavenger
+"Lucinoma borealis","Passive suspension feeder"
+"Lucinoma borealis","Active suspension feeder"
+"Lumbrineris hibernica",Predator
+"Lumbrineris hibernica",Scavenger
+"Lumbrineris latreilli",Predator
+"Lumbrineris latreilli",Scavenger
+"Mactra stultorum","Passive suspension feeder"
+"Mactra stultorum","Active suspension feeder"
+"Maera othonis","Surface deposit feeder"
+"Maera othonis","Sub-surface deposit feeder"
+"Marphysa bellii",Predator
+"Marphysa bellii",Scavenger
+"Modiolus barbatus","Passive suspension feeder"
+"Modiolus barbatus","Active suspension feeder"
+"Nephtys caeca",Predator
+"Nephtys caeca",Scavenger
+"Nephtys incisa","Surface deposit feeder"
+"Nephtys incisa","Sub-surface deposit feeder"
+"Nephtys longosetosa",Predator
+"Nephtys longosetosa",Scavenger
+"Nereimyra punctata","Surface deposit feeder"
+"Nereimyra punctata","Sub-surface deposit feeder"
+"Notomastus latericeus","Surface deposit feeder"
+"Notomastus latericeus","Sub-surface deposit feeder"
+"Ophelia borealis","Surface deposit feeder"
+"Ophelia borealis","Sub-surface deposit feeder"
+"Orbinia sertulata","Surface deposit feeder"
+"Orbinia sertulata","Sub-surface deposit feeder"
+"Parvicardium scabrum","Passive suspension feeder"
+"Parvicardium scabrum","Active suspension feeder"
+"Pectinaria (Amphictene) auricoma","Surface deposit feeder"
+"Pectinaria (Amphictene) auricoma","Sub-surface deposit feeder"
+"Pectinaria koreni","Surface deposit feeder"
+"Pectinaria koreni","Sub-surface deposit feeder"
+"Phoronis muelleri","Passive suspension feeder"
+"Phoronis muelleri","Active suspension feeder"
+"Photis longicaudata","Passive suspension feeder"
+"Photis longicaudata","Active suspension feeder"
+"Phyllodoce (Anaitides) groenlandica",Predator
+"Phyllodoce (Anaitides) groenlandica",Scavenger
+"Phyllodoce (Anaitides) maculata",Predator
+"Phyllodoce (Anaitides) maculata",Scavenger
+"Pisione remota",Predator
+"Pisione remota",Scavenger
+"Poecilochaetus serpens","Passive suspension feeder"
+"Poecilochaetus serpens","Active suspension feeder"
+"Poecilochaetus serpens","Surface deposit feeder"
+"Poecilochaetus serpens","Sub-surface deposit feeder"
+"Pontocrates altamarinus","Surface deposit feeder"
+"Pontocrates altamarinus","Sub-surface deposit feeder"
+"Protodorvillea kefersteini",Predator
+"Protodorvillea kefersteini",Scavenger
+"Pycnogonum littorale",Predator
+"Pycnogonum littorale",Scavenger
+"Scalibregma inflatum","Surface deposit feeder"
+"Scalibregma inflatum","Sub-surface deposit feeder"
+"Scolelepis bonnieri","Passive suspension feeder"
+"Scolelepis bonnieri","Active suspension feeder"
+"Scolelepis bonnieri","Surface deposit feeder"
+"Scolelepis bonnieri","Sub-surface deposit feeder"
+"Sphaerosyllis bulbosa",Predator
+"Sphaerosyllis bulbosa",Scavenger
+"Spisula elliptica","Passive suspension feeder"
+"Spisula elliptica","Active suspension feeder"
+"Spisula subtruncata","Passive suspension feeder"
+"Spisula subtruncata","Active suspension feeder"
+"Stenothoe marina",Predator
+"Stenothoe marina",Scavenger
+"Tellina (Moerella) pygmaeus","Surface deposit feeder"
+"Tellina (Moerella) pygmaeus","Sub-surface deposit feeder"
+"Tellina tenuis","Passive suspension feeder"
+"Tellina tenuis","Active suspension feeder"
+"Tellina tenuis","Surface deposit feeder"
+"Tellina tenuis","Sub-surface deposit feeder"
+"Thracia villosiuscula","Passive suspension feeder"
+"Thracia villosiuscula","Active suspension feeder"
+"Thracia villosiuscula","Surface deposit feeder"
+"Thracia villosiuscula","Sub-surface deposit feeder"
+"Timoclea ovata","Passive suspension feeder"
+"Timoclea ovata","Active suspension feeder"
+"Travisia forbesii","Surface deposit feeder"
+"Travisia forbesii","Sub-surface deposit feeder"
+"Unciola crenatipalma","Passive suspension feeder"
+"Unciola crenatipalma","Active suspension feeder"
+"Upogebia deltaura","Passive suspension feeder"
+"Upogebia deltaura","Active suspension feeder"
+"Upogebia deltaura","Surface deposit feeder"
+"Upogebia deltaura","Sub-surface deposit feeder"
+"Urothoe brevicornis","Surface deposit feeder"
+"Urothoe brevicornis","Sub-surface deposit feeder"
+"Urothoe elegans","Surface deposit feeder"
+"Urothoe elegans","Sub-surface deposit feeder"
+"Urothoe marina","Surface deposit feeder"
+"Urothoe marina","Sub-surface deposit feeder"
+"Urothoe poseidonis","Surface deposit feeder"
+"Urothoe poseidonis","Sub-surface deposit feeder"
+"Gammarus chevreuxi","Field unresearched"
+"Hippocampus guttulatus","Field unresearched"
+"Echinogammarus planicrurus","Field unresearched"
+"Sargassum (Bactrophycus) muticum","Field unresearched"
+"Littorina saxatilis","Field unresearched"
+"Leptosynapta spp.","Sub-surface deposit feeder"
+"Leptosynapta spp.",Detritivore
+"Leptosynapta spp.","Grazer (surface/substratum)"
+"Pisidia spp.","Active suspension feeder"
+"Pisidia spp.",Detritivore
+"Spio martinensis","Surface deposit feeder"
+"Spio martinensis",Detritivore
+"Polydora spp.","Active suspension feeder"
+"Polydora spp.","Surface deposit feeder"
+"Galathea spp.","Grazer (surface/substratum)"
+"Galathea spp.",Detritivore
+"Galathea spp.",Scavenger
+"Balanus spp.","Active suspension feeder"
+"Balanus spp.",Detritivore
+"Macropodia spp.",Omnivore
+"Diplosoma listerianum","Active suspension feeder"

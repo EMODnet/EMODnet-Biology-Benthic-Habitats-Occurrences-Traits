@@ -1,0 +1,451 @@
+SpeciesName,devmech
+"Clymenura spp.",Lecithotrophic
+"Parametaphoxus spp.",Planktotrophic
+"Harpinia spp.",Planktotrophic
+"Antedon bifida",Planktotrophic
+"Asterias rubens",Planktotrophic
+"Bugula turbinata",Lecithotrophic
+"Cancer pagurus",Planktotrophic
+"Carcinus maenas",Planktotrophic
+"Chthamalus montagui",Planktotrophic
+"Chthamalus stellatus",Planktotrophic
+"Ciona intestinalis",Lecithotrophic
+"Ciona intestinalis",Oviparous
+"Jassa falcata","Direct Development"
+"Nematostella vectensis","See additional information"
+"Nemertesia ramosa",Lecithotrophic
+"Neomysis integer",Ovoviviparous
+"Semibalanus balanoides",Planktotrophic
+"Semibalanus balanoides",Lecithotrophic
+"Pomatoschistus microps",Oviparous
+"Sagitta spp.","Direct Development"
+"Alcyonium digitatum",Lecithotrophic
+"Lacuna vincta",Planktotrophic
+"Vesicularia spp.",Planktotrophic
+"Amphianthus dohrnii","Not relevant"
+"Poecilochaetus spp.",Planktotrophic
+"Jasmineira spp.",Lecithotrophic
+"Bugula turbinata","Viviparous (No Care)"
+"Caecum armoricum","Insufficient information"
+"Crangon crangon",Planktotrophic
+"Crepidula fornicata",Planktotrophic
+"Delesseria sanguinea","Spores (sexual / asexual)"
+"Dipturus batis",Oviparous
+"Electra pilosa",Planktotrophic
+"Bispira spp.",Planktotrophic
+"Sagitta spp.",Planktotrophic
+"Gammarus insensibilis","Direct Development"
+"Gammarus salinus","Direct Development"
+"Gobius couchi",Oviparous
+"Halichondria bowerbanki","Viviparous (Parental Care)"
+"Halichondria panicea",Lecithotrophic
+"Halichondria panicea",Ovoviviparous
+"Hediste diversicolor",Lecithotrophic
+"Hediste diversicolor",Oviparous
+"Helcion pellucidum",Planktotrophic
+"Henricia oculata",Lecithotrophic
+"Henricia oculata","Direct Development"
+"Hyale prevostii","Direct Development"
+"Laminaria digitata","Spores (sexual / asexual)"
+"Hydrallmania spp.",Lecithotrophic
+"Verruca spp.",Planktotrophic
+"Sepiola spp.",Oviparous
+"Sepiola spp.","Direct Development"
+"Neopentadactyla mixta","Insufficient information"
+"Obelia longissima",Planktotrophic
+"Obelia longissima",Lecithotrophic
+"Osilinus lineatus",Planktotrophic
+"Osilinus lineatus",Lecithotrophic
+"Ostrea edulis",Planktotrophic
+"Palinurus elephas",Planktotrophic
+"Palinurus elephas",Oviparous
+"Palmaria palmata","Spores (sexual / asexual)"
+"Paludinella litorina","Insufficient information"
+"Patella ulyssiponensis",Planktotrophic
+"Patella vulgata",Planktotrophic
+"Pecten maximus",Planktotrophic
+"Pentapora fascialis",Lecithotrophic
+"Philine aperta",Planktotrophic
+"Pholas dactylus",Planktotrophic
+"Phymatolithon calcareum","Insufficient information"
+"Timoclea spp.",Lecithotrophic
+"Venus spp.",Lecithotrophic
+"Pomatoschistus minutus",Oviparous
+"Protanthea simplex",Lecithotrophic
+"Protanthea simplex",Oviparous
+"Rhodothamniella floridula","Spores (sexual / asexual)"
+"Tapes spp.",Lecithotrophic
+"Clausinella spp.",Lecithotrophic
+"Sepiola spp.",Planktotrophic
+"Talitrus saltator",Ovoviviparous
+"Tenellia adspersa",Lecithotrophic
+"Tenellia adspersa","Direct Development"
+"Thieliana navis","Insufficient information"
+"Thyasira gouldi","Direct Development"
+"Truncatella subcylindrica",Oviparous
+"Ulva intestinalis","Spores (sexual / asexual)"
+"Dysidea fragilis",Lecithotrophic
+"Goniada spp.",Planktotrophic
+"Urticina felina",Lecithotrophic
+"Venerupis senegalensis",Planktotrophic
+"Virgularia mirabilis",Lecithotrophic
+"Didemnum spp.",Lecithotrophic
+"Golfingia spp.",Lecithotrophic
+"Nemertesia antennina",Lecithotrophic
+"Pasiphaea spp.",Lecithotrophic
+"Podarkeopsis spp.",Lecithotrophic
+"Corophium volutator","Direct Development"
+"Hinia spp.",Lecithotrophic
+"Cheirocratus spp.","Viviparous (Parental Care)"
+"Pasiphaea spp.",Planktotrophic
+"Lithothamnion glaciale","Spores (sexual / asexual)"
+"Lithothamnion corallioides","Insufficient information"
+"Nematostella vectensis",Schizotomous
+"Axius spp.",Planktotrophic
+"Diodora spp.",Oviparous
+"Guernea spp.","Viviparous (Parental Care)"
+"Bodotria spp.","Insufficient information"
+"Marphysa spp.",Lecithotrophic
+"Sabellaria alveolata",Planktotrophic
+"Diodora spp.","Direct Development"
+"Golfingia spp.",Oviparous
+"Calliostoma spp.","Direct Development"
+"Astropecten irregularis",Lecithotrophic
+"Guernea spp.",Oviparous
+"Astropecten irregularis",Planktotrophic
+"Halidrys siliquosa","Spores (sexual / asexual)"
+"Hippocampus hippocampus","Viviparous (Parental Care)"
+"Laminaria hyperborea","Spores (sexual / asexual)"
+"Leptopsammia pruvoti",Lecithotrophic
+"Lithophyllum incrustans","Spores (sexual / asexual)"
+"Littorina littorea",Planktotrophic
+"Littorina littorea",Oviparous
+"Umbonula littoralis",Lecithotrophic
+"Magelona mirabilis",Planktotrophic
+"Metridium senile",Lecithotrophic
+"Molgula manhattensis",Oviparous
+"Morchellium argus",Lecithotrophic
+"Saccorhiza polyschides","Spores (sexual / asexual)"
+"Zostera marina",Oviparous
+"Zostera noltii",Oviparous
+"Victorella pavida",Lecithotrophic
+"Hyas spp.",Planktotrophic
+"Macropodia tenuirostris",Planktotrophic
+"Gammaropsis spp.","Viviparous (Parental Care)"
+"Gammaropsis spp.",Oviparous
+"Ebalia spp.",Planktotrophic
+"Lucinoma spp.",Lecithotrophic
+"Polinices spp.",Planktotrophic
+"Hippolyte spp.",Planktotrophic
+"Hiatella spp.",Lecithotrophic
+"Polinices spp.",Oviparous
+"Psamathe spp.",Planktotrophic
+"Pelvetia canaliculata","Not relevant"
+"Glycinde spp.",Lecithotrophic
+"Grania spp.","Insufficient information"
+"Grania spp.",Schizotomous
+"Himanthalia elongata","Not relevant"
+"Fucus distichus","Not relevant"
+"Fucus ceranoides","Insufficient information"
+"Fucus vesiculosus","Insufficient information"
+"Funiculina quadrangularis","Insufficient information"
+"Schistomysis spp.",Oviparous
+"Schistomysis spp.",Brooding
+"Chlamys spp.",Planktotrophic
+"Ahnfeltia plicata","Spores (sexual / asexual)"
+"Himanthalia elongata",Ovoviviparous
+"Corallina officinalis","See additional information"
+"Cladophora rupestris","Spores (sexual / asexual)"
+"Clavelina lepadiformis",Ovoviviparous
+"Pandalus spp.",Lecithotrophic
+"Palaemon spp.",Planktotrophic
+"Nymphon spp.",Planktotrophic
+"Ceramium virgatum","Spores (sexual / asexual)"
+"Ensis ensis",Planktotrophic
+"Fucus serratus","Insufficient information"
+"Fucus spiralis","Insufficient information"
+"Himanthalia elongata","Insufficient information"
+"Nuculana spp.",Lecithotrophic
+"Nuculana spp.","Direct Development"
+"Pandalina spp.",Planktotrophic
+"Antedon bifida",Brooding
+"Arenicola marina",Oviparous
+"Armandia cirrhosa",Planktotrophic
+"Atrina fragilis",Planktotrophic
+"Balanus crenatus",Planktotrophic
+"Balanus crenatus",Lecithotrophic
+"Cerastoderma glaucum",Planktotrophic
+"Chondrus crispus","Spores (sexual / asexual)"
+"Himanthalia elongata","Spores (sexual / asexual)"
+"Anoplodactylus spp.",Planktotrophic
+"Conopeum reticulum",Planktotrophic
+"Eunicella verrucosa",Lecithotrophic
+"Tellina fabula",Planktotrophic
+"Furcellaria lumbricalis","Spores (sexual / asexual)"
+"Gobius cobitis",Oviparous
+"Pandalus spp.",Planktotrophic
+"Guernea spp.","Direct Development"
+"Cirrophorous spp.","Insufficient information"
+"Himanthalia elongata",Oviparous
+"Styela spp.",Lecithotrophic
+"Eurysyllis spp.","Insufficient information"
+"Metopa spp.","Insufficient information"
+"Polycarpa spp.",Lecithotrophic
+"Chorda filum","Spores (sexual / asexual)"
+"Clavelina lepadiformis",Lecithotrophic
+"Circomphalus spp.",Lecithotrophic
+"Syllides spp.","Insufficient information"
+"Odontosyllis spp.","Insufficient information"
+"Tridonta spp.",Lecithotrophic
+"Chamelea spp.",Lecithotrophic
+"Himanthalia elongata","See additional information"
+"Palliolum spp.","Insufficient information"
+"Ascidia spp.",Lecithotrophic
+"Corallina officinalis","Spores (sexual / asexual)"
+"Alkmaria romijni",Lecithotrophic
+"Aphelochaeta marioni",Lecithotrophic
+"Ascophyllum nodosum","Spores (sexual / asexual)"
+"Cordylophora caspia",Lecithotrophic
+"Cordylophora caspia","Direct Development"
+"Alcyonidium diaphanum",Lecithotrophic
+"Caryophyllia smithii",Planktotrophic
+"Cerianthus lloydii",Planktotrophic
+"Inachus dorsettensis",Planktotrophic
+"Macropipus tuberculatus",Planktotrophic
+"Maja squinado",Planktotrophic
+"Mediomastus fragilis",Planktotrophic
+"Thyasira flexuosa","Direct Development"
+"Leptosynapta inhaerens","Viviparous (No Care)"
+"Leptosynapta inhaerens","Direct Development"
+"Leptosynapta inhaerens",Brooding
+"Distomus variolosus","Viviparous (No Care)"
+"Axinella dissimilis","Spores (sexual / asexual)"
+"Pseudocuma longicorne","Direct Development"
+"Pseudocuma longicorne",Brooding
+"Leptocheirus spp.",Brooding
+"Sertularia cupressina",Brooding
+"Abietinaria abietina",Brooding
+"Tubularia indivisa",Brooding
+"Sagartia elegans",Planktotrophic
+"Sagartia elegans","Viviparous (No Care)"
+"Nephasoma spp.","Direct Development"
+"Pisione spp.",Planktotrophic
+"Lepidonotus spp.",Planktotrophic
+"Pholoe spp.",Planktotrophic
+"Eteone spp.",Planktotrophic
+"Hesionura spp.",Planktotrophic
+"Pseudomystides spp.",Planktotrophic
+"Eulalia spp.",Oviparous
+"Eumida spp.",Planktotrophic
+"Glycera spp.",Planktotrophic
+"Protodorvillea spp.",Planktotrophic
+"Protodorvillea spp.",Brooding
+"Syllis spp.",Planktotrophic
+"Exogone spp.","Direct Development"
+"Sphaerosyllis spp.","Direct Development"
+"Aonides spp.",Lecithotrophic
+"Laonice spp.",Planktotrophic
+"Minuspio spp.",Planktotrophic
+"Prionospio spp.",Planktotrophic
+"Pholoe spp.",Lecithotrophic
+"Hesionura spp.",Lecithotrophic
+"Pseudomystides spp.",Lecithotrophic
+"Eulalia spp.",Planktotrophic
+"Eulalia spp.",Lecithotrophic
+"Eumida spp.",Lecithotrophic
+"Syllis spp.",Lecithotrophic
+"Syllis spp.",Schizotomous
+"Syllis spp.",Brooding
+"Pionosyllis spp.",Brooding
+"Pionosyllis spp.",Schizotomous
+"Pionosyllis spp.",Lecithotrophic
+"Exogone spp.",Lecithotrophic
+"Euclymene spp.",Lecithotrophic
+"Euclymene spp.","Direct Development"
+"Euclymene spp.",Brooding
+"Ophelia spp.",Lecithotrophic
+"Lagis spp.",Planktotrophic
+"Travisia spp.","Direct Development"
+"Asterina gibbosa",Lecithotrophic
+"Pagurus spp.",Planktotrophic
+"Pagurus spp.",Brooding
+"Upogebia spp.",Planktotrophic
+"Upogebia spp.",Brooding
+"Pennatula phosphorea ",Planktotrophic
+"Bolocera tuediae",Planktotrophic
+"Adamsia carciniopados",Planktotrophic
+"Neanthes fucata","Not researched"
+"Processa canaliculata","Not researched"
+"Dichelopandalus bonnieri",Planktotrophic
+"Pandalus borealis",Planktotrophic
+"Crangon allmanni","Not researched"
+"Anapagurus laevis",Planktotrophic
+"Pagurus bernhardus",Planktotrophic
+"Pagurus bernhardus",Brooding
+"Pagurus prideauxi",Planktotrophic
+"Necora puber",Planktotrophic
+"Aequipecten opercularis","Not researched"
+"Pseudamussium septemradiatum","Not researched"
+"Aporrhais serresianus","Not researched"
+"Polinices spp.",Planktotrophic
+"Luidia ciliaris","Not researched"
+"Luidia sarsi","Not researched"
+"Porania pulvillus","Not researched"
+"Pollachius pollachius",Oviparous
+"Trisopterus luscus",Oviparous
+"Trisopterus minutus",Oviparous
+"Ctenolabrus rupestris",Oviparous
+"Labrus bergylta",Oviparous
+"Labrus mixtus",Oviparous
+"Parablennius gattorugine",Oviparous
+"Callionymus lyra",Oviparous
+"Thorogobius ephippiatus",Oviparous
+"Pleuronectes platessa",Oviparous
+"Gastrosaccus spp.",Ovoviviparous
+"Urothoe spp.","Direct Development"
+"Arcopagia spp.",Planktotrophic
+"Tellina spp.",Planktotrophic
+"Solecurtus spp.",Planktotrophic
+"Dosinia spp.",Planktotrophic
+"Sphenia spp.",Planktotrophic
+"Thracia spp.",Planktotrophic
+"Atelecyclus spp.",Planktotrophic
+"Pirimela spp.",Planktotrophic
+"Pilumnus spp.",Planktotrophic
+"Leptochiton spp.",Lecithotrophic
+"Glycymeris spp.",Planktotrophic
+"Laevicardium spp.",Planktotrophic
+"Homarus gammarus",Planktotrophic
+"Leptasterias muelleri","Direct Development"
+"Leptasterias muelleri",Brooding
+"Idotea pelagica","Direct Development"
+"Idotea pelagica",Brooding
+"Alaria esculenta","Spores (sexual / asexual)"
+"Saccharina latissima","Spores (sexual / asexual)"
+"Sabellaria spinulosa",Planktotrophic
+"Liocarcinus depurator",Planktotrophic
+"Liocarcinus depurator",Oviparous
+"Psammechinus miliaris",Planktotrophic
+"Ophiothrix fragilis",Planktotrophic
+"Hydrobia ulvae",Planktotrophic
+"Hydrobia ulvae",Lecithotrophic
+"Echinus esculentus",Planktotrophic
+"Neocrania anomala",Lecithotrophic
+"Botryllus schlosseri",Lecithotrophic
+"Pisidia longicornis",Planktotrophic
+"Cerastoderma edule",Planktotrophic
+"Amphiura filiformis",Planktotrophic
+"Mya arenaria",Planktotrophic
+"Polydora ciliata",Planktotrophic
+"Echinocardium cordatum",Planktotrophic
+"Mytilus edulis",Planktotrophic
+"Callianassa subterranea",Planktotrophic
+"Macoma balthica",Planktotrophic
+"Nucella lapillus",Oviparous
+"Modiolus modiolus",Planktotrophic
+"Serpula vermicularis",Planktotrophic
+"Arctica islandica",Planktotrophic
+"Bathyporeia pelagica",Ovoviviparous
+"Bathyporeia pelagica",Brooding
+"Flustra foliacea",Lecithotrophic
+"Lanice conchilega",Planktotrophic
+"Lanice conchilega",Lecithotrophic
+"Musculus discors","Direct Development"
+"Brissopsis lyrifera",Planktotrophic
+"Amphiura chiajei",Planktotrophic
+"Eurydice pulchra",Ovoviviparous
+"Nephrops norvegicus",Planktotrophic
+"Corbula gibba",Planktotrophic
+"Aphrodita aculeata",Lecithotrophic
+"Spio filicornis",Planktotrophic
+"Nucula nitidosa",Lecithotrophic
+"Owenia fusiformis",Planktotrophic
+"Spiophanes bombyx",Planktotrophic
+"Nephtys hombergii",Planktotrophic
+"Nephtys hombergii",Lecithotrophic
+"Abra alba",Planktotrophic
+"Pomatoceros triqueter",Planktotrophic
+"Cirratulus cirratus",Lecithotrophic
+"Capitella capitata",Lecithotrophic
+"Spisula solida",Planktotrophic
+"Ampelisca brevicornis","Direct Development"
+"Ampelisca diadema","Direct Development"
+"Ampelisca spinipes","Direct Development"
+"Ampelisca tenuicornis","Direct Development"
+"Aporrhais pespelecani",Planktotrophic
+"Astarte sulcata",Planktotrophic
+"Bathyporeia elegans","Direct Development"
+"Chaetopterus variopedatus",Planktotrophic
+"Chaetozone setosa",Lecithotrophic
+"Mysella bidentata",Planktotrophic
+"Mysella bidentata",Lecithotrophic
+"Scoloplos armiger",Lecithotrophic
+"Scoloplos armiger","Direct Development"
+"Echinocyamus pusillus",Planktotrophic
+"Amphipholis squamata","Direct Development"
+"Amphipholis squamata",Brooding
+"Iphinoe trispinosa","Direct Development"
+"Iphinoe trispinosa",Brooding
+"Maerella tenuimana",Brooding
+"Ditrupa arietina",Planktotrophic
+"Corystes cassivelaunus",Planktotrophic
+"Corystes cassivelaunus",Brooding
+"Liocarcinus holsatus",Planktotrophic
+"Acanthocardia echinata",Planktotrophic
+"Buccinum undatum","Direct Development"
+"Colus gracilis","Direct Development"
+"Colus gracilis",Brooding
+"Neptunea antiqua",Oviparous
+"Crossaster papposus",Planktotrophic
+"Crossaster papposus","Direct Development"
+"Abra nitida",Planktotrophic
+"Abra tenuis","Direct Development"
+"Ampharete acutifrons","Direct Development"
+"Ampharete falcata","Direct Development"
+"Bathyporeia guilliamsoniana","Direct Development"
+"Calocaris macandreae","Direct Development"
+"Diastylis lucifera","Direct Development"
+"Diastylis rathkei","Direct Development"
+"Eteone longa",Planktotrophic
+"Glycera alba",Planktotrophic
+"Glycera rouxi",Planktotrophic
+"Laonice cirrata",Planktotrophic
+"Melinna cristata",Lecithotrophic
+"Montacuta ferruginosa",Planktotrophic
+"Nephtys caeca",Planktotrophic
+"Nephtys incisa",Planktotrophic
+"Notomastus latericeus",Lecithotrophic
+"Ennucula tenuis",Lecithotrophic
+"Pectinaria koreni",Planktotrophic
+"Perioculodes longimanus","Direct Development"
+"Phoronis muelleri",Planktotrophic
+"Poecilochaetus serpens",Planktotrophic
+"Prionospio cirrifera",Planktotrophic
+"Prionospio malmgreni",Planktotrophic
+"Sphaerosyllis hystrix","Direct Development"
+"Tellina tenuis",Planktotrophic
+"Gammarus chevreuxi",Brooding
+"Amaeana spp.",Lecithotrophic
+"Polycirrus spp.",Lecithotrophic
+"Leptosynapta spp.","Viviparous (No Care)"
+"Leptosynapta spp.",Brooding
+"Leptosynapta spp.","Direct Development"
+"Pisidia spp.",Planktotrophic
+"Pisidia spp.",Brooding
+"Pisione remota",Planktotrophic
+"Spio martinensis",Planktotrophic
+"Malacoceros fuliginosus",Planktotrophic
+"Pygospio elegans",Planktotrophic
+"Pygospio elegans",Lecithotrophic
+"Pygospio elegans","Direct Development"
+"Polydora spp.",Planktotrophic
+"Polydora spp.","Direct Development"
+"Magelona spp.",Planktotrophic
+"Thelepus spp.",Lecithotrophic
+"Thelepus spp.",Brooding
+"Ensis spp.",Planktotrophic
+"Galathea spp.",Brooding
+"Galathea spp.",Planktotrophic
+"Balanus spp.",Planktotrophic
+"Macropodia spp.",Planktotrophic
+"Spatangus purpureus",Planktotrophic

@@ -11,7 +11,7 @@ AphiaID_accepted,ScientificName_accepted,obis_records,inf_epi,plank_larv,Bedrock
 101930,Ampelisca tenuicornis,8890,Epifaunal,No,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ampelisca tenuicornis,101930,Arthropoda,Malacostraca,Amphipoda,Ampeliscidae
 129777,Ampharete falcata,1582,Infaunal,Yes,NA,NA,NA,NA,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ampharete falcata,129777,Annelida,Polychaeta,Terebellida,Ampharetidae
 100936,Amphianthus dohrnii,40,Epifaunal,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Amphianthus dohrnii,100936,Cnidaria,Anthozoa,Actiniaria,Amphianthidae
-125064,Amphipholis squamata,13579,NA,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Amphipholis squamata,125064,Echinodermata,Ophiuroidea,Amphilepidida,Amphiuridae
+125064,Amphipholis squamata,13606,NA,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Amphipholis squamata,125064,Echinodermata,Ophiuroidea,Amphilepidida,Amphiuridae
 125073,Amphiura chiajei,8598,Infaunal,Yes,NA,NA,NA,NA,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Amphiura chiajei,125073,Echinodermata,Ophiuroidea,Amphilepidida,Amphiuridae
 125080,Amphiura filiformis,19193,Infaunal,Yes,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Amphiura filiformis,125080,Echinodermata,Ophiuroidea,Amphilepidida,Amphiuridae
 124201,Antedon bifida,794,Epifaunal,Yes,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Antedon bifida,124201,Echinodermata,Crinoidea,Comatulida,Antedonidae
@@ -51,7 +51,7 @@ AphiaID_accepted,ScientificName_accepted,obis_records,inf_epi,plank_larv,Bedrock
 103552,Clavelina lepadiformis,904,Epifaunal,Yes,1,1,1,1,NA,NA,NA,NA,NA,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Clavelina lepadiformis,103552,Chordata,Ascidiacea,Aplousobranchia,Clavelinidae
 111351,Conopeum reticulum,3301,Epifaunal,Yes,1,1,1,1,NA,NA,NA,NA,NA,NA,1,1,1,1,1,NA,1,NA,NA,NA,NA,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,Conopeum reticulum,111351,Bryozoa,Gymnolaemata,Cheilostomatida,Electridae
 139410,Corbula gibba,46175,Infaunal,Yes,NA,NA,NA,NA,NA,1,1,1,NA,NA,NA,NA,NA,NA,NA,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Corbula gibba,139410,Mollusca,Bivalvia,Myida,Corbulidae
-117428,Cordylophora caspia,808,Epifaunal,Yes,1,1,1,1,NA,NA,NA,NA,NA,NA,NA,1,1,1,1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cordylophora caspia,117428,Cnidaria,Hydrozoa,Anthoathecata,Cordylophoridae
+117428,Cordylophora caspia,809,Epifaunal,Yes,1,1,1,1,NA,NA,NA,NA,NA,NA,NA,1,1,1,1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cordylophora caspia,117428,Cnidaria,Hydrozoa,Anthoathecata,Cordylophoridae
 102101,Corophium volutator,23547,Infaunal,No,NA,NA,NA,NA,1,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Corophium volutator,102101,Arthropoda,Malacostraca,Amphipoda,Corophiidae
 138963,Crepidula fornicata,7723,Epifaunal,Yes,NA,1,NA,1,1,1,1,1,1,1,1,1,NA,NA,NA,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Crepidula fornicata,138963,Mollusca,Gastropoda,Littorinimorpha,Calyptraeidae
 103882,Dendrodoa grossularia,5384,Epifaunal,Yes,1,NA,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Dendrodoa grossularia,103882,Chordata,Ascidiacea,Stolidobranchia,Styelidae

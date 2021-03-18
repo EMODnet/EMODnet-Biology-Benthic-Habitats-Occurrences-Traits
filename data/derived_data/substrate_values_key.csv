@@ -1,36 +1,36 @@
-substratum,substratum_code
-See additional information,No_Info
-Fine clean sand,Fine_sand
-Coarse clean sand,Coarse_sand
-Bedrock,Bedrock
-Large to very large boulders,Large_VLarge_Boulders
-Small boulders,Small_Boulders
-Cobbles,Cobbles
-Algae,Algae
-Other species (see additional information),Other_species
-Artificial (e.g. metal/wood/concrete),Artificial
-Seagrass,Seagrass
-Under boulders,Under_boulders
-Caves,Caves
-Overhangs,Overhangs
-Rockpools,Rockpools
-Muddy sand,Muddy_sand
-Muddy gravel,Muddy_gravel
-Sandy mud,Sandy_mud
-Mud,Mud
-Salt marsh,Salt_marsh
-Mixed,Mixed
-Water column (pelagic),Pelagic
-Gravel / shingle,Gravel_shingle
-Pebbles,Pebbles
-Crevices / fissures,Crevices
-Maerl,Maerl
-Biogenic reef,Biogenic_reef
-Strandline,Strandline
-No preference,No_preference
-Insufficient information,No_Info
-Clay,Clay
-Muddy sandy gravel,Mud_sand_gravel
-Gravelley sand,Gravel_sand
-Muddy gravelly sand,Mud_grav_sand
-Sandy gravelly mud,Sand_grav_mud
+substratum,substratum_code,substrate_group
+See additional information,No_Info,No_Info
+Fine clean sand,Fine_sand,sand
+Coarse clean sand,Coarse_sand,sand
+Bedrock,Bedrock,rock
+Large to very large boulders,Large_VLarge_Boulders,rock
+Small boulders,Small_Boulders,rock
+Cobbles,Cobbles,rock
+Algae,Algae,Algae
+Other species (see additional information),Other_species,Other_species
+Artificial (e.g. metal/wood/concrete),Artificial,rock
+Seagrass,Seagrass,Seagrass
+Under boulders,Under_boulders,rock
+Caves,Caves,rock
+Overhangs,Overhangs,rock
+Rockpools,Rockpools,rock
+Muddy sand,Muddy_sand,sand
+Muddy gravel,Muddy_gravel,mud
+Sandy mud,Sandy_mud,mud
+Mud,Mud,mud
+Salt marsh,Salt_marsh,mud
+Mixed,Mixed,coarse
+Water column (pelagic),Pelagic,Pelagic
+Gravel / shingle,Gravel_shingle,coarse
+Pebbles,Pebbles,coarse
+Crevices / fissures,Crevices,rock
+Maerl,Maerl,Maerl
+Biogenic reef,Biogenic_reef,rock
+Strandline,Strandline,Strandline
+No preference,No_preference,No_preference
+Insufficient information,No_Info,No_Info
+Clay,Clay,mud
+Muddy sandy gravel,Mud_sand_gravel,coarse
+Gravelley sand,Gravel_sand,sand
+Muddy gravelly sand,Mud_grav_sand,sand
+Sandy gravelly mud,Sand_grav_mud,mud

@@ -1,0 +1,164 @@
+---
+title: "benthic species-habitat dashboards"
+author: "Tom Webb"
+date: "16/03/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Producing habitat summaries and visual dashboards for European marine benthic species
+
+The processed EMODnet benthic numerical abundance product files, now matched to sediment properties and the EMODnet broadscale seabed habitat map, are here read in and used to feed functions to provide a summary of the habitat affinities of individual named benthic species. Where habitat affinity data is available for that species from Biotic, this is included too.
+
+First, load required packages:
+```{r, message = FALSE}
+library(tidyverse)
+library(ggridges)
+library(worrms)
+library(ggtext)
+library(patchwork)
+```
+
+Now, load the datasets (column types are fully specified for benth_events to avoid parsing errors):
+```{r, message = FALSE}
+benth_events <- read_csv(here::here(
+            "data", "derived_data/benthic_abundance_sampling_events_seabed_habs.csv"),
+            col_types = cols(
+              datasetid = col_double(),
+              datecollected = col_datetime(format = ""),
+              decimallongitude = col_double(),
+              decimallatitude = col_double(),
+              minimumdepthinmeters = col_double(),
+              sampid = col_double(),
+              eventNummer = col_double(),
+              MudPercent = col_double(),
+              SandPercent = col_double(),
+              GravelPercent = col_double(),
+              TotalD50 = col_double(),
+              SandD50 = col_double(),
+              GravelD50 = col_double(),
+              Rock10cm = col_double(),
+              Rock50cm = col_double(),
+              log_D50 = col_double(),
+              Biozone = col_character(),
+              Energy = col_character(),
+              Substrate = col_character(),
+              Salinity = col_character(),
+              Oxygen = col_character(),
+              EUNIScomb = col_character(),
+              EUNIScombD = col_character(),
+              Allcomb = col_character(),
+              AllcombD = col_character(),
+              SalcombD = col_character(),
+              MSFD_BBHT = col_character()
+            ))
+benth_abundances <- read_csv(here::here(
+  "data", "derived_data/benthic_abundances_long.csv"))
+benth_taxa <- read_csv(here::here(
+  "data", "derived_data/benthic_taxa.csv"))
+benth_substrate_prefs <- read_csv(here::here(
+  "data", "derived_data/benthic_species_substratum_prefs.csv"))
+benth_substrate_key <- read_csv(here::here(
+  "data", "derived_data/substrate_values_key.csv"))
+```
+
+
+## Getting habitat summaries for a single species
+
+This code loads a function which takes a species Aphia ID and returns basic summary information about the benthic habitats that it has been recorded in (from the EMODnet numerical abundance product). For continuous variables (e.g. 'Percent Mud') the function returns the arithmetic mean value of the variable from all sampling events the species was recorded in, weighted by its abundance in each event. For categorical variables (e.g. 'Substrate') the function returns the relative frequency of occurrence in each catgory (again weighted by abundance). Finally, the function checks if the species is one of those occurring in our Biotic substrate dataset, and adds relevant information about its recorded habitat preferences if so.
+
+```{r}
+source(here::here("scripts", "get_species_habitats.R"))
+```
+
+An example of running for one species:
+```{r}
+get_species_habitats(103228)
+```
+
+## Getting habitat summaries for all
+This simply runs the above function over all species:
+```{r, message = FALSE}
+sp_habitat_summaries <- benth_taxa %>%
+  mutate(aphia = AphiaID) %>% 
+  group_by(aphia) %>% 
+  group_modify(~ get_species_habitats(sp_id = .$AphiaID)) %>% 
+  ungroup() %>% 
+  dplyr::select(-aphia)
+
+```
+To neaten up this output, gather together similar columns:
+```{r}
+sp_habitat_summaries <- sp_habitat_summaries %>%
+  dplyr::select(AphiaID:mean_ab, inf_epi,
+                TotalD50, log_D50, GravelD50, GravelPercent,
+                MudPercent:SandPercent,
+                starts_with("Energy"),
+                starts_with("Biozone"),
+                starts_with("Substrate"),
+                starts_with("Salinity"),
+                starts_with("EUNIS"),
+                starts_with("MSFD"),
+                everything())
+```
+
+For comparative purposes, it is also useful to have summaries of the distributions and frequencies of habitat types across all sampling events. This loads a function to do that:
+```{r}
+source(here::here("scripts", "get_event_habitats.R"))
+```
+
+So means / frequencies of different habitat types are:
+```{r}
+event_habitat_summaries <- get_event_habitats()
+```
+
+We can write these two data products to file:
+
+```{r}
+write_csv(sp_habitat_summaries,
+          here::here(
+            "product", "benthic_specicies_habitat_summaries.csv"))
+write_csv(event_habitat_summaries,
+          here::here("product", "benthic_sampling_event_habitat_summaries.csv"))
+```
+
+
+The final function here produces a series of summary plots for a given species:
+```{r}
+source(here::here("scripts", "plot_species_habitats.R"))
+```
+This requires a species Aphia ID (`sp_id`). Other arguments have sensible defaults. You can print the compiled plot to your device (set `print_plot = TRUE`) - though beware, this is unlikely to look good unless your graphics device window is large. You can also save the plot to file (set `save_plot = TRUE`) - this will create a subdirectory within the 'product' directory called species_hab_plots (if it does not already exist), and save a species plot as an A4 pdf file, with the filename starting with the species Aphia ID and ending with 'habitat_plot'. Try for one species:
+```{r}
+plot_species_habitats(sp_id = 103228, print_plot = TRUE, save_plot = TRUE)
+```
+  
+To create and save these composite plots for all species:
+
+```{r, eval = FALSE}
+invisible(
+  sp_habitat_summaries %>%
+    filter(total_occ > 20) %>% 
+    mutate(aphia = AphiaID) %>% 
+    group_by(aphia) %>%
+    group_map(~ plot_species_habitats(sp_id = .$AphiaID,
+                                      print_plot = FALSE,
+                                      save_plot = TRUE,
+                                      replace_plot = FALSE))
+)
+
+```
+
+## Reproducibility
+<details><summary>Reproducibility receipt</summary>
+```{r}
+## datetime
+Sys.time()
+## repository
+git2r::repository()
+## session info
+sessionInfo()
+```
+

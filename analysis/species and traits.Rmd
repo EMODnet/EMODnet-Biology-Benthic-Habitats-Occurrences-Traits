@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## A dataset of substrate preferences for European benthic invertebrates
 
-This document describes the steps taken to create a single dataset of substrate preferences for a selection of European benthic invertebrates, using data from MarLIN's BIOTIC database (http://www.marlin.ac.uk/biotic/), supplemented with taxonomic and species attribute data from WoRMS (http://www.marinespecies.org) and occurrence data from OBIS (https://obis.org).
+This document describes the steps taken to create a single dataset of substrate preferences for a selection of European benthic invertebrates, using data from MarLIN's [BIOTIC](http://www.marlin.ac.uk/biotic/) database, supplemented with taxonomic and species attribute data from [WoRMS](http://www.marinespecies.org) and occurrence data from [OBIS](https://obis.org).
 
 First step is to load required packages
 ```{r message = FALSE}

@@ -70,6 +70,11 @@ get_species_habitats <- function(sp_id,
     sp_summary <- sp_summary %>% bind_cols(habitat_trait_data)
   }
   
+  # get rid of wt_mean_val if present
+  if("wt_mean_val" %in% names(sp_summary)){
+    sp_summary <- sp_summary %>% dplyr::select(-wt_mean_val)
+  }
+  
   sp_summary
   
 }

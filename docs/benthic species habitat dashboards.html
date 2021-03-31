@@ -1,0 +1,271 @@
+---
+title: "benthic species-habitat dashboards"
+author: "Tom Webb"
+date: "16/03/2021"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+
+
+## Producing habitat summaries and visual dashboards for European marine benthic species
+
+The processed EMODnet benthic numerical abundance product files, now matched to sediment properties and the EMODnet broadscale seabed habitat map, are here read in and used to feed functions to provide a summary of the habitat affinities of individual named benthic species. Where habitat affinity data is available for that species from Biotic, this is included too.
+
+First, load required packages:
+
+```r
+library(tidyverse)
+library(ggridges)
+library(worrms)
+library(ggtext)
+library(patchwork)
+```
+
+Now, load the datasets (column types are fully specified for benth_events to avoid parsing errors):
+
+```r
+benth_events <- read_csv(here::here(
+            "data", "derived_data/benthic_abundance_sampling_events_seabed_habs.csv"),
+            col_types = cols(
+              datasetid = col_double(),
+              datecollected = col_datetime(format = ""),
+              decimallongitude = col_double(),
+              decimallatitude = col_double(),
+              minimumdepthinmeters = col_double(),
+              sampid = col_double(),
+              eventNummer = col_double(),
+              MudPercent = col_double(),
+              SandPercent = col_double(),
+              GravelPercent = col_double(),
+              TotalD50 = col_double(),
+              SandD50 = col_double(),
+              GravelD50 = col_double(),
+              Rock10cm = col_double(),
+              Rock50cm = col_double(),
+              log_D50 = col_double(),
+              Biozone = col_character(),
+              Energy = col_character(),
+              Substrate = col_character(),
+              Salinity = col_character(),
+              Oxygen = col_character(),
+              EUNIScomb = col_character(),
+              EUNIScombD = col_character(),
+              Allcomb = col_character(),
+              AllcombD = col_character(),
+              SalcombD = col_character(),
+              MSFD_BBHT = col_character()
+            ))
+benth_abundances <- read_csv(here::here(
+  "data", "derived_data/benthic_abundances_long.csv"))
+benth_taxa <- read_csv(here::here(
+  "data", "derived_data/benthic_taxa.csv"))
+benth_substrate_prefs <- read_csv(here::here(
+  "data", "derived_data/benthic_species_substratum_prefs.csv"))
+benth_substrate_key <- read_csv(here::here(
+  "data", "derived_data/substrate_values_key.csv"))
+```
+
+
+## Getting habitat summaries for a single species
+
+This code loads a function which takes a species Aphia ID and returns basic summary information about the benthic habitats that it has been recorded in (from the EMODnet numerical abundance product). For continuous variables (e.g. 'Percent Mud') the function returns the arithmetic mean value of the variable from all sampling events the species was recorded in, weighted by its abundance in each event. For categorical variables (e.g. 'Substrate') the function returns the relative frequency of occurrence in each catgory (again weighted by abundance). Finally, the function checks if the species is one of those occurring in our Biotic substrate dataset, and adds relevant information about its recorded habitat preferences if so.
+
+
+```r
+source(here::here("scripts", "get_species_habitats.R"))
+```
+
+An example of running for one species:
+
+```r
+get_species_habitats(103228)
+```
+
+```
+## # A tibble: 1 x 80
+##   AphiaID total_occ total_ab mean_ab GravelD50 GravelPercent log_D50 MudPercent Rock10cm Rock50cm
+##     <dbl>     <int>    <dbl>   <dbl>     <dbl>         <dbl>   <dbl>      <dbl>    <dbl>    <dbl>
+## 1  103228      3002  154156.    51.4      8.06          22.5  -0.208       3.03   0.0369   0.0967
+## # … with 70 more variables: SandD50 <dbl>, SandPercent <dbl>, TotalD50 <dbl>,
+## #   Energy_High energy <dbl>, Energy_Low energy <dbl>, Energy_Moderate energy <dbl>,
+## #   Energy_No energy information <dbl>, Energy_NA <dbl>, Biozone_Arctic mid bathyal <dbl>,
+## #   Biozone_Atlantic upper bathyal <dbl>, Biozone_Atlanto-Arctic upper bathyal <dbl>,
+## #   Biozone_Deep circalittoral <dbl>, Biozone_Infralittoral <dbl>,
+## #   Biozone_Shallow circalittoral <dbl>, Biozone_NA <dbl>, Substrate_Coarse substrate <dbl>,
+## #   Substrate_Fine mud <dbl>, Substrate_Mixed sediment <dbl>, Substrate_Muddy sand <dbl>,
+## #   Substrate_Rock or other hard substrata <dbl>, Substrate_Sand <dbl>, Substrate_Sandy mud <dbl>,
+## #   Substrate_Sandy mud or Muddy sand <dbl>, Substrate_Seabed <dbl>, Substrate_Sediment <dbl>,
+## #   Substrate_NA <dbl>, Salinity_NA <dbl>, Oxygen_NA <dbl>, EUNIScomb_A3.1 <dbl>,
+## #   EUNIScomb_A4.1 <dbl>, EUNIScomb_A4.2 <dbl>, EUNIScomb_A4.27 <dbl>, EUNIScomb_A4.3 <dbl>,
+## #   EUNIScomb_A5 <dbl>, EUNIScomb_A5.13 <dbl>, EUNIScomb_A5.14 <dbl>, EUNIScomb_A5.15 <dbl>,
+## #   EUNIScomb_A5.23 or A5.24 <dbl>, EUNIScomb_A5.25 or A5.26 <dbl>, EUNIScomb_A5.27 <dbl>,
+## #   EUNIScomb_A5.33 <dbl>, EUNIScomb_A5.35 <dbl>, EUNIScomb_A5.36 <dbl>, EUNIScomb_A5.37 <dbl>,
+## #   EUNIScomb_A5.43 <dbl>, EUNIScomb_A5.44 <dbl>, EUNIScomb_A5.45 <dbl>, EUNIScomb_A6 <dbl>,
+## #   EUNIScomb_A6.3 or A6.4 <dbl>, EUNIScomb_A6.5 <dbl>, EUNIScomb_Na <dbl>, EUNIScomb_NA <dbl>,
+## #   MSFD_BBHT_Circalittoral coarse sediment <dbl>, MSFD_BBHT_Circalittoral mixed sediment <dbl>,
+## #   MSFD_BBHT_Circalittoral mud <dbl>, MSFD_BBHT_Circalittoral rock and biogenic reef <dbl>,
+## #   MSFD_BBHT_Circalittoral sand <dbl>, MSFD_BBHT_Infralittoral coarse sediment <dbl>,
+## #   MSFD_BBHT_Infralittoral mixed sediment <dbl>, MSFD_BBHT_Infralittoral mud <dbl>,
+## #   MSFD_BBHT_Infralittoral rock and biogenic reef <dbl>, MSFD_BBHT_Infralittoral sand <dbl>,
+## #   MSFD_BBHT_Na <dbl>, MSFD_BBHT_Offshore circalittoral coarse sediment <dbl>,
+## #   MSFD_BBHT_Offshore circalittoral mixed sediment <dbl>,
+## #   MSFD_BBHT_Offshore circalittoral mud <dbl>,
+## #   MSFD_BBHT_Offshore circalittoral rock and biogenic reef <dbl>,
+## #   MSFD_BBHT_Offshore circalittoral sand <dbl>, MSFD_BBHT_Upper bathyal sediment <dbl>,
+## #   MSFD_BBHT_NA <dbl>
+```
+
+## Getting habitat summaries for all
+This simply runs the above function over all species:
+
+```r
+sp_habitat_summaries <- benth_taxa %>%
+  mutate(aphia = AphiaID) %>% 
+  group_by(aphia) %>% 
+  group_modify(~ get_species_habitats(sp_id = .$AphiaID)) %>% 
+  ungroup() %>% 
+  dplyr::select(-aphia)
+```
+To neaten up this output, gather together similar columns:
+
+```r
+sp_habitat_summaries <- sp_habitat_summaries %>%
+  dplyr::select(AphiaID:mean_ab, inf_epi,
+                TotalD50, log_D50, GravelD50, GravelPercent,
+                MudPercent:SandPercent,
+                starts_with("Energy"),
+                starts_with("Biozone"),
+                starts_with("Substrate"),
+                starts_with("Salinity"),
+                starts_with("EUNIS"),
+                starts_with("MSFD"),
+                everything())
+```
+
+For comparative purposes, it is also useful to have summaries of the distributions and frequencies of habitat types across all sampling events. This loads a function to do that:
+
+```r
+source(here::here("scripts", "get_event_habitats.R"))
+```
+
+So means / frequencies of different habitat types are:
+
+```r
+event_habitat_summaries <- get_event_habitats()
+```
+
+We can write these two data products to file:
+
+
+```r
+write_csv(sp_habitat_summaries,
+          here::here(
+            "product", "benthic_specicies_habitat_summaries.csv"))
+write_csv(event_habitat_summaries,
+          here::here("product", "benthic_sampling_event_habitat_summaries.csv"))
+```
+
+
+The final function here produces a series of summary plots for a given species:
+
+```r
+source(here::here("scripts", "plot_species_habitats.R"))
+```
+This requires a species Aphia ID (`sp_id`). Other arguments have sensible defaults. You can print the compiled plot to your device (set `print_plot = TRUE`) - though beware, this is unlikely to look good unless your graphics device window is large. You can also save the plot to file (set `save_plot = TRUE`) - this will create a subdirectory within the 'product' directory called species_hab_plots (if it does not already exist), and save a species plot as an A4 pdf file, with the filename starting with the species Aphia ID and ending with 'habitat_plot'. Try for one species:
+
+```r
+plot_species_habitats(sp_id = 103228, print_plot = TRUE, save_plot = TRUE)
+```
+
+![plot of chunk unnamed-chunk-11](figure/unnamed-chunk-11-1.png)
+  
+To create and save these composite plots for all species:
+
+
+```r
+invisible(
+  sp_habitat_summaries %>%
+    filter(total_occ > 20) %>% 
+    mutate(aphia = AphiaID) %>% 
+    group_by(aphia) %>%
+    group_map(~ plot_species_habitats(sp_id = .$AphiaID,
+                                      print_plot = FALSE,
+                                      save_plot = TRUE,
+                                      replace_plot = FALSE))
+)
+```
+
+## Reproducibility
+<details><summary>Reproducibility receipt</summary>
+
+```r
+## datetime
+Sys.time()
+```
+
+```
+## [1] "2021-03-31 11:13:34 BST"
+```
+
+```r
+## repository
+git2r::repository()
+```
+
+```
+## Local:    master /Users/tom/Google Drive/emodnet habitats/EMODnet_occs_habs
+## Remote:   master @ origin (https://github.com/EMODnet/EMODnet-Biology-Benthic-Habitats-Occurrences-Traits.git)
+## Head:     [b9a27dc] 2021-03-31: Merge branch 'master' of https://github.com/EMODnet/EMODnet-Biology-Benthic-Habitats-Occurrences-Traits
+```
+
+```r
+## session info
+sessionInfo()
+```
+
+```
+## R version 3.6.2 (2019-12-12)
+## Platform: x86_64-apple-darwin15.6.0 (64-bit)
+## Running under: macOS Catalina 10.15.7
+## 
+## Matrix products: default
+## BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
+## LAPACK: /Library/Frameworks/R.framework/Versions/3.6/Resources/lib/libRlapack.dylib
+## 
+## locale:
+## [1] en_GB.UTF-8/en_GB.UTF-8/en_GB.UTF-8/C/en_GB.UTF-8/en_GB.UTF-8
+## 
+## attached base packages:
+## [1] stats     graphics  grDevices utils     datasets  methods   base     
+## 
+## other attached packages:
+##  [1] patchwork_1.0.0   ggtext_0.1.1      ggridges_0.5.3    here_0.1          robis_2.3.9      
+##  [6] concaveman_1.1.0  viridis_0.5.1     viridisLite_0.3.0 mapview_2.7.7     sf_0.9-7         
+## [11] raster_3.4-5      sp_1.4-5          worrms_0.4.0      forcats_0.4.0     stringr_1.4.0    
+## [16] dplyr_1.0.4       purrr_0.3.4       readr_1.3.1       tidyr_1.0.0       tibble_3.0.6     
+## [21] ggplot2_3.3.3     tidyverse_1.3.0  
+## 
+## loaded via a namespace (and not attached):
+##  [1] leafem_0.1.0       colorspace_1.4-1   ellipsis_0.3.1     class_7.3-15       rsconnect_0.8.16  
+##  [6] leaflet_2.0.3      rprojroot_1.3-2    satellite_1.0.2    markdown_1.1       base64enc_0.1-3   
+## [11] fs_1.3.1           gridtext_0.1.4     rstudioapi_0.13    httpcode_0.2.0     farver_2.0.3      
+## [16] audio_0.1-7        urltools_1.7.3     fansi_0.4.2        lubridate_1.7.4    xml2_1.3.2        
+## [21] codetools_0.2-16   knitr_1.31         jsonlite_1.7.2     packrat_0.5.0      broom_0.7.2       
+## [26] dbplyr_1.4.2       png_0.1-7          shiny_1.4.0        compiler_3.6.2     httr_1.4.2        
+## [31] backports_1.1.5    assertthat_0.2.1   fastmap_1.0.1      cli_2.3.1          later_1.0.0       
+## [36] beepr_1.3          htmltools_0.5.1.1  tools_3.6.2        gtable_0.3.0       glue_1.4.2        
+## [41] Rcpp_1.0.6         cellranger_1.1.0   vctrs_0.3.6        crul_0.9.0         crosstalk_1.0.0   
+## [46] xfun_0.21          rvest_0.3.5        mime_0.10          lifecycle_1.0.0    scales_1.1.0      
+## [51] hms_0.5.3          promises_1.1.0     mapedit_0.6.0      yaml_2.2.1         curl_4.3          
+## [56] gridExtra_2.3      triebeard_0.3.0    stringi_1.5.3      highr_0.8          e1071_1.7-4       
+## [61] rlang_0.4.10       pkgconfig_2.0.3    evaluate_0.14      lattice_0.20-38    labeling_0.3      
+## [66] htmlwidgets_1.5.1  tidyselect_1.1.0   plyr_1.8.6         magrittr_2.0.1     R6_2.5.0          
+## [71] generics_0.1.0     DBI_1.1.1          pillar_1.5.0       haven_2.2.0        withr_2.1.2       
+## [76] units_0.6-7        modelr_0.1.5       crayon_1.4.1       KernSmooth_2.23-16 utf8_1.1.4        
+## [81] rmarkdown_2.7      grid_3.6.2         readxl_1.3.1       git2r_0.26.1       reprex_0.3.0      
+## [86] digest_0.6.27      classInt_0.4-3     webshot_0.5.2      xtable_1.8-4       httpuv_1.5.2      
+## [91] stats4_3.6.2       munsell_0.5.0
+```
+

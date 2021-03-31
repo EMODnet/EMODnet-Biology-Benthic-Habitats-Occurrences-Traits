@@ -16,6 +16,9 @@ docs/*.html
 docs/*.docx
 docs/*.pdf
 
+# data files
+data/raw_data/EUSM2019_Substrate/
+
 # output files
 output/
 

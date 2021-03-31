@@ -48,9 +48,22 @@ substrate_values <- tibble(
   TRUE ~ substratum
 ))
 
+# useful to group these too - this is approximate and could be refined:
+substrate_values <- substrate_values %>%
+  mutate(substrate_group = case_when(
+    substratum_code %in%
+      c("Bedrock", "Large_VLarge_Boulders", "Small_Boulders", "Cobbles",
+        "Under_boulders", "Biogenic_reef", "Artificial", "Caves", "Overhangs",
+        "Rockpools", "Crevices") ~ "rock",
+    substratum_code %in% c("Fine_sand", "Coarse_sand", "Muddy_sand", "Gravel_sand", "Mud_grav_sand") ~ "sand",
+    substratum_code %in% c("Mud", "Clay", "Sand_grav_mud", "Sandy_mud", "Muddy_gravel", "Salt_marsh") ~ "mud",
+    substratum_code %in% c("Gravel_shingle", "Pebbles", "Mud_sand_gravel", "Mixed") ~ "coarse",
+    TRUE ~ substratum_code
+  ))
+
 # replace long values with abbreviated values in substratum dataframe
 substratum <- left_join(substratum, substrate_values, by = "substratum") %>% 
-  select(-substratum)
+  select(-c(substratum, substrate_group))
 
 # Get rid of uninformative records
 substratum <- substratum %>% filter(!(substratum_code %in% c("No_Info", "No_preference")))
@@ -255,3 +268,37 @@ substratum_full <- substratum_full %>% select(-c(adult, larva, plank_biotic)) %>
 write_csv(substratum_full, "data/derived_data/benthic_species_substratum_prefs.csv")
 # and the substrate values table
 write_csv(substrate_values, "data/derived_data/substrate_values_key.csv")
+
+
+# some summary stuff
+substratum_full %>% count(Class) %>% arrange(desc(n))
+substratum_full %>% count(Phylum) %>% arrange(desc(n))
+substratum_full %>% count(inf_epi)
+substratum_full %>% count(plank_larv)
+ggplot(substratum_full, aes(x = obis_records)) + geom_histogram()
+
+# add substrate groups
+substratum_group <- read_csv("data/raw_data/biotic/bioticSubstratum.csv")
+# replace long values with abbreviated values in substratum dataframe
+substratum_group <- left_join(substratum_group, substrate_values, by = "substratum") %>% 
+  select(-c(substratum, substratum_code))
+
+# Get rid of uninformative records and dulplicate rows
+substratum_group <- substratum_group %>%
+  filter(!(substrate_group %in% c("No_Info", "No_preference"))) %>% 
+  distinct()
+# create a column for each substrate group
+substratum_group_wide <- substratum_group %>% 
+  count(SpeciesName, substrate_group) %>%
+  pivot_wider(names_from = substrate_group, values_from = n)
+
+# create a version of substratum_full for this grouped substrate variable
+sub_group_full <- substratum_full %>% 
+  select(-c(Bedrock:Strandline)) %>% 
+  left_join(substratum_group_wide, by = c("biotic_SpeciesName" = "SpeciesName")) %>% 
+  rowwise() %>% 
+  mutate(n_habs = sum(!is.na(c_across(rock:Strandline)))) %>%
+  ungroup()
+
+# Export this derived dataset with substrate groups
+write_csv(sub_group_full, "data/derived_data/benthic_species_substratum_group_prefs.csv")

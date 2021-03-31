@@ -214,7 +214,7 @@ plot_species_habitats <- function(sp_id,
       scale_fill_manual(values = c("darkorange", "grey")) +
       ylab(element_blank()) +
       xlab(element_blank()) +
-      ggtitle("Gravel %)") +
+      ggtitle("Gravel %") +
       theme_ridges()
   } else {
     gravel_plot <- ggplot(filter(g_data, presence != "present"),

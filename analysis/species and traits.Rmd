@@ -3,8 +3,8 @@ title: "species and traits"
 author: "Tom Webb"
 date: "17/06/2020"
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -125,13 +125,17 @@ Now add functional group, using functional group matching function in `get_worms
 source(here::here("scripts", "get_worms_fgrp.R"))
 ```
 Then run it:
-```{r}
+```{r, eval = FALSE}
 spp_attr <- biotic_aphias_matched %>%
   mutate(aphia = AphiaID_accepted) %>% 
   group_by(AphiaID_accepted) %>% 
   group_map(~ get_worms_fgrp(AphiaID = .x$aphia)) %>% 
   bind_rows()
 ```
+```{r, echo = FALSE, message = FALSE}
+spp_attr <- read_csv(here::here("data", "derived_data/spp_attr.csv"))
+```
+
 Do a quick check of species with two adult classifications:
 ```{r}
 spp_attr %>% filter(!is.na(adult_2))
@@ -148,9 +152,9 @@ Or both polyp and adult:
 ```{r}
 spp_attr %>% filter(!is.na(polyp) & !is.na(adult))
 ```
-How many species have juvenile data?
+How many species (if any) have juvenile data?
 ```{r}
-spp_attr %>% filter(!is.na(juvenile))
+if("juvenile" %in% names(spp_attr)){spp_attr %>% filter(!is.na(juvenile))}
 ```
 Given this we can create a simplified version of just adult and larval functional group:
 ```{r}

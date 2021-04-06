@@ -6,7 +6,7 @@ Understanding the substrate and habitat preferences of marine benthic invertebra
 
 Data products built on EMODnet Biology data now allow us to robustly map the spatial occurrence of benthic species. Thanks to EMODnet Seabed Habitats we have a broadscale habitat classification map of European seas, which are related to biological composition in varied and often complex ways. There are as yet however no formal links between EurOBIS occurrence data and the Seabed Habitats map. Matching these two sources of data together allows us therefore to summarise the substrate types where a species is known to occur, as well as the species composition of different habitat types. It can help to refine and improve habitat maps (e.g. ‘species X occurs here so there must be rock here’); it can help in the quality control of occurrence records (e.g. ‘this location must be recorded imprecisely because species X is recorded but there is no rock here’); and it can also help to improve substrate preference information about individual species (e.g. ‘species X must also like mud because it frequently occurs there’).
 
-The aim of this project then is to link occurrences of benthic invertebrates from the [EMODnet benthic numerical abundance product](https://mda.vliz.be/directlink.php?fid=VLIZ_00000727_60196601e2e81.EMODnet) to two complementary seabed habitat products: the [EMODnet broadscale habitat map](http://gis.ices.dk/geonetwork/srv/eng/catalog.search#/metadata/01bf1f24-fdcd-4ee7-af8b-e62cf72fe2f9), and Wilson et al.'s (2018) [synthetic map of the north-west European Shelf sedimentary environment](https://doi.org/10.5194/essd-10-109-2018). We also process and incorporate qualitative information on the habitat and sediment preferences of species from the Biological Traits Information Catalogue [BIOTIC](http://www.marlin.ac.uk/biotic/ database). We present one example of application of this process (generating species-level summaries of substrate affinities), and provide all the necessary code generate the data to address the other types of question (e.g. to produce species lists for different habitat types).
+The aim of this project then is to link occurrences of benthic invertebrates from the [EMODnet benthic numerical abundance product](https://www.emodnet-biology.eu/data-catalog?module=dataset&dasid=6648) to two complementary seabed habitat products: the [EMODnet broadscale habitat map 2019](http://gis.ices.dk/geonetwork/srv/eng/catalog.search#/metadata/01bf1f24-fdcd-4ee7-af8b-e62cf72fe2f9) (Vasquez et al., 2020), and Wilson et al.'s (2018) [synthetic map of the north-west European Shelf sedimentary environment](https://doi.org/10.5194/essd-10-109-2018). We also process and incorporate qualitative information on the habitat and sediment preferences of species from the Biological Traits Information Catalogue [BIOTIC](http://www.marlin.ac.uk/biotic/) database. We present one example of application of this process (generating species-level summaries of substrate affinities), and provide all the necessary code generate the data to address the other types of question (e.g. to produce species lists for different habitat types).
 
 
 ## Directory structure
@@ -63,14 +63,38 @@ The data series used in these products are not easily obtained via WFS. The Biot
 ## Data Product
 
 The data product consists of two datasets, provided as csv files, and one synthetic figure per species:
-1. benthic_specicies_habitat_summaries.csv for each of 3287 taxa a single row with some basic summary data, all habitat information from BIOTIC, and summaries of all the derived habitat variables - means (weighted by abundance) for continuous variables, frequencies (weighted by abundance) for categorical variables. In all there are 147 variables per species. These are described in the associated metadata file, benthic_specicies_habitat_summaries_metadata.csv.
-2. benthic_sampling_event_habitat_summaries.csv contains similar information but averaged over all individual sampling events (1 row x 114 variables). Variables are named according to the same scheme described in benthic_specicies_habitat_summaries_metadata.csv.
-3. The subfolder species_hab_plots contains a composite plot illustrating habitat affinities for selected species. Code for generating these plots for all species occurring in more than 20 sampling events is provided in the benthic species habitat dashboards document, and all 1844 of these plots are provided as part of the full published product. Each plot has the filename strucure Aphia####_habitat_plot.pdf where #### is the Aphia ID of that taxon. Each plot is saved as an A4 pdf. The title of the plot gives the taxon scientific name and Aphia ID, the subtitle presents the number of sampling events in which the species occurs which have been matched to the different habitat variables. Habitat preference information from BIOTIC is also presented, if available.
+1. benthic_species_habitat_summaries.csv for each of 3287 taxa a single row with some basic summary data, all habitat information from BIOTIC, and summaries of all the derived habitat variables - means (weighted by abundance) for continuous variables, frequencies (weighted by abundance) for categorical variables. In all there are 147 variables per species. These are described in the associated metadata file, benthic_species_habitat_summaries_metadata.csv.
+2. benthic_sampling_event_habitat_summaries.csv contains similar information but averaged over all individual sampling events (1 row x 114 variables). Variables are named according to the same scheme described in benthic_species_habitat_summaries_metadata.csv.
+3. The subfolder species_hab_plots contains a composite plot illustrating habitat affinities for selected species. Code for generating these plots for all species occurring in more than 20 sampling events is provided in the benthic species habitat dashboards document, and all 1844 of these plots are provided as part of the full published product. Each plot has the filename structure Aphia####_habitat_plot.pdf where #### is the Aphia ID of that taxon. Each plot is saved as an A4 pdf. The title of the plot gives the taxon scientific name and Aphia ID, the subtitle presents the number of sampling events in which the species occurs which have been matched to the different habitat variables. Habitat preference information from BIOTIC is also presented, if available.
 
-...
+## More information:
 
-## Citation
+
+### References
+
+* Beauchard, O., Herman, P. M.J., Fernández-Bejarano, S. (2021). Data product numerical abundance of benthic macroinvertebrates in North Sea and Baltic Sea. Integrated data products created under the European Marine Observation Data Network (EMODnet) Biology project (EASME/EMFF/2017/1.3.1.2/02/SI2.789013), funded by the by the European Union under Regulation (EU) No 508/2014 of the European Parliament and of the Council of 15 May 2014 on the European Maritime and Fisheries Fund. Available from: https://www.emodnet-biology.eu/data-catalog?dasid=6648
+* MarLIN, 2006. BIOTIC - Biological Traits Information Catalogue. Marine Life Information Network. Plymouth: Marine Biological Association of the United Kingdom. Available from [www.marlin.ac.uk/biotic](http://www.marlin.ac.uk/biotic)  
+* Vasquez Mickael, Manca Eleonora, Inghilesi Roberto, Martin Simon, Agnesi Sabrina, Al Hamdani Zyad, Annunziatellis Aldo, Bekkby Trine, Pesch  Roland, Askew Natalie, Bentes Luis, Castle Lewis, Doncheva Valentina,  Drakopoulou Vivi, Gonçalves Jorge, Laamanen Leena, Lillis Helen,  Loukaidi Valia, McGrath Fergal, Mo Giulia, Monteiro Pedro, Muresan  Mihaela, O'Keeffe Eimear, Populus Jacques, Pinder Jordan, Ridgeway Amy,  Sakellariou Dimitris, Simboura Mika, Teaca Adrian, Tempera Fernando,  Todorova Valentina, Tunesi Leonardo, Virtanen Elina (2020).  EUSeaMap 2019, A European broad-scale seabed habitat map, technical report. EASME/EMFF/2018/1.3.1.8/Lot2/SI2.810241– EMODnet Thematic Lot n° 2 – Seabed Habitats. https://doi.org/10.13155/74782
+* Wilson et al. (2018) A synthetic map of the north-west European Shelf sedimentary environment for applications in marine science Earth Syst. Sci. Data, 10, 109–130 https://doi.org/10.5194/essd-10-109-2018 
+* WoRMS Editorial Board (2021). World Register of Marine Species. Available from http://www.marinespecies.org at VLIZ. Accessed 2021-04-01. doi:10.14284/170
+
+
+### Code and methodology
+
+Explained above.
+
+### Citation and download link
 
 Please cite this product as:
 *Tom J. Webb (2021) Benthic occurrences, habitat maps, and species traits. Integrated data products created under the European Marine Observation Data Network (EMODnet) Biology project (EASME/EMFF/2017/1.3.1.2/02/SI2.789013), funded by the by the European Union under Regulation (EU) No 508/2014 of the European Parliament and of the Council of 15 May 2014 on the European Maritime and Fisheries Fund*
+
+
+Available to download in: 
+
+https://www.emodnet-biology.eu/data-catalog?module=dataset&dasid=6620
+
+
+### Authors
+
+Tom J. Webb
 
